@@ -1,0 +1,47 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.563  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\valkur-vanilla-actions.blend"
+[io_pdx.updater] ERROR:  Failed during update check. (URL can't contain control characters. '/repos/STNH Team/io_pdx_mesh/releases' (found at least ' '))
+[io_pdx] INFO:  Running io_pdx_mesh from d:\blender\blender.exe ((5, 2, 2))
+[io_pdx] INFO:  C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\staged/gfx/models/units/infantry/valkur\valkur.mesh
+[io_pdx] INFO:  writing node 1/1 - valkurShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing skinning data -
+[io_pdx] INFO:  writing skeleton -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (9.3976 sec)
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\staged/gfx/models/units/infantry/valkur\valkur_shield.mesh
+[io_pdx] INFO:  writing node 1/1 - Valkur_shieldShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (1.0716 sec)
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\staged/gfx/models/units/infantry/valkur\valkur_shield_back.mesh
+[io_pdx] INFO:  writing node 1/1 - Valkur_shield_backShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (1.0057 sec)
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\staged/gfx/models/units/infantry/valkur\valkur_sword.mesh
+[io_pdx] INFO:  writing node 1/1 - Valkur_swordShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (0.4219 sec)
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\staged/gfx/models/units/infantry/valkur\valkur_sword_stowed.mesh
+[io_pdx] INFO:  writing node 1/1 - Valkur_sword_stowedShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (0.4918 sec)
+EQUIPMENT {'source_faces': 124741, 'body_faces': 104623, 'shield_faces': 14877, 'sword_faces': 5241, 'deleted_faces': 0, 'node_names': ['World_node_1', 'Left_hip_node_1', 'Front_hip_node_1', 'back_node_1', 'Left_hand_node_1', 'Right_hand_node_1']}
+00:37.782  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\body-without-equipment.png'
+00:38.125  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\equipment-idle.png'
+00:38.407  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_3744_0e752815bec2b4cf16289c5a82460e29.png.png"
+Info: Saved as "valkur-vanilla-equipment.blend"
+Unable to delete file
+Unable to delete file
+
+Blender quit

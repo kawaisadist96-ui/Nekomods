@@ -1,0 +1,51 @@
+﻿pdxmesh = {
+	name = "valkur_mesh"
+	file = "valkur.mesh"
+	scale = 0.06
+
+	animation = { id = "valkur_idle" type = "valkur_idle.anim" }
+	animation = { id = "valkur_move" type = "valkur_move.anim" }
+	animation = { id = "valkur_attack" type = "valkur_attack.anim" }
+	animation = { id = "valkur_defense" type = "valkur_defense.anim" }
+
+	meshsettings = {
+		name = "valkurShape"
+		index = 0
+		texture_diffuse = "valkur_diffuse.dds"
+		texture_normal = "valkur_normal.dds"
+		texture_specular = "valkur_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "valkur_entity"
+	pdxmesh = "valkur_mesh"
+	default_state = "idle"
+
+	state = { name = "idle" animation = "valkur_idle" looping = yes }
+	state = { name = "besiege" animation = "valkur_idle" }
+	state = { name = "spawn" animation = "valkur_idle" looping = no next_state = idle }
+	state = { name = "defeated" animation = "valkur_move" next_state = move_retreat }
+	state = { name = "disband" animation = "valkur_idle" looping = no }
+	state = { name = "gather" animation = "valkur_idle" }
+	state = { name = "move" animation = "valkur_move" animation_blend_time = 0.3 start_event = { node = root particle = "dust_trail_3" } }
+	state = { name = "move_attack" animation = "valkur_move" looping = no next_state = move_attack_continue animation_blend_time = 0.3 start_event = { node = root particle = "dust_trail_3" } }
+	state = { name = "move_attack_continue" animation = "valkur_move" start_event = { node = root particle = "dust_trail_3" } }
+	state = { name = "move_retreat" animation = "valkur_move" }
+	state = { name = "combat_won" animation = "valkur_idle" }
+	state = { name = "siege_won" animation = "valkur_idle" }
+	state = { name = "idle_sick" animation = "valkur_idle" }
+	state = { name = "move_sick" animation = "valkur_move" }
+	state = { name = "even_offensive_seq_1" animation = "valkur_attack" looping = yes }
+	state = { name = "even_defensive_seq_1" animation = "valkur_defense" looping = yes }
+	state = { name = "winlose_offensive_seq_1" animation = "valkur_attack" looping = yes }
+	state = { name = "winlose_defensive_seq_1" animation = "valkur_defense" looping = yes }
+	state = { name = "pursuit_offensive_seq_1" animation = "valkur_attack" looping = yes }
+	state = { name = "pursuit_defensive_seq_1" animation = "valkur_defense" looping = yes }
+	state = { name = "even_winlose_tx_offensive_1" animation = "valkur_attack" looping = no next_state = even_offensive_seq_1 }
+	state = { name = "winlose_even_tx_offensive_1" animation = "valkur_attack" looping = no next_state = even_offensive_seq_1 }
+	state = { name = "even_winlose_tx_defensive_1" animation = "valkur_defense" looping = no next_state = even_defensive_seq_1 }
+	state = { name = "winlose_even_tx_defensive_1" animation = "valkur_defense" looping = no next_state = even_defensive_seq_1 }
+}

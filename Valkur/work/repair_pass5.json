@@ -1,0 +1,895 @@
+{
+  "base": "valkur-rig-hip-thigh-pass4.blend",
+  "mixed_islands": 50,
+  "hand_seed_verts": 9767,
+  "weapon_verts_rewritten": 1468,
+  "body_leak_verts_rewritten": 3977,
+  "island_decisions_largest": [
+    {
+      "verts": 7525,
+      "hand_frac": 0.878,
+      "kind": "weapon",
+      "target": "Character1_RightHand",
+      "changed": 921
+    },
+    {
+      "verts": 7095,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 5939,
+      "hand_frac": 0.0,
+      "kind": "body",
+      "target": "nearest-body",
+      "changed": 979
+    },
+    {
+      "verts": 3557,
+      "hand_frac": 0.001,
+      "kind": "body",
+      "target": "nearest-body",
+      "changed": 768
+    },
+    {
+      "verts": 3510,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 3123,
+      "hand_frac": 0.0,
+      "kind": "body",
+      "target": "nearest-body",
+      "changed": 25
+    },
+    {
+      "verts": 2349,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 2159,
+      "hand_frac": 0.0,
+      "kind": "body",
+      "target": "nearest-body",
+      "changed": 309
+    },
+    {
+      "verts": 1862,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 1764,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 1656,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 1550,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 1448,
+      "hand_frac": 0.896,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 151
+    },
+    {
+      "verts": 1234,
+      "hand_frac": 1.0,
+      "kind": "weapon",
+      "target": "Character1_LeftHand",
+      "changed": 0
+    },
+    {
+      "verts": 1220,
+      "hand_frac": 0.02,
+      "kind": "body",
+      "target": "nearest-body",
+      "changed": 324
+    }
+  ],
+  "right_thigh_verts": 37854,
+  "shoulders": [
+    {
+      "side": "Left",
+      "verts": 7786,
+      "segment_cm": 10.817,
+      "elbow_cm": [
+        25.0,
+        5.0,
+        126.0
+      ]
+    },
+    {
+      "side": "Right",
+      "verts": 22788,
+      "segment_cm": 10.817,
+      "elbow_cm": [
+        -25.0,
+        4.0,
+        126.0
+      ]
+    }
+  ],
+  "attack_95": {
+    "frame": 95,
+    "probes": [
+      {
+        "edge": [
+          809011,
+          809035
+        ],
+        "rest_cm": 0.0625,
+        "posed_cm": 0.0508
+      },
+      {
+        "edge": [
+          672624,
+          672629
+        ],
+        "rest_cm": 0.0743,
+        "posed_cm": 0.0625
+      },
+      {
+        "edge": [
+          221522,
+          221525
+        ],
+        "rest_cm": 0.5615,
+        "posed_cm": 0.8961
+      },
+      {
+        "edge": [
+          1195206,
+          1295651
+        ],
+        "rest_cm": 0.4706,
+        "posed_cm": 0.4706
+      },
+      {
+        "edge": [
+          122507,
+          122508
+        ],
+        "rest_cm": 0.3383,
+        "posed_cm": 0.3383
+      },
+      {
+        "edge": [
+          1331753,
+          1331754
+        ],
+        "rest_cm": 0.1339,
+        "posed_cm": 0.1339
+      },
+      {
+        "edge": [
+          1396755,
+          1396756
+        ],
+        "rest_cm": 0.2696,
+        "posed_cm": 0.2696
+      }
+    ],
+    "still_over_4cm": 5758,
+    "worst": [
+      {
+        "edge": [
+          1258444,
+          1258445
+        ],
+        "rest_cm": 0.06,
+        "posed_cm": 19.732,
+        "a": {
+          "Character1_Hips": 0.4745098054409027,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.47843137383461
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1258444,
+          1258446
+        ],
+        "rest_cm": 0.085,
+        "posed_cm": 19.735,
+        "a": {
+          "Character1_Hips": 0.4745098054409027,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.47843137383461
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1258444,
+          1258449
+        ],
+        "rest_cm": 0.066,
+        "posed_cm": 19.681,
+        "a": {
+          "Character1_Hips": 0.4745098054409027,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.47843137383461
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251720,
+          1251730
+        ],
+        "rest_cm": 0.155,
+        "posed_cm": 19.626,
+        "a": {
+          "Character1_Hips": 0.47058823704719543,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.48235294222831726
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251720,
+          1251721
+        ],
+        "rest_cm": 0.13,
+        "posed_cm": 19.555,
+        "a": {
+          "Character1_Hips": 0.47058823704719543,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.48235294222831726
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251714,
+          1251720
+        ],
+        "rest_cm": 0.177,
+        "posed_cm": 19.514,
+        "a": {
+          "Character1_LeftHand": 1.0
+        },
+        "b": {
+          "Character1_Hips": 0.47058823704719543,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.48235294222831726
+        }
+      },
+      {
+        "edge": [
+          1251747,
+          1251748
+        ],
+        "rest_cm": 0.064,
+        "posed_cm": 19.389,
+        "a": {
+          "Character1_Hips": 0.46666666865348816,
+          "Character1_LeftForeArmRoll": 0.04313725605607033,
+          "Character1_LeftHand": 0.4901960790157318
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251716,
+          1251720
+        ],
+        "rest_cm": 0.113,
+        "posed_cm": 19.404,
+        "a": {
+          "Character1_LeftHand": 1.0
+        },
+        "b": {
+          "Character1_Hips": 0.47058823704719543,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.48235294222831726
+        }
+      },
+      {
+        "edge": [
+          1251749,
+          1258445
+        ],
+        "rest_cm": 0.073,
+        "posed_cm": 19.2,
+        "a": {
+          "Character1_Hips": 0.4627451002597809,
+          "Character1_LeftForeArmRoll": 0.04313725605607033,
+          "Character1_LeftHand": 0.4941176474094391
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251749,
+          1258446
+        ],
+        "rest_cm": 0.117,
+        "posed_cm": 19.204,
+        "a": {
+          "Character1_Hips": 0.4627451002597809,
+          "Character1_LeftForeArmRoll": 0.04313725605607033,
+          "Character1_LeftHand": 0.4941176474094391
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      },
+      {
+        "edge": [
+          1251748,
+          1251749
+        ],
+        "rest_cm": 0.113,
+        "posed_cm": 19.189,
+        "a": {
+          "Character1_LeftHand": 1.0
+        },
+        "b": {
+          "Character1_Hips": 0.4627451002597809,
+          "Character1_LeftForeArmRoll": 0.04313725605607033,
+          "Character1_LeftHand": 0.4941176474094391
+        }
+      },
+      {
+        "edge": [
+          1258443,
+          1258449
+        ],
+        "rest_cm": 0.106,
+        "posed_cm": 19.087,
+        "a": {
+          "Character1_Hips": 0.4588235318660736,
+          "Character1_LeftForeArmRoll": 0.0470588244497776,
+          "Character1_LeftHand": 0.4941176474094391
+        },
+        "b": {
+          "Character1_LeftHand": 1.0
+        }
+      }
+    ]
+  },
+  "walk_21": {
+    "frame": 21,
+    "probes": [
+      {
+        "edge": [
+          809011,
+          809035
+        ],
+        "rest_cm": 0.0625,
+        "posed_cm": 0.0714
+      },
+      {
+        "edge": [
+          672624,
+          672629
+        ],
+        "rest_cm": 0.0743,
+        "posed_cm": 0.0844
+      },
+      {
+        "edge": [
+          221522,
+          221525
+        ],
+        "rest_cm": 0.5615,
+        "posed_cm": 0.5797
+      },
+      {
+        "edge": [
+          1195206,
+          1295651
+        ],
+        "rest_cm": 0.4706,
+        "posed_cm": 0.4706
+      },
+      {
+        "edge": [
+          122507,
+          122508
+        ],
+        "rest_cm": 0.3383,
+        "posed_cm": 0.3383
+      },
+      {
+        "edge": [
+          1331753,
+          1331754
+        ],
+        "rest_cm": 0.1339,
+        "posed_cm": 0.1339
+      },
+      {
+        "edge": [
+          1396755,
+          1396756
+        ],
+        "rest_cm": 0.2696,
+        "posed_cm": 0.2696
+      }
+    ],
+    "still_over_4cm": 3472,
+    "worst": [
+      {
+        "edge": [
+          179027,
+          179033
+        ],
+        "rest_cm": 0.417,
+        "posed_cm": 9.082,
+        "a": {
+          "Character1_Hips": 0.9279242157936096,
+          "Character1_RightUpLeg": 0.07207580655813217
+        },
+        "b": {
+          "Character1_Hips": 0.01568627543747425,
+          "Character1_RightUpLeg": 0.9843137264251709
+        }
+      },
+      {
+        "edge": [
+          179030,
+          179031
+        ],
+        "rest_cm": 0.575,
+        "posed_cm": 9.19,
+        "a": {
+          "Character1_Hips": 0.8942046761512756,
+          "Character1_RightUpLeg": 0.10579533874988556
+        },
+        "b": {
+          "Character1_Hips": 0.003921568859368563,
+          "Character1_RightUpLeg": 0.9960784316062927
+        }
+      },
+      {
+        "edge": [
+          179026,
+          179027
+        ],
+        "rest_cm": 0.736,
+        "posed_cm": 9.325,
+        "a": {
+          "Character1_Hips": 0.03921568766236305,
+          "Character1_RightUpLeg": 0.9607843160629272
+        },
+        "b": {
+          "Character1_Hips": 0.9279242157936096,
+          "Character1_RightUpLeg": 0.07207580655813217
+        }
+      },
+      {
+        "edge": [
+          179022,
+          179023
+        ],
+        "rest_cm": 0.452,
+        "posed_cm": 8.959,
+        "a": {
+          "Character1_Hips": 0.9637573957443237,
+          "Character1_RightUpLeg": 0.03624257445335388
+        },
+        "b": {
+          "Character1_Hips": 0.06666667014360428,
+          "Character1_RightUpLeg": 0.9333333373069763
+        }
+      },
+      {
+        "edge": [
+          1184106,
+          1184107
+        ],
+        "rest_cm": 0.082,
+        "posed_cm": 8.432,
+        "a": {
+          "Character1_LeftArm": 1.0
+        },
+        "b": {
+          "Character1_Neck": 1.0
+        }
+      },
+      {
+        "edge": [
+          1184110,
+          1184112
+        ],
+        "rest_cm": 0.117,
+        "posed_cm": 8.436,
+        "a": {
+          "Character1_LeftArm": 1.0
+        },
+        "b": {
+          "Character1_Neck": 1.0
+        }
+      },
+      {
+        "edge": [
+          179029,
+          179031
+        ],
+        "rest_cm": 0.737,
+        "posed_cm": 9.053,
+        "a": {
+          "Character1_Hips": 0.9185450077056885,
+          "Character1_RightUpLeg": 0.08145500719547272
+        },
+        "b": {
+          "Character1_Hips": 0.003921568859368563,
+          "Character1_RightUpLeg": 0.9960784316062927
+        }
+      },
+      {
+        "edge": [
+          1184106,
+          1184108
+        ],
+        "rest_cm": 0.048,
+        "posed_cm": 8.36,
+        "a": {
+          "Character1_LeftArm": 1.0
+        },
+        "b": {
+          "Character1_Neck": 1.0
+        }
+      },
+      {
+        "edge": [
+          193421,
+          193422
+        ],
+        "rest_cm": 0.593,
+        "posed_cm": 8.893,
+        "a": {
+          "Character1_RightUpLeg": 1.0
+        },
+        "b": {
+          "Character1_RightUpLeg": 0.1579006314277649,
+          "Character1_Hips": 0.8420993685722351
+        }
+      },
+      {
+        "edge": [
+          1184110,
+          1184111
+        ],
+        "rest_cm": 0.104,
+        "posed_cm": 8.404,
+        "a": {
+          "Character1_LeftArm": 1.0
+        },
+        "b": {
+          "Character1_Neck": 1.0
+        }
+      },
+      {
+        "edge": [
+          179022,
+          179025
+        ],
+        "rest_cm": 0.539,
+        "posed_cm": 8.837,
+        "a": {
+          "Character1_Hips": 0.9637573957443237,
+          "Character1_RightUpLeg": 0.03624257445335388
+        },
+        "b": {
+          "Character1_Hips": 0.03921568766236305,
+          "Character1_RightUpLeg": 0.9607843160629272
+        }
+      },
+      {
+        "edge": [
+          193420,
+          193421
+        ],
+        "rest_cm": 0.491,
+        "posed_cm": 8.788,
+        "a": {
+          "Character1_RightUpLeg": 0.14233817160129547,
+          "Character1_Hips": 0.8576618432998657
+        },
+        "b": {
+          "Character1_RightUpLeg": 1.0
+        }
+      }
+    ]
+  },
+  "defense_95": {
+    "frame": 95,
+    "probes": [
+      {
+        "edge": [
+          809011,
+          809035
+        ],
+        "rest_cm": 0.0625,
+        "posed_cm": 0.0443
+      },
+      {
+        "edge": [
+          672624,
+          672629
+        ],
+        "rest_cm": 0.0743,
+        "posed_cm": 0.057
+      },
+      {
+        "edge": [
+          221522,
+          221525
+        ],
+        "rest_cm": 0.5615,
+        "posed_cm": 0.646
+      },
+      {
+        "edge": [
+          1195206,
+          1295651
+        ],
+        "rest_cm": 0.4706,
+        "posed_cm": 0.4706
+      },
+      {
+        "edge": [
+          122507,
+          122508
+        ],
+        "rest_cm": 0.3383,
+        "posed_cm": 0.3383
+      },
+      {
+        "edge": [
+          1331753,
+          1331754
+        ],
+        "rest_cm": 0.1339,
+        "posed_cm": 0.1339
+      },
+      {
+        "edge": [
+          1396755,
+          1396756
+        ],
+        "rest_cm": 0.2696,
+        "posed_cm": 0.2696
+      }
+    ],
+    "still_over_4cm": 10208,
+    "worst": [
+      {
+        "edge": [
+          613537,
+          673907
+        ],
+        "rest_cm": 0.035,
+        "posed_cm": 19.11,
+        "a": {
+          "Left_skirt_front_1": 0.45098039507865906,
+          "Left_skirt_front_2": 0.5490196347236633
+        },
+        "b": {
+          "Character1_Hips": 0.9973262548446655,
+          "Character1_LeftUpLeg": 0.0026737633161246777
+        }
+      },
+      {
+        "edge": [
+          673905,
+          673906
+        ],
+        "rest_cm": 0.067,
+        "posed_cm": 19.137,
+        "a": {
+          "Left_skirt_front_1": 0.4470588266849518,
+          "Left_skirt_front_2": 0.5529412031173706
+        },
+        "b": {
+          "Character1_Hips": 0.9968311786651611,
+          "Character1_LeftUpLeg": 0.003168834140524268
+        }
+      },
+      {
+        "edge": [
+          613493,
+          613507
+        ],
+        "rest_cm": 0.145,
+        "posed_cm": 19.207,
+        "a": {
+          "Character1_Hips": 0.9971100091934204,
+          "Character1_LeftUpLeg": 0.0028900152537971735
+        },
+        "b": {
+          "Left_skirt_front_1": 0.45490196347236633,
+          "Left_skirt_front_2": 0.545098066329956
+        }
+      },
+      {
+        "edge": [
+          613540,
+          613541
+        ],
+        "rest_cm": 0.307,
+        "posed_cm": 19.352,
+        "a": {
+          "Character1_Hips": 0.9954545497894287,
+          "Character1_LeftUpLeg": 0.004545433912426233
+        },
+        "b": {
+          "Left_skirt_front_1": 0.4431372582912445,
+          "Left_skirt_front_2": 0.5568627715110779
+        }
+      },
+      {
+        "edge": [
+          613537,
+          613538
+        ],
+        "rest_cm": 0.12,
+        "posed_cm": 19.163,
+        "a": {
+          "Left_skirt_front_1": 0.45098039507865906,
+          "Left_skirt_front_2": 0.5490196347236633
+        },
+        "b": {
+          "Character1_Hips": 0.9971619844436646,
+          "Character1_LeftUpLeg": 0.0028379950672388077
+        }
+      },
+      {
+        "edge": [
+          613493,
+          613508
+        ],
+        "rest_cm": 0.125,
+        "posed_cm": 19.165,
+        "a": {
+          "Character1_Hips": 0.9971100091934204,
+          "Character1_LeftUpLeg": 0.0028900152537971735
+        },
+        "b": {
+          "Left_skirt_front_1": 0.45098039507865906,
+          "Left_skirt_front_2": 0.5490196347236633
+        }
+      },
+      {
+        "edge": [
+          613540,
+          673905
+        ],
+        "rest_cm": 0.198,
+        "posed_cm": 19.236,
+        "a": {
+          "Character1_Hips": 0.9954545497894287,
+          "Character1_LeftUpLeg": 0.004545433912426233
+        },
+        "b": {
+          "Left_skirt_front_1": 0.4470588266849518,
+          "Left_skirt_front_2": 0.5529412031173706
+        }
+      },
+      {
+        "edge": [
+          613508,
+          613538
+        ],
+        "rest_cm": 0.119,
+        "posed_cm": 19.124,
+        "a": {
+          "Left_skirt_front_1": 0.45098039507865906,
+          "Left_skirt_front_2": 0.5490196347236633
+        },
+        "b": {
+          "Character1_Hips": 0.9971619844436646,
+          "Character1_LeftUpLeg": 0.0028379950672388077
+        }
+      },
+      {
+        "edge": [
+          613494,
+          613495
+        ],
+        "rest_cm": 0.218,
+        "posed_cm": 19.211,
+        "a": {
+          "Character1_Hips": 0.9976194500923157,
+          "Character1_LeftUpLeg": 0.0023805757518857718
+        },
+        "b": {
+          "Left_skirt_front_1": 0.46666666865348816,
+          "Left_skirt_front_2": 0.5333333611488342
+        }
+      },
+      {
+        "edge": [
+          613537,
+          673906
+        ],
+        "rest_cm": 0.089,
+        "posed_cm": 19.076,
+        "a": {
+          "Left_skirt_front_1": 0.45098039507865906,
+          "Left_skirt_front_2": 0.5490196347236633
+        },
+        "b": {
+          "Character1_Hips": 0.9968311786651611,
+          "Character1_LeftUpLeg": 0.003168834140524268
+        }
+      },
+      {
+        "edge": [
+          613487,
+          613541
+        ],
+        "rest_cm": 0.407,
+        "posed_cm": 19.381,
+        "a": {
+          "Character1_Hips": 0.9928470253944397,
+          "Character1_LeftUpLeg": 0.007152947131544352
+        },
+        "b": {
+          "Left_skirt_front_1": 0.4431372582912445,
+          "Left_skirt_front_2": 0.5568627715110779
+        }
+      },
+      {
+        "edge": [
+          613494,
+          613506
+        ],
+        "rest_cm": 0.356,
+        "posed_cm": 19.308,
+        "a": {
+          "Character1_Hips": 0.9976194500923157,
+          "Character1_LeftUpLeg": 0.0023805757518857718
+        },
+        "b": {
+          "Left_skirt_front_1": 0.4588235318660736,
+          "Left_skirt_front_2": 0.5411764979362488
+        }
+      }
+    ]
+  }
+}

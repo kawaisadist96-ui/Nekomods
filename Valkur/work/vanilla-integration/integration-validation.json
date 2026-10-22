@@ -1,0 +1,234 @@
+{
+  "clips": [
+    {
+      "id": "idle_base_animation",
+      "samples": 179,
+      "fps": 60.33707809448242,
+      "matrix_max_error": 6.103515625e-05,
+      "quaternion_min_adjacent_dot": 0.9999978457735722
+    },
+    {
+      "id": "idle_var1_animation",
+      "samples": 321,
+      "fps": 60.1875,
+      "matrix_max_error": 5.340576171875e-05,
+      "quaternion_min_adjacent_dot": 0.9998946981761885
+    },
+    {
+      "id": "besiege_animation",
+      "samples": 171,
+      "fps": 60.35293960571289,
+      "matrix_max_error": 3.4332275390625e-05,
+      "quaternion_min_adjacent_dot": 0.9780195827709365
+    },
+    {
+      "id": "spawn_animation",
+      "samples": 281,
+      "fps": 60.21428680419922,
+      "matrix_max_error": 5.340576171875e-05,
+      "quaternion_min_adjacent_dot": 0.9767899276444088
+    },
+    {
+      "id": "despawn_animation",
+      "samples": 209,
+      "fps": 60.28845977783203,
+      "matrix_max_error": 6.103515625e-05,
+      "quaternion_min_adjacent_dot": 0.9078261553723688
+    },
+    {
+      "id": "gathering_army_viking_animation",
+      "samples": 135,
+      "fps": 15.168539047241211,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.9920164905141918
+    },
+    {
+      "id": "gathering_army_animation",
+      "samples": 301,
+      "fps": 60.20000076293945,
+      "matrix_max_error": 3.814697265625e-05,
+      "quaternion_min_adjacent_dot": 0.9960731751797067
+    },
+    {
+      "id": "moving_standard_animation",
+      "samples": 81,
+      "fps": 60.75,
+      "matrix_max_error": 3.814697265625e-05,
+      "quaternion_min_adjacent_dot": 0.9926539588743921
+    },
+    {
+      "id": "moving_battle_animation",
+      "samples": 81,
+      "fps": 60.75,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.992654030573798
+    },
+    {
+      "id": "moving_retreat_animation",
+      "samples": 21,
+      "fps": 15.75,
+      "matrix_max_error": 4.1961669921875e-05,
+      "quaternion_min_adjacent_dot": 0.9676471516819068
+    },
+    {
+      "id": "victorious_combat_animation",
+      "samples": 421,
+      "fps": 60.14285659790039,
+      "matrix_max_error": 3.814697265625e-05,
+      "quaternion_min_adjacent_dot": 0.9900664490544812
+    },
+    {
+      "id": "victorious_siege_animation",
+      "samples": 461,
+      "fps": 60.130435943603516,
+      "matrix_max_error": 3.4332275390625e-05,
+      "quaternion_min_adjacent_dot": 0.9955667257327316
+    },
+    {
+      "id": "infantry_male_sick_moving",
+      "samples": 81,
+      "fps": 30.375,
+      "matrix_max_error": 5.340576171875e-05,
+      "quaternion_min_adjacent_dot": 0.9913642365331843
+    },
+    {
+      "id": "infantry_male_sick_idle",
+      "samples": 281,
+      "fps": 30.10714340209961,
+      "matrix_max_error": 7.62939453125e-05,
+      "quaternion_min_adjacent_dot": 0.9990045990465122
+    },
+    {
+      "id": "idle_tx_battle_axes_animation",
+      "samples": 151,
+      "fps": 60.400001525878906,
+      "matrix_max_error": 3.0517578125e-05,
+      "quaternion_min_adjacent_dot": 0.9889813221399107
+    },
+    {
+      "id": "idle_tx_battle_swords_animation",
+      "samples": 151,
+      "fps": 60.400001525878906,
+      "matrix_max_error": 3.0517578125e-05,
+      "quaternion_min_adjacent_dot": 0.992654030573798
+    },
+    {
+      "id": "even_offensive_seq_1_animation",
+      "samples": 155,
+      "fps": 30.194805145263672,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.8828096114929775
+    },
+    {
+      "id": "winlose_offensive_seq_1_animation",
+      "samples": 103,
+      "fps": 30.294116973876953,
+      "matrix_max_error": 6.866455078125e-05,
+      "quaternion_min_adjacent_dot": 0.7699819086808508
+    },
+    {
+      "id": "pursuit_offensive_seq_1_animation",
+      "samples": 126,
+      "fps": 30.239999771118164,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.8215820574334458
+    },
+    {
+      "id": "even_winlose_tx_offensive_1_animation",
+      "samples": 66,
+      "fps": 30.461538314819336,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.6214868061549973
+    },
+    {
+      "id": "winlose_even_tx_offensive_1_animation",
+      "samples": 61,
+      "fps": 30.5,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.7058482458298809
+    },
+    {
+      "id": "even_defensive_seq_1_animation",
+      "samples": 155,
+      "fps": 30.194805145263672,
+      "matrix_max_error": 4.0531158447265625e-05,
+      "quaternion_min_adjacent_dot": 0.8514679334669202
+    },
+    {
+      "id": "winlose_defensive_seq_1_animation",
+      "samples": 103,
+      "fps": 30.294116973876953,
+      "matrix_max_error": 4.100799560546875e-05,
+      "quaternion_min_adjacent_dot": 0.9576249440646326
+    },
+    {
+      "id": "pursuit_defensive_seq_1_animation",
+      "samples": 126,
+      "fps": 30.239999771118164,
+      "matrix_max_error": 2.47955322265625e-05,
+      "quaternion_min_adjacent_dot": 0.9789047081613015
+    },
+    {
+      "id": "even_winlose_tx_defensive_1_animation",
+      "samples": 66,
+      "fps": 30.461538314819336,
+      "matrix_max_error": 4.57763671875e-05,
+      "quaternion_min_adjacent_dot": 0.9725878344282842
+    },
+    {
+      "id": "winlose_even_tx_defensive_1_animation",
+      "samples": 61,
+      "fps": 30.5,
+      "matrix_max_error": 4.9591064453125e-05,
+      "quaternion_min_adjacent_dot": 0.9753234109186051
+    }
+  ],
+  "meshes": [
+    {
+      "file": "valkur.mesh",
+      "shape": "valkurShape",
+      "vertices": 117113,
+      "triangles": 152878,
+      "bones": 61
+    },
+    {
+      "file": "valkur_shield.mesh",
+      "shape": "Valkur_shieldShape",
+      "vertices": 12300,
+      "triangles": 19388,
+      "bones": 0
+    },
+    {
+      "file": "valkur_shield_back.mesh",
+      "shape": "Valkur_shield_backShape",
+      "vertices": 12300,
+      "triangles": 19388,
+      "bones": 0
+    },
+    {
+      "file": "valkur_sword.mesh",
+      "shape": "Valkur_swordShape",
+      "vertices": 5505,
+      "triangles": 7716,
+      "bones": 0
+    },
+    {
+      "file": "valkur_sword_stowed.mesh",
+      "shape": "Valkur_sword_stowedShape",
+      "vertices": 5505,
+      "triangles": 7716,
+      "bones": 0
+    }
+  ],
+  "attachment_nodes": [
+    "Left_hand_node_1",
+    "Left_hip_node_1",
+    "Right_hand_node_1",
+    "World_node_1",
+    "back_node_1",
+    "root"
+  ],
+  "animation_count": 26,
+  "total_samples": 4348,
+  "in_game_test": false
+}

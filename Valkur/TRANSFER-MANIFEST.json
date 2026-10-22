@@ -1,0 +1,2935 @@
+{
+  "files": [
+    {
+      "path": "build_rig.json",
+      "bytes": 32105,
+      "sha256": "8cd0744e124253f7ec98272a53c8139ea4f7998f2c9a0de62c7fcff8ff8d5b92"
+    },
+    {
+      "path": "build_tests.json",
+      "bytes": 2559,
+      "sha256": "a2294862a3179afd945d33db24333e648d7cdebb93c81051a5b76857e99746a4"
+    },
+    {
+      "path": "CURRENT-STATE.md",
+      "bytes": 1719,
+      "sha256": "3fefd398b7493bf733371fe312c9c4777aaf4ccb6b580d061ed2a4b5ef895b46"
+    },
+    {
+      "path": "CURSOR-DEVIR.md",
+      "bytes": 6623,
+      "sha256": "b6615017ff3cb9871fca121eabac5861d9dd555fee5afe476bc5c229f19cbd96"
+    },
+    {
+      "path": "diagnose_other.json",
+      "bytes": 10511,
+      "sha256": "6ce302786e0cef7075b9dba7b1035433a255e6a66ab78f9fe59d1ddaeaf96610"
+    },
+    {
+      "path": "diagnose_shoulders.json",
+      "bytes": 11434,
+      "sha256": "c059c7be76325ac17de818cc964711d2890e6ee93321dd8b043459dfd0393571"
+    },
+    {
+      "path": "diagnose_stretch.json",
+      "bytes": 9768,
+      "sha256": "b26c8184b22a92075aacfd9d22da7fe8635890d53ada927c3dcd15937b34e13a"
+    },
+    {
+      "path": "final_verify.json",
+      "bytes": 24044,
+      "sha256": "20eb6f536ac74094178cdca906be0292cea10419aae566463c0b6b926e5d4aeb"
+    },
+    {
+      "path": "load_native_actions.json",
+      "bytes": 27368,
+      "sha256": "71695377b82eb60dd2c04c27dce0b2343a3faab4ab3c9c54f2a0008588069f38"
+    },
+    {
+      "path": "native-reference-actions.blend",
+      "bytes": 1312909,
+      "sha256": "5a9d84f3a671c3eeb6f66d575c280f0b1fac8e38ddc601ec6ea83c80e0adc481"
+    },
+    {
+      "path": "rapor.html",
+      "bytes": 9425,
+      "sha256": "372b62542e52e36159c18d09d6f3bf52c5bbb983c950359d0db24a6c100e2910"
+    },
+    {
+      "path": "refine_weights.json",
+      "bytes": 775,
+      "sha256": "c7f52859a21eff4f6d1e3b766be9667aa89a0bbc649fd28c6e8289ae52ef7e67"
+    },
+    {
+      "path": "SHA256-manifest.csv",
+      "bytes": 4224,
+      "sha256": "08f4555cca015c776ac52c2b27b8c773fb22e4eddae9146dacc1a586c1b9f883"
+    },
+    {
+      "path": "valkur-rig-review.blend",
+      "bytes": 109578045,
+      "sha256": "726bac43fc7eca4c9033197dd083ddf392b1a31c9627584170e658d13d0f3767"
+    },
+    {
+      "path": "valkur-textured-preserved.blend",
+      "bytes": 102059846,
+      "sha256": "72243ea0a3e2d1e1af90ff677d14582129f5bd7be4cd1aea52a358f4d0ac749d"
+    },
+    {
+      "path": "renders/attack-185.png",
+      "bytes": 888579,
+      "sha256": "3cbef706c254fd2978460b1a7e55b17866644c3cea7b84fbe29c16b6bdf28caf"
+    },
+    {
+      "path": "renders/attack-95.png",
+      "bytes": 889080,
+      "sha256": "3b35ac50ebe0874c04f736ad82125a3a7028452ec6806e48aa8eb856b75784b4"
+    },
+    {
+      "path": "renders/defense-185.png",
+      "bytes": 885853,
+      "sha256": "de8fb24f56ee5feea1bfbe7c549bf5cea829586ec1df7e3bbaf45c0993480f97"
+    },
+    {
+      "path": "renders/defense-95.png",
+      "bytes": 891243,
+      "sha256": "67bc5e4b0d46b7d5d5c6f38a2e5ba25d8305199e3e46198b1187c529f52b0a81"
+    },
+    {
+      "path": "renders/idle-90.png",
+      "bytes": 910090,
+      "sha256": "9a0989501d015f294deaa3659b7ca96f3ae59acdb6e88b571188d1269f6d3990"
+    },
+    {
+      "path": "renders/rig-back.png",
+      "bytes": 1665682,
+      "sha256": "01e941441ea9e44742c419432fe0dde7b8ae991d0a64f2bfb650e5193d0f466a"
+    },
+    {
+      "path": "renders/rig-front.png",
+      "bytes": 1672779,
+      "sha256": "248fde42354cb5adbd5fe313acc25ca9d77c6c85e538caabe4facc23e66f5da5"
+    },
+    {
+      "path": "renders/rig-side.png",
+      "bytes": 1622516,
+      "sha256": "6beaf6d46d7402e35450a6e4e527877e7d4c193538635ccb2036de9e00c0e037"
+    },
+    {
+      "path": "renders/rig-three-quarter.png",
+      "bytes": 1691386,
+      "sha256": "0dd781171293138bbd501b15333a01604df7c199338c96a4310a3c1b26e1b348"
+    },
+    {
+      "path": "renders/run-13.png",
+      "bytes": 895282,
+      "sha256": "7e8f70d4b5e2cdb38e0882a153d680ed8b83e7ff0ec26c7c3ccf9c3967ea4d06"
+    },
+    {
+      "path": "renders/run-37.png",
+      "bytes": 901415,
+      "sha256": "2338f6b628ae494c0ce3709da093668e1c64bacca61fa60c11056605a4437dac"
+    },
+    {
+      "path": "renders/source-front.png",
+      "bytes": 1672359,
+      "sha256": "0adb4fe36f0bd3a5057cdd7199d164f8d6bcb02e8653ac5f0e34d110391c6e4b"
+    },
+    {
+      "path": "renders/walk-21.png",
+      "bytes": 896000,
+      "sha256": "ecccaedab7393ff7c49b0b9d4c3d6cf31e3f6c58e8aa02846294a883d1d7ea79"
+    },
+    {
+      "path": "renders/walk-61.png",
+      "bytes": 901210,
+      "sha256": "ee40e3781dfbff3b2f3e7ec6ccc9735048ded614aa28ca0e05e80cc6c98cc201"
+    },
+    {
+      "path": "reports/bone-hierarchy.txt",
+      "bytes": 2778,
+      "sha256": "642ed1d6c323563d5bb4e7f4e4d094432f9eb3240dbb93c2db44a6dd3043a492"
+    },
+    {
+      "path": "reports/final-preservation.json",
+      "bytes": 537,
+      "sha256": "94bc89eb4f47930935363b1a7c118dd65337d7a00a93e0363d5fb968326f7ce8"
+    },
+    {
+      "path": "reports/fitted-bone-hierarchy.txt",
+      "bytes": 2776,
+      "sha256": "262ad8f516d6ab4244e319eac514887b739b8ef130b779220999a7c93ee8a255"
+    },
+    {
+      "path": "reports/fitted-bones.json",
+      "bytes": 41426,
+      "sha256": "eaf78f39964ce9c04721c8e35769323b3b60de8dabd6556139132b466558885c"
+    },
+    {
+      "path": "reports/glb-full.json",
+      "bytes": 4904,
+      "sha256": "2498e52b918e37f29c1eddfe28742ead262fcea8f76ae4c031547b7509c12596"
+    },
+    {
+      "path": "reports/native-bones.json",
+      "bytes": 45117,
+      "sha256": "353c5ae65ab0c5959ba262148d028af047e9401eaa49a71abcd48b344765fcbd"
+    },
+    {
+      "path": "reports/shield-selected.json",
+      "bytes": 648,
+      "sha256": "50caeb86eab07e043ca1fc20b99afd6fe6616b9c0f77e1ba9a7a0f7fffdb9cf3"
+    },
+    {
+      "path": "reports/source.json",
+      "bytes": 3283,
+      "sha256": "d75e6a58306fd7f506c925e0540a8a40363502f88966b7a97a390101d129e6e5"
+    },
+    {
+      "path": "reports/texture-manifest.json",
+      "bytes": 450,
+      "sha256": "7ba9e00091eb048e339d49c3b6e46d3c4de9af7c02869c56b21dba62a30f6e86"
+    },
+    {
+      "path": "source/native-norse-bind.blend",
+      "bytes": 519886,
+      "sha256": "f3d5c81e58b1a3bfaf4375f6676af7e0140efbfb99b52189fed16d4537ed5d40"
+    },
+    {
+      "path": "source/valkur.glb",
+      "bytes": 59442056,
+      "sha256": "f6cf6292371b87252e4adefb7aec44f61657bc9e4677af70415b1c566e092d75"
+    },
+    {
+      "path": "source/textures/base-color.webp",
+      "bytes": 2792954,
+      "sha256": "797b4d43c102bdb6deb77aa4443bec2c0fe04f5e9e01341b73911b4d0f95a546"
+    },
+    {
+      "path": "source/textures/metallic-roughness.webp",
+      "bytes": 276340,
+      "sha256": "b19a46249ee7fb660e1dc4353a40593096883303b6db1f4b8e82cd1e456da5aa"
+    },
+    {
+      "path": "source/textures/normal.webp",
+      "bytes": 2153506,
+      "sha256": "e9ca8da17c022f8a249a04ea9eab8c2b8191ef4024921fe77e12e8435d350fd3"
+    },
+    {
+      "path": "work/attack-95-pass10.png",
+      "bytes": 1601938,
+      "sha256": "e433f53fde4090db7b8cc880d26e8cafb8ac0259265f0bd7d82274a014f1d232"
+    },
+    {
+      "path": "work/attack-95-pass5.png",
+      "bytes": 1596608,
+      "sha256": "a2e9d61120a342af91fe347ea7e983f79aac2c344ed579da35f476b24e4025f3"
+    },
+    {
+      "path": "work/attack-95-pass6.png",
+      "bytes": 1601486,
+      "sha256": "cfd0b52224705f633afc6a54d8edb09d76da67472481dd0886439c66752b63e5"
+    },
+    {
+      "path": "work/attack-95-pass7.png",
+      "bytes": 1599185,
+      "sha256": "9339c41f2d853e59bade09e04ba24ce0747b38ca75a8216af861676a854100ac"
+    },
+    {
+      "path": "work/attack-95-pass8.png",
+      "bytes": 1599821,
+      "sha256": "e741ccfe5fdabfc4d03146ef93566cab30c62a5bb12c72bbb88ca6420e941ca2"
+    },
+    {
+      "path": "work/attack-95-pass9.png",
+      "bytes": 1599631,
+      "sha256": "fabd6429a6bb9d52cc7716a190948118e689f1ff0779b5c00f66a340db849987"
+    },
+    {
+      "path": "work/bake_complete.py",
+      "bytes": 10049,
+      "sha256": "aab8be97d7d1f050a16505b229d9ca223e4f3ae8657375ef8bc1031c6fbd7b0f"
+    },
+    {
+      "path": "work/bake_detail_preview.py",
+      "bytes": 7542,
+      "sha256": "825c84e13dbde776d459a0c809eebcf6f4869a03e5b47bb8c9f15af90f73fc22"
+    },
+    {
+      "path": "work/bake_from_source.py",
+      "bytes": 8619,
+      "sha256": "65c5e6ddbbad021869575ded3f7466c981ff3f1080d2b6d2c59bc9c037dc682c"
+    },
+    {
+      "path": "work/bake_voxel_export.py",
+      "bytes": 6949,
+      "sha256": "77e9f7790fe1d4507233eac0e3560464d2e956a4395058bf7d142593cee7b19b"
+    },
+    {
+      "path": "work/bake_voxel_preview.py",
+      "bytes": 4893,
+      "sha256": "88203a3d17e28c8985cb318602599d3e376eda3408725fa6e024185828edcd92"
+    },
+    {
+      "path": "work/cluster_pass5.py",
+      "bytes": 2205,
+      "sha256": "0f558593f64800b974c60078d6062ab690812c6ac1e44b5b3b0137639f86163f"
+    },
+    {
+      "path": "work/cluster_pass7.py",
+      "bytes": 2144,
+      "sha256": "8938592779ca28fff2ed254ce1ea8908849b5a587b879d0680c6201af9c9448d"
+    },
+    {
+      "path": "work/cut_handle_scraps.py",
+      "bytes": 2648,
+      "sha256": "9182f457888cbc8607c8c91b5779731b2a360afba05a1d2e023b6220c2acf365"
+    },
+    {
+      "path": "work/cut_plates.py",
+      "bytes": 4797,
+      "sha256": "8fb75d7ba4d634c631de4a2b9d8e57d1bec6117fcb455abc2638933ca67c32b5"
+    },
+    {
+      "path": "work/cut_scraps.py",
+      "bytes": 3478,
+      "sha256": "7183e8ef66458d71d6b5f0d831723a3023961e04d25429f7e8fb915b3162d4d7"
+    },
+    {
+      "path": "work/diag_anim_eval.py",
+      "bytes": 2434,
+      "sha256": "22442e315dc07f0581fd7773f27d5b1acf634f529afd6aa0b1cdcbf9ebf24ac7"
+    },
+    {
+      "path": "work/diag_island.json",
+      "bytes": 5710,
+      "sha256": "bfa8633f0d213dd7fdf217e644b0c75cd51b2525c361143d070889336b00cf31"
+    },
+    {
+      "path": "work/diag_island.py",
+      "bytes": 10239,
+      "sha256": "b7b532ce24178956d0c91b7030a5e2e005c20b9072f86ce7be75a74f8128fe96"
+    },
+    {
+      "path": "work/diag_native_falloff.py",
+      "bytes": 1979,
+      "sha256": "9c4d2afba6467f7957acb16830123a7a7b093e912079af55073c7fc960fac2fb"
+    },
+    {
+      "path": "work/diag_residual.py",
+      "bytes": 2898,
+      "sha256": "d9765d8ce3b51a882c55a87a0752697a3007e754a931cdb57bf8857c27dc24fd"
+    },
+    {
+      "path": "work/diag_scene.json",
+      "bytes": 12394,
+      "sha256": "9515c06e703bcd76c2db2504780eaa443299eee432b0cfe6b1ed34e8e7a88ac3"
+    },
+    {
+      "path": "work/diag_scene.py",
+      "bytes": 7866,
+      "sha256": "4d007e9407996fca967c8043b5734e71ea74c937fdf4e1332bb9a46a21838181"
+    },
+    {
+      "path": "work/diag_shield_hand.py",
+      "bytes": 1815,
+      "sha256": "fce03cc06703352e3722f8e3c9b99809e28538037a39899fabe0cd8e01e62b29"
+    },
+    {
+      "path": "work/diag_walk.py",
+      "bytes": 2730,
+      "sha256": "9792d162bd8253bc3041cc5fe2962b9f0a61abdb672da8b4c4f477e3ee176231"
+    },
+    {
+      "path": "work/diag_walk_feet.py",
+      "bytes": 1405,
+      "sha256": "b56ae631dc2826fa320b3a3cb291f43235f6fbffe65d8e97e39f720bac53a643"
+    },
+    {
+      "path": "work/export_anims_only.py",
+      "bytes": 1243,
+      "sha256": "f8f19b9766c4e23d670dd7b59b5bd52e9ec1c0e0931f8dc6fc5c24d1b44c45b6"
+    },
+    {
+      "path": "work/export_baked_texture.py",
+      "bytes": 8627,
+      "sha256": "292014f0725aa1de7f4302754df0cec199d655ec54b48803799e61a4d11a5a49"
+    },
+    {
+      "path": "work/export_detail.py",
+      "bytes": 3437,
+      "sha256": "89a660951c704b7abc023fd885702964160b7dcf6a8cea7162eaa217281a914b"
+    },
+    {
+      "path": "work/export_gap.py",
+      "bytes": 1053,
+      "sha256": "907917fde43106c38d23cfd0452f53aef03d7e0d0392ef38cb48c7c1068488d2"
+    },
+    {
+      "path": "work/export_solid_bake.py",
+      "bytes": 8829,
+      "sha256": "d62e44bd5ac7f78c49a78d81d91a2a4a59e4f48f03019e6cbdc8ac8340aac173"
+    },
+    {
+      "path": "work/export_test_unit.py",
+      "bytes": 5187,
+      "sha256": "fade2fb732bcbd76193674bdeaa41a0c5239cc3daf5e010ecd14928128e63fcb"
+    },
+    {
+      "path": "work/export_uv_preserve.py",
+      "bytes": 7462,
+      "sha256": "ebf1db65504651d3836bad83fae5d81e3c2e8ed3ead46b36d0e8b20ce02bca5e"
+    },
+    {
+      "path": "work/export_walk.py",
+      "bytes": 881,
+      "sha256": "0caf7eeb57ce3067e94797cc1cd58573356b80c19ed97a7a62c8aa0d33a7f72a"
+    },
+    {
+      "path": "work/find_shield_gap.py",
+      "bytes": 1263,
+      "sha256": "de2783b0bdb4699c818595a843613d2cfea76539b2f09abd37e537451893d7b4"
+    },
+    {
+      "path": "work/find_shield_owners.py",
+      "bytes": 1242,
+      "sha256": "a56a07703e5acf8ada475dcf19b8ce131272e3db3dc14998526acb76419069b2"
+    },
+    {
+      "path": "work/fix_arms_hands_rightleg.py",
+      "bytes": 12928,
+      "sha256": "2cdc0617a5bbb75e3c56006332ae2164b7683bc2904a77749ce3550e99211708"
+    },
+    {
+      "path": "work/fix_hip_thigh.py",
+      "bytes": 8617,
+      "sha256": "299d63647774f177266753014acc95000dc163db6d2521ed69b1f3ae3af443a1"
+    },
+    {
+      "path": "work/fix_hip_thigh_pass2.py",
+      "bytes": 8266,
+      "sha256": "7f4e4baa1aa780c9bc3d51646da874f787039d10060bddd9a22c73f3e5ae75fa"
+    },
+    {
+      "path": "work/fix_hip_thigh_pass3.py",
+      "bytes": 7501,
+      "sha256": "35631a576c00ee041004e25c82f199566b30d2ca473b67cd84c6d408436891d5"
+    },
+    {
+      "path": "work/fix_pass6.py",
+      "bytes": 9587,
+      "sha256": "f9f2016651aa87fec864e92dbde7aa726967c7fbdbc4461f4dfb95f3fee15c29"
+    },
+    {
+      "path": "work/fix_pass8.py",
+      "bytes": 7386,
+      "sha256": "2410e48a95aca632bad0b1f456044fa3b9cc8b122201e0306e57401148002b01"
+    },
+    {
+      "path": "work/fix_pass9.py",
+      "bytes": 5258,
+      "sha256": "160f6b3fccab702548ace51ccca93864c3d4386463fbbf9ae69bfeff4f243266"
+    },
+    {
+      "path": "work/fix_skirt.py",
+      "bytes": 4494,
+      "sha256": "791f90f5b8303ca29202ea67c33802d67cfe42c24168f2f880fb56a7d41bf393"
+    },
+    {
+      "path": "work/fix_walk_kick.py",
+      "bytes": 2993,
+      "sha256": "c37f000b0e3d80c90ff663682c4f382e4740a1c420b4a080dff75d434694cd19"
+    },
+    {
+      "path": "work/hip-thigh-attack-95-after.png",
+      "bytes": 1438951,
+      "sha256": "c4d404b810e0e5c23d9bd714bde2fe903429c70092cc3bf6f1b84e5bde9e4bb3"
+    },
+    {
+      "path": "work/hip-thigh-attack-95-pass2.png",
+      "bytes": 1346867,
+      "sha256": "ef919001ed558db6c6a0977b66b4f64700ed07aa1d85283971403c4b3e9cd9ed"
+    },
+    {
+      "path": "work/hip-thigh-attack-95-pass3.png",
+      "bytes": 1497666,
+      "sha256": "f9d49c6c40c2e78d74638b3d21dd9db15e33270c097b105f4883f9ca2678e77b"
+    },
+    {
+      "path": "work/hip-thigh-attack-95-pass4.png",
+      "bytes": 1497475,
+      "sha256": "4a6293d262e013d5efd8a5021ab9519658e3600454f7b629235f806b4ac108b7"
+    },
+    {
+      "path": "work/hip_thigh_pass1.json",
+      "bytes": 2367,
+      "sha256": "cb5bd37af0831752692eb8621934aafa3237ec15211f06e00f4fbabdf905cdbf"
+    },
+    {
+      "path": "work/hip_thigh_pass2.json",
+      "bytes": 5092,
+      "sha256": "1fbdae92c6925b9f9debd58465e0282df44b88e12f573d2066e747c4cc73bd1c"
+    },
+    {
+      "path": "work/hip_thigh_pass3.json",
+      "bytes": 11989,
+      "sha256": "732734702ed41826bb5bb11343e372743c98235c1f1237e3f0e7adb0430324ec"
+    },
+    {
+      "path": "work/hip_thigh_pass4.json",
+      "bytes": 11981,
+      "sha256": "277b45b66df6e867868c22afa2b789d8f85194f88de78d4f320420de44a52d79"
+    },
+    {
+      "path": "work/hip_thigh_residual.json",
+      "bytes": 618,
+      "sha256": "ae36049b325d4fc107e820611db54df72f62633f9e16e1a48e2efaba3a4f2ebf"
+    },
+    {
+      "path": "work/island-attack-95.png",
+      "bytes": 1241719,
+      "sha256": "e37ac7158eb61219141659b451cfcc03b3aa0cc8fb7841506ea44164d1359385"
+    },
+    {
+      "path": "work/island-rest.png",
+      "bytes": 1388414,
+      "sha256": "8c67c22ac0a882b835bad74c8f06ab949ac06834a64d3551604c8f289d368a2a"
+    },
+    {
+      "path": "work/mark_plates.py",
+      "bytes": 2970,
+      "sha256": "7091b5c8c59742b872b647ca6da05c4e2082237008eb19cf165cc48abdecdd4e"
+    },
+    {
+      "path": "work/native_thigh_falloff.json",
+      "bytes": 974,
+      "sha256": "248323002210b59b50749346a0844966f2845ac8b2e9adecc22776609b1e6315"
+    },
+    {
+      "path": "work/pass5_clusters.json",
+      "bytes": 4632,
+      "sha256": "614d280c362b11d6eb4ceddac488bbfbf518c475ecfdc38d3459279756cf3b1b"
+    },
+    {
+      "path": "work/pass7_clusters.json",
+      "bytes": 4327,
+      "sha256": "eb92aee2d96b9777614da7552bbb179dbc0a18f294a1c2c95b96e26d548a557d"
+    },
+    {
+      "path": "work/preview_source.py",
+      "bytes": 2063,
+      "sha256": "ec743d61dc6081fd3df3b980a9914bca8fc0985e0a7b30f4e9c3057e5fd3eb8e"
+    },
+    {
+      "path": "work/render_arm.py",
+      "bytes": 1654,
+      "sha256": "5e4a7f3cdcd64314ba5f7be0f014e6660928224081b6a0241aa6b0cb2d04124a"
+    },
+    {
+      "path": "work/render_gap.py",
+      "bytes": 1649,
+      "sha256": "6e39f7c6af5b0075ff57dc3dffbb5f6517c9ed02598bbc4dd4fe0311f67c8108"
+    },
+    {
+      "path": "work/render_grip.py",
+      "bytes": 1603,
+      "sha256": "d7d089602cdaad5533d3e7eac27e98db65d13d6dc6269c3478ef27539fae82ee"
+    },
+    {
+      "path": "work/render_walk.py",
+      "bytes": 2078,
+      "sha256": "b6fa539afe8dc66a1011de1ce82942f3ec46c7605085c904cd49bd27ac72ffce"
+    },
+    {
+      "path": "work/repair_pass10.json",
+      "bytes": 1605,
+      "sha256": "d32ca4ae5a70f82a07e9f534a43af32e0bf3f261de52ef67e36b56de5cd04ace"
+    },
+    {
+      "path": "work/repair_pass5.json",
+      "bytes": 20112,
+      "sha256": "366d429de7f0fd0243ee31601956a670d19e8cad3c4698675cfc6e3abc1db287"
+    },
+    {
+      "path": "work/repair_pass6.json",
+      "bytes": 1185,
+      "sha256": "83cb9d57abf73e175e43203e52adfa1ddf84cb1f4e83629393d97661eededd3e"
+    },
+    {
+      "path": "work/repair_pass7.json",
+      "bytes": 678,
+      "sha256": "6cc093fa8afe279e9c982897a9da65718ef108db41bdd97b2641e0971fe5c7b6"
+    },
+    {
+      "path": "work/repair_pass8.json",
+      "bytes": 1658,
+      "sha256": "8cd11745a5ddfc0bcf0549e744182992f3eb0bf7a901d91ad22422fe29d61510"
+    },
+    {
+      "path": "work/repair_pass9.json",
+      "bytes": 1588,
+      "sha256": "f16f06368b91743b763f132a6f4d8db7d38bed69b23b12817d053a9c7d116a77"
+    },
+    {
+      "path": "work/valkur-bake.png",
+      "bytes": 4271717,
+      "sha256": "afd8b975959f5f3f6ea595b1254348bbae5c0aecfc615c242ab7c9974a27d884"
+    },
+    {
+      "path": "work/valkur-export-ready.blend",
+      "bytes": 11261357,
+      "sha256": "e2df94ce9f09fd544edb872904b77b75d757e644ce5d1ec8605154668034ffb4"
+    },
+    {
+      "path": "work/valkur-gap-cut.blend",
+      "bytes": 10905090,
+      "sha256": "90ba3b007ba70abb43d6fb77ea4cf84a8810534e73dee81d2c5f3ec89a20bafa"
+    },
+    {
+      "path": "work/valkur-gap-cut.blend1",
+      "bytes": 10969524,
+      "sha256": "44d0c0c736bea4d058e582e4aeea9f7a1ed47b2cb1bb29f77f8550365fd90814"
+    },
+    {
+      "path": "work/valkur-normal-bake.png",
+      "bytes": 5849340,
+      "sha256": "91f000e2c381d41bb0992535029dfdfce7ca71e5ec280d826902dde8b41b135f"
+    },
+    {
+      "path": "work/valkur-preview.png",
+      "bytes": 1412900,
+      "sha256": "cf944b603cad7dbb556aab308a31861cf6c91192c2d2a4939406c0c29de58f1f"
+    },
+    {
+      "path": "work/valkur-rig-hip-thigh-pass1.blend",
+      "bytes": 109585529,
+      "sha256": "b8059e659cbdb2dd9604e5b37b949bfe83666030460048afe25e615f779498b1"
+    },
+    {
+      "path": "work/valkur-rig-hip-thigh-pass2.blend",
+      "bytes": 109618962,
+      "sha256": "57fb5e222fc065d1f0f75629fa6979737e273f7fb35f1e12a884e8b29c8464ef"
+    },
+    {
+      "path": "work/valkur-rig-hip-thigh-pass3.blend",
+      "bytes": 109743765,
+      "sha256": "b1ab923fa3582de1ef8ded5f78db780a5fbc7a3e9bb37484d051d3593bbfe3da"
+    },
+    {
+      "path": "work/valkur-rig-hip-thigh-pass4.blend",
+      "bytes": 109757858,
+      "sha256": "e1fe550ddbe956cb6affb6feaf6680eb1904708b40d605971d28b14542f16791"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass10.blend",
+      "bytes": 110926854,
+      "sha256": "4b481038f89bab36f5b8454eeb74bd6713a90381f02cef7c742c925c08b9e8f5"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass5.blend",
+      "bytes": 109999234,
+      "sha256": "98a29fa1b26853b4327fa3465639f0a09562f0dfd3d16fc366d280aa988fd156"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass6.blend",
+      "bytes": 111608862,
+      "sha256": "1562018022b80a57251c9cd21a58b5723deecea15938d46da66cb9a99fcd0f15"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass7.blend",
+      "bytes": 110338270,
+      "sha256": "52a13dd34e30d4796bafbdc1f67863f4f626c8837b1320058647c505588807cf"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass8.blend",
+      "bytes": 110831294,
+      "sha256": "3e9971318b6d5f61616178af68818b572c2762450b605a3e8ff5648018e9fc65"
+    },
+    {
+      "path": "work/valkur-rig-repair-pass9.blend",
+      "bytes": 110834262,
+      "sha256": "fefa05abd06303f79e683fb99e1af118881bde3dbafaefd3b3dcf1cd3ce8a25e"
+    },
+    {
+      "path": "work/valkur-rig-work.blend",
+      "bytes": 109578045,
+      "sha256": "726bac43fc7eca4c9033197dd083ddf392b1a31c9627584170e658d13d0f3767"
+    },
+    {
+      "path": "work/valkur-source-preview.png",
+      "bytes": 1440671,
+      "sha256": "96921a2bf2b214091d255734d06bef3a5b44b01dd5fba51448b8612c0c4be21f"
+    },
+    {
+      "path": "work/valkur-walk-fix.blend",
+      "bytes": 11264708,
+      "sha256": "cdd532c31e3b8b0695ca061380cc8b8c5976e573114bdba6ccfe24a725311c88"
+    },
+    {
+      "path": "work/github-transfer/prepare.py",
+      "bytes": 1930,
+      "sha256": "0b117d9e9e5c9b988910acc43551b798d0737e2f66f7679bcddeaa18b36a4eb6"
+    },
+    {
+      "path": "work/recovery/attack61.log",
+      "bytes": 5014,
+      "sha256": "dc5814986bc33c14e98fa3f8a6c23e96f0e212f8ddef1d7dcbad1cfdc167297c"
+    },
+    {
+      "path": "work/recovery/attack61.py",
+      "bytes": 1065,
+      "sha256": "5fd704aa20dc637a71d9865c2970e22e4967b21c39acdb9732ae62db880f3216"
+    },
+    {
+      "path": "work/recovery/attack_edges.log",
+      "bytes": 4901,
+      "sha256": "2a559a3e3ea19eda06920a1728d2f8dad6bd440a84d697dfbf9a05e57dd1f61d"
+    },
+    {
+      "path": "work/recovery/attack_edges.py",
+      "bytes": 1064,
+      "sha256": "bb805f6383ffac50ccae52f2ec8632ecf498e530144c8dd10c22359f10f4f710"
+    },
+    {
+      "path": "work/recovery/audit.log",
+      "bytes": 4172,
+      "sha256": "8f0c5a3fccd15d8a9d930b3d14225b7c8fefdb2806be7bfe5ae3b75a062033c9"
+    },
+    {
+      "path": "work/recovery/audit_backup.py",
+      "bytes": 3021,
+      "sha256": "93a739e646c010a8ce58f627cbe0b3597614db0cd7e58c565229341cc10ef919"
+    },
+    {
+      "path": "work/recovery/backup-idle.png",
+      "bytes": 727580,
+      "sha256": "fafb30f7373e9655cbf5d59cbf866125231b0194d1793d354329cfa964ad5fe5"
+    },
+    {
+      "path": "work/recovery/backup-rest.png",
+      "bytes": 727560,
+      "sha256": "a5dfcbc96a64323b966fa855cc363fe044d1a8986f06f79c41542c34888acdaa"
+    },
+    {
+      "path": "work/recovery/backup-walk.png",
+      "bytes": 716049,
+      "sha256": "dbf15beef9e56bff53bcc21937f80c43d48f2f210958cdca61af2e444630e2bd"
+    },
+    {
+      "path": "work/recovery/candidate2-attack.png",
+      "bytes": 728569,
+      "sha256": "7ccab9b5c6979f2fc9ebd431cdafac834667c6fc100e6d2843a48b514813b0d7"
+    },
+    {
+      "path": "work/recovery/candidate2-defense.png",
+      "bytes": 745274,
+      "sha256": "886a2dbd173e090a833dcbe23aaa06dea64d489a80bd66194c0e7e60688f32b6"
+    },
+    {
+      "path": "work/recovery/candidate2-idle.png",
+      "bytes": 766184,
+      "sha256": "3d5d6502df99bc7a5df18f5bcc7100119ad10d044be23cc7aecf3561f47a2d1a"
+    },
+    {
+      "path": "work/recovery/candidate2-rest.png",
+      "bytes": 766017,
+      "sha256": "b9b6a11f84a4fc2cdfae89d442a28fd411f3a2baeb6d5ba0400760d96c33b5e4"
+    },
+    {
+      "path": "work/recovery/candidate2-walk.png",
+      "bytes": 749251,
+      "sha256": "c001da4e50350b7b6ce67b415db4222f3e847de121390676acc6c5f29c97af8c"
+    },
+    {
+      "path": "work/recovery/candidate3-attack.png",
+      "bytes": 727948,
+      "sha256": "7c97f13d296dbe5cbb8088720521750662ac69b4e5ae3defb37d1d631e9d5cd0"
+    },
+    {
+      "path": "work/recovery/candidate3-defense.png",
+      "bytes": 744786,
+      "sha256": "c93eebca39efe4081d9d48250d40b15f0948fd3238af7fd28654a6d0860f7082"
+    },
+    {
+      "path": "work/recovery/candidate3-idle.png",
+      "bytes": 765697,
+      "sha256": "af6cfb4214a6f5f07a1a626aae3854d490630d6aca290e79cb13dda96781730f"
+    },
+    {
+      "path": "work/recovery/candidate3-rest.png",
+      "bytes": 766017,
+      "sha256": "506fc31e1fe6ed02a7253b421ab9aad6e3eeb6f2582c88a066576ded3dd9f7df"
+    },
+    {
+      "path": "work/recovery/candidate3-walk.png",
+      "bytes": 752213,
+      "sha256": "d88902bbd66abf11f6353ad3de627e795b976d2bc8c05e91fd43bc84908def70"
+    },
+    {
+      "path": "work/recovery/candidate4-attack.png",
+      "bytes": 728194,
+      "sha256": "3232ce7b27d0bb0c147778b338f1cb25151222515890a4aaf8a1e61f559e7857"
+    },
+    {
+      "path": "work/recovery/candidate4-defense.png",
+      "bytes": 744991,
+      "sha256": "2012b12777a570d4a538d9315bad6a21cd016578776f6849b704f1780032600a"
+    },
+    {
+      "path": "work/recovery/candidate4-idle.png",
+      "bytes": 765849,
+      "sha256": "1c0829aa7f01d2d5175250e7c60d60455889a30036b648e2c1ab745296733691"
+    },
+    {
+      "path": "work/recovery/candidate4-rest.png",
+      "bytes": 766017,
+      "sha256": "62af512ec7a7a83feaf4da1863299e3ab91fa583073325a4405825e66ae10b8f"
+    },
+    {
+      "path": "work/recovery/candidate4-walk.png",
+      "bytes": 752398,
+      "sha256": "4e815a6740ce5b88a36fb805427ebf167d1dc1e00643186aaea399bbb5013bbd"
+    },
+    {
+      "path": "work/recovery/collar-attack-218.png",
+      "bytes": 749317,
+      "sha256": "3c9825be333c43ce70c859507fdf42c3674eb2f3008c95ecee4929fb671b7763"
+    },
+    {
+      "path": "work/recovery/collar-attack-95.png",
+      "bytes": 725442,
+      "sha256": "37a1c371a130ee8b898788ca7e69537441e1f205b84a829ad4a6e6c03726ea63"
+    },
+    {
+      "path": "work/recovery/collar-repair.json",
+      "bytes": 51257,
+      "sha256": "88be2b73ef5736378be8fa0c6ed1832c828f6db8d9bbb46540da7bb2ad9fcedc"
+    },
+    {
+      "path": "work/recovery/collar-repair.log",
+      "bytes": 1091,
+      "sha256": "7ee2e6fba7361af865d2db7cff350f867ee4398516949ef19c26b0b2c1ad12df"
+    },
+    {
+      "path": "work/recovery/collar-walk-20.png",
+      "bytes": 749127,
+      "sha256": "30537cfae30fc282680075293591c1325d6638969d38c03d0b57a704c011c6ac"
+    },
+    {
+      "path": "work/recovery/contact-repair-v2.json",
+      "bytes": 329,
+      "sha256": "da457a359ce17582b95bde91a11984fda0fbe438ed763d6491db9885ca4c285f"
+    },
+    {
+      "path": "work/recovery/contact-repair-v2.log",
+      "bytes": 1381,
+      "sha256": "b56f70d6abb742323c803077e423bf4a1ca537e8039995c9a5ddb064989564d8"
+    },
+    {
+      "path": "work/recovery/contact-repair-v3.json",
+      "bytes": 328,
+      "sha256": "db6afa8530a707ebdcfdf8267051e6d5c4b7660b922f742210f71ab49f62b288"
+    },
+    {
+      "path": "work/recovery/contact-repair-v3.log",
+      "bytes": 1380,
+      "sha256": "a8f9859755974239c2736a5bacc935a69c08f4c8379233cdf227a1ce1bbed701"
+    },
+    {
+      "path": "work/recovery/contact-repair.json",
+      "bytes": 328,
+      "sha256": "55aaa22990de32c961d2feff7948bec6141faf0b079358924d9f42b69233c55f"
+    },
+    {
+      "path": "work/recovery/contact-repair.log",
+      "bytes": 1376,
+      "sha256": "08d0beac4c8ec0f29cf6c1a4b9125af556f0b8e48fdfcae676d7d2bb306e85af"
+    },
+    {
+      "path": "work/recovery/contacts-attack.png",
+      "bytes": 725255,
+      "sha256": "07df31f2e955b526037f3b8d068ee215c29611484a5aff02a0af52a4b2b0df4f"
+    },
+    {
+      "path": "work/recovery/contacts-defense.png",
+      "bytes": 738540,
+      "sha256": "0ff1a75df773d2d812a074aae61e22fefcea4e118a68f6cf5b9a0430d86685f9"
+    },
+    {
+      "path": "work/recovery/contacts-walk.png",
+      "bytes": 749826,
+      "sha256": "2f8e8962c3ddaf2913f8287bd0f7d516b41945126d63509be472d27f39098ada"
+    },
+    {
+      "path": "work/recovery/contacts2-attack.png",
+      "bytes": 725259,
+      "sha256": "fa21a4cdd4f3d0c9c7a57bc681aa448ff221625a969281daf26b50f0cc061a28"
+    },
+    {
+      "path": "work/recovery/contacts2-defense.png",
+      "bytes": 738594,
+      "sha256": "0e47219a10ae1c5631f21d7f238aab1f2a5a97cd5195c7c01cb9096c49ded059"
+    },
+    {
+      "path": "work/recovery/contacts2-walk.png",
+      "bytes": 749893,
+      "sha256": "747746fc05289cde22d6af6a51044d8abe5477f53bcfa07314e0ac03ec114572"
+    },
+    {
+      "path": "work/recovery/contacts3-attack.png",
+      "bytes": 725258,
+      "sha256": "caac35b24e4685910f88cbd2bae4895c18066f151ae236e6c138940383ea1a8f"
+    },
+    {
+      "path": "work/recovery/contacts3-defense.png",
+      "bytes": 738504,
+      "sha256": "82c2ed3eb7cf51113e9d87e785bc0cb2cb578c48885b70f0fb2ac6cb3c8b1e51"
+    },
+    {
+      "path": "work/recovery/contacts3-walk.png",
+      "bytes": 749571,
+      "sha256": "f588c47871bb6ed9c6d0aa9df5833ccd67063989d4dd3da9e110d12733b39083"
+    },
+    {
+      "path": "work/recovery/deployment.json",
+      "bytes": 4876,
+      "sha256": "fea16d7b2883f85bbff4aaea87528307b7a433cd906d03eb881c33f931af9f22"
+    },
+    {
+      "path": "work/recovery/diagnose_limbs.py",
+      "bytes": 1573,
+      "sha256": "1a51449afd08d1bf9b3df5d11697d210b68e9908f990a22bb347b24955cbb9b3"
+    },
+    {
+      "path": "work/recovery/diagnose_torso.py",
+      "bytes": 1614,
+      "sha256": "f9dfa4e1a67eae4ade4b4ee4d2afe07039ba13acf9d6cb3b37de8f18c7b3b74e"
+    },
+    {
+      "path": "work/recovery/export-final.log",
+      "bytes": 1377,
+      "sha256": "53fccb4070c8cd86bfcb74bf3c699ca43bb501fa03334d18d2c0c6e0df4d5a5c"
+    },
+    {
+      "path": "work/recovery/export.log",
+      "bytes": 1883,
+      "sha256": "00f195ad17d110526c468a81de7bd9852687ca89c12eaef6bf05e6dcd39bed0f"
+    },
+    {
+      "path": "work/recovery/export_restored.py",
+      "bytes": 1395,
+      "sha256": "e87b44355fa91558b3493b8b18caf4d269f53f2e8b7d54e5936262219c1546d9"
+    },
+    {
+      "path": "work/recovery/final-attack.png",
+      "bytes": 728526,
+      "sha256": "27e164d4af979a2314a04864c7f3c897c8bdc1e2f4b9d7e9fe7770b50fb705ca"
+    },
+    {
+      "path": "work/recovery/final-defense.png",
+      "bytes": 744907,
+      "sha256": "888f3e087c29814fcbadb088b22b49a9c6d175476508737a332ebc61486ae6b8"
+    },
+    {
+      "path": "work/recovery/final-idle.png",
+      "bytes": 765769,
+      "sha256": "f2807ff51f94bd81332225850ac1c08ac7a1a4e14059ddcada8fe94edede9ee6"
+    },
+    {
+      "path": "work/recovery/final-rest.png",
+      "bytes": 766037,
+      "sha256": "0429a3f8be2d3ca4d9fd25b58189946f12887a81e6b0b513d5c530f46761c914"
+    },
+    {
+      "path": "work/recovery/final-walk.png",
+      "bytes": 753192,
+      "sha256": "401a7fe779b607d01e4e35d211a3360402ddf670f43bf3fce6310ff6c24c9945"
+    },
+    {
+      "path": "work/recovery/hand-color-samples.json",
+      "bytes": 337722,
+      "sha256": "801d12225bb64bfaeeb71b06cce3cf44c5ae7598dd53979726d0a2bbec96cb13"
+    },
+    {
+      "path": "work/recovery/hand-rest-back.png",
+      "bytes": 909781,
+      "sha256": "ac11ea405b2cd8bae91fce70cb98191752a87265980987b5014307bd19c3606a"
+    },
+    {
+      "path": "work/recovery/hand-rest-front.png",
+      "bytes": 942955,
+      "sha256": "be39a2dae590fd2bcb30a6d2c1ac0cedb1d8e0583808966265bdee68f8d17939"
+    },
+    {
+      "path": "work/recovery/hand-rest-side.png",
+      "bytes": 955276,
+      "sha256": "32f48888684c04d4a8ea2d5462d201080c6ef5f3578edbf4292dc5db1234f5c5"
+    },
+    {
+      "path": "work/recovery/index_records.py",
+      "bytes": 985,
+      "sha256": "db2a8ec7f4bd05b8205accb115a9ac3730c5fba2b818cea48ff4618f557fe24e"
+    },
+    {
+      "path": "work/recovery/initial-audit.json",
+      "bytes": 3330,
+      "sha256": "6b1c0ffc3d717d00908684964cd82837489a28a57d2e12c5081cb2243f4ecd10"
+    },
+    {
+      "path": "work/recovery/inspect-hand.log",
+      "bytes": 865,
+      "sha256": "3a75f18da136272bd36ecaa3a3b6b9e500192696a7c7a5ecff9591643839c0df"
+    },
+    {
+      "path": "work/recovery/inspect_hand.py",
+      "bytes": 906,
+      "sha256": "73fd34f6462ab5d7fa4df5f3b614e1ede573f1efc0cc68f9fab919f7e2d6498d"
+    },
+    {
+      "path": "work/recovery/install-restored-test.ps1",
+      "bytes": 2840,
+      "sha256": "6a71d781284982a804ecf46efe1fe533941c733f30f1f3ed8d7cdf34eb854d57"
+    },
+    {
+      "path": "work/recovery/limb-diagnosis.json",
+      "bytes": 44937,
+      "sha256": "51ddb66893241b8d00015909e62e5d0f6482a31df6e8c7cd90cbcf9949ea2d7c"
+    },
+    {
+      "path": "work/recovery/limb-diagnosis.log",
+      "bytes": 22725,
+      "sha256": "a00354fed7e35f5178bfd0a3537ef378c508eccbc99d9ea0237d03c2426fb394"
+    },
+    {
+      "path": "work/recovery/limb-repair.json",
+      "bytes": 91188,
+      "sha256": "4da70738415757b0d6facfa07ffc2ea6256b066153e676cb76435359559c7788"
+    },
+    {
+      "path": "work/recovery/limb-repair.log",
+      "bytes": 1108,
+      "sha256": "b62cc856bbf34363b8238376a468f51ac412cc531b750ab2dea792876e38cc75"
+    },
+    {
+      "path": "work/recovery/limbs-attack.png",
+      "bytes": 726812,
+      "sha256": "f7aa392b3ff22a3c9f24d9292c54a515a7cba413d3cfcc30bc8f8ac8baab6df5"
+    },
+    {
+      "path": "work/recovery/limbs-defense.png",
+      "bytes": 739134,
+      "sha256": "64d5b8f463825b64ba348714e9aba172b9f5f28cdfb2891726a0b5788bc02e08"
+    },
+    {
+      "path": "work/recovery/limbs-walk.png",
+      "bytes": 751608,
+      "sha256": "c0b915d35a4cc7c850127c62ef1784ef2eee8682cb53e5f62c5872c22311638c"
+    },
+    {
+      "path": "work/recovery/local-smooth.json",
+      "bytes": 111,
+      "sha256": "fa43e56d81b2a4701cb389df6d62b0a07553b94a33c7238ebaa8531fe0fd65f9"
+    },
+    {
+      "path": "work/recovery/optimize_export_copy.py",
+      "bytes": 855,
+      "sha256": "8d19fd0a63cf1fcdfedd80dfc88bcf8597584abfa546a2a625d47817aec69cbd"
+    },
+    {
+      "path": "work/recovery/plane.log",
+      "bytes": 1175,
+      "sha256": "7ef5670efa2ea95ab4a9945bea12db08d4ba05088744037dba9da0b9a88298fa"
+    },
+    {
+      "path": "work/recovery/plane.py",
+      "bytes": 780,
+      "sha256": "8262e1426ce026ebf8df4c362df19fe1b0d9a8743704bc236a4b0286f8ba6b2f"
+    },
+    {
+      "path": "work/recovery/records-index.json",
+      "bytes": 22209,
+      "sha256": "6bcee60b40a54a39dfd52d3924f0d5daa44315199eecbc48d56cc20b3b2c98c2"
+    },
+    {
+      "path": "work/recovery/region.log",
+      "bytes": 3957,
+      "sha256": "93ccdddcffc169204f184b0be392259df31f4c0e3d92c65c5adc1e27a03bd7b2"
+    },
+    {
+      "path": "work/recovery/region.py",
+      "bytes": 839,
+      "sha256": "11c8e0c7b24f40115426ff1f8cfc1f3450faede89d8799cce69b0ce1af6ab5c3"
+    },
+    {
+      "path": "work/recovery/repair_collar.py",
+      "bytes": 1835,
+      "sha256": "fd621d0cd961c68fcf069502365bbb623d2b321f8505bd0f9b50402648c8dcef"
+    },
+    {
+      "path": "work/recovery/repair_limb_regions.py",
+      "bytes": 2762,
+      "sha256": "a87d61670781ccf53a6731c966cd41bfe6ebac4bda31de0448acbd124040147f"
+    },
+    {
+      "path": "work/recovery/repair_torso.py",
+      "bytes": 1932,
+      "sha256": "d1045f170b19dbe28100272ec2f697de41aa74fdbda362c841d6c2a5cf9836f3"
+    },
+    {
+      "path": "work/recovery/RESTORATION-NOTES.md",
+      "bytes": 8570,
+      "sha256": "1b2ff499db3b9bcc42a47e87e4e522f57946dc7debfcfd6b68098dd755f151a0"
+    },
+    {
+      "path": "work/recovery/restoration.json",
+      "bytes": 162,
+      "sha256": "b878726809534915a92cd5780f84b5d710d06426d3c64c56eb908b7e7edc6499"
+    },
+    {
+      "path": "work/recovery/restore.log",
+      "bytes": 1355,
+      "sha256": "7608c8e016709b48a2264423475d13b47492e1655e6a727eaa8d39e89068b432"
+    },
+    {
+      "path": "work/recovery/restored-attack.png",
+      "bytes": 728316,
+      "sha256": "aadc9f08295458d67654afc8962b5fc3d14deaf91e65dadb5bb13239da678e2a"
+    },
+    {
+      "path": "work/recovery/restored-defense.png",
+      "bytes": 745076,
+      "sha256": "1bb5195bc5a5df57e93f4d531faf469617baf045af1691691b37b27d2697a488"
+    },
+    {
+      "path": "work/recovery/restored-idle.png",
+      "bytes": 765814,
+      "sha256": "58244865472aad2efe9445f0ca8c5209af889a05f5af14ac9513e0aef18e2f5e"
+    },
+    {
+      "path": "work/recovery/restored-rest.png",
+      "bytes": 766017,
+      "sha256": "dec9efa529a625488a4059a1ea32fd0781faad77dfc90c3427da0e97d2618072"
+    },
+    {
+      "path": "work/recovery/restored-walk.png",
+      "bytes": 752884,
+      "sha256": "4aed607f08be91f682eeef2b81d18b33624a13d744afcc3d7becbba6ad22e0f9"
+    },
+    {
+      "path": "work/recovery/restore_split.py",
+      "bytes": 3415,
+      "sha256": "2430c2e975263ac75b02139fa8f7a1884d81281373287ca4b63ac56785489161"
+    },
+    {
+      "path": "work/recovery/restore_split2.py",
+      "bytes": 3440,
+      "sha256": "e0d297205c5aa5af3e691304018d0fe69fe849e60c022470fb31cc704ee6c420"
+    },
+    {
+      "path": "work/recovery/restore_split3.py",
+      "bytes": 3648,
+      "sha256": "c7f7d757eaf0036f6d3a3b1ed4e5514f941f9d6b72dba3a79a76370a4d6eec40"
+    },
+    {
+      "path": "work/recovery/restore_v2.py",
+      "bytes": 4136,
+      "sha256": "408051c90f73fcf42666f897e42d48731a6697e1783e48ea17bf833c1b007688"
+    },
+    {
+      "path": "work/recovery/restore_v3.py",
+      "bytes": 4139,
+      "sha256": "3e483773e91fa94559dd8115c10661b39691a077d52ed6c346e2682588704e94"
+    },
+    {
+      "path": "work/recovery/restore_v4.py",
+      "bytes": 4138,
+      "sha256": "374625a04ac823d2f95c4d38b5d95534066fb0d1183d556bfd4fd632904f0591"
+    },
+    {
+      "path": "work/recovery/restore_weights.py",
+      "bytes": 3795,
+      "sha256": "4bdd4939016ce1ee7651298f4649518446e39550502a402b50c6518cef69bd81"
+    },
+    {
+      "path": "work/recovery/review-back.png",
+      "bytes": 673578,
+      "sha256": "a3f95b1d266858ed4484403f4f07ccab6b108b2885f373cf2691e89e94c09631"
+    },
+    {
+      "path": "work/recovery/review-front.png",
+      "bytes": 720917,
+      "sha256": "1bcaddb2964b1caae40e07b79f737bd1736e0dc329e4a9f4ee48bc0cacf6508c"
+    },
+    {
+      "path": "work/recovery/review-side.png",
+      "bytes": 679878,
+      "sha256": "4792f46f94f8d9b4329dd47573bfc49d8a63ba71ea2a62e5ceaef751e6fdea21"
+    },
+    {
+      "path": "work/recovery/review.log",
+      "bytes": 859,
+      "sha256": "fd28901051b734bd4b7759f65e2f30d5dc587db690c88c8afec8a38ad603c874"
+    },
+    {
+      "path": "work/recovery/review_views.py",
+      "bytes": 596,
+      "sha256": "8a36dc06ce9afa786bec1420c3e93ea5cf8fbeff96a53feca090bcc1ee6b9957"
+    },
+    {
+      "path": "work/recovery/roundtrip.json",
+      "bytes": 571,
+      "sha256": "fe8e95d7f98cc11f98ae31a48078dc77586ce10c99dc6abad5309d2c52e971b3"
+    },
+    {
+      "path": "work/recovery/roundtrip.log",
+      "bytes": 1662,
+      "sha256": "124bf75c776a3292b94449ee2eeb41fc411974b3acf6db55ff07fcb6469d8413"
+    },
+    {
+      "path": "work/recovery/roundtrip.py",
+      "bytes": 2976,
+      "sha256": "6461f062a8f4f4841f4510587e8cf2dedfe617538a06d6f1b4d2eb236f4e833c"
+    },
+    {
+      "path": "work/recovery/sample-hand-colors.log",
+      "bytes": 1095,
+      "sha256": "593d01a217dd63090400ac68e8c2643f309f1e4af19ade027138beb272f33938"
+    },
+    {
+      "path": "work/recovery/sample_hand_colors.py",
+      "bytes": 884,
+      "sha256": "afdfef846bdb2014541cdbdc69de4d35b53800e3e01e3b17859e785de5a4895a"
+    },
+    {
+      "path": "work/recovery/separate_limb_contacts.py",
+      "bytes": 4601,
+      "sha256": "b82815b759a0fbcbb01f99dcf6199657a97a98fa807b028d6636b7ab788f46d7"
+    },
+    {
+      "path": "work/recovery/separate_limb_contacts_v1.py",
+      "bytes": 4393,
+      "sha256": "23a7c5d92cb7fe2587f5ce7588a80d87fc1995d1b985daac5b4de9f1a581f4f5"
+    },
+    {
+      "path": "work/recovery/separate_limb_contacts_v2.py",
+      "bytes": 4460,
+      "sha256": "e0f6bc80f66f85dfba5cb4bd02c3e05045b5405f0d37500cefb79774ecc0e0f1"
+    },
+    {
+      "path": "work/recovery/smooth.log",
+      "bytes": 1371,
+      "sha256": "a399841644bf55dc80fded6e4a72f3de522cd19e4b3197923b9f40a869007183"
+    },
+    {
+      "path": "work/recovery/smooth_side.py",
+      "bytes": 2221,
+      "sha256": "dd978e84320a3130473ede1d074021248a77420fafc4b004caf10c47c572840b"
+    },
+    {
+      "path": "work/recovery/split-attack.png",
+      "bytes": 728281,
+      "sha256": "bcc08aaa32db365d8b58834a438395e7271aa542c9fc33d107af8f179d969975"
+    },
+    {
+      "path": "work/recovery/split-defense.png",
+      "bytes": 744915,
+      "sha256": "dc5d45f159f97e78427cc98229108b7d9f69d7a4da4ad67a15134860cbec1f65"
+    },
+    {
+      "path": "work/recovery/split-idle.png",
+      "bytes": 765813,
+      "sha256": "a64f372f4c66e05ba0aac061b0c6388366ab4635b7fc9d7a5f8433d9ba98237b"
+    },
+    {
+      "path": "work/recovery/split-rest.png",
+      "bytes": 766017,
+      "sha256": "3c55631507a1f1b4cf64280d6fb27d10de229796178ad753d31beb7a8f4dca72"
+    },
+    {
+      "path": "work/recovery/split-restoration.json",
+      "bytes": 248,
+      "sha256": "aedb4cca282b0965f5d5e7ce59fdd5817031e3d9825e969379d0e85680acf7d3"
+    },
+    {
+      "path": "work/recovery/split-walk.png",
+      "bytes": 753970,
+      "sha256": "dee79e70d294457fb54f61e3b71f17e233b031e43bc9da7fce9f45e3b3dc0568"
+    },
+    {
+      "path": "work/recovery/split.log",
+      "bytes": 1379,
+      "sha256": "abc2d775dd053f848af9fd6917f0acd1ef2aabf9e88652b82ef84a21a21b59d6"
+    },
+    {
+      "path": "work/recovery/split2-attack.png",
+      "bytes": 728345,
+      "sha256": "f3e129e1d117e861d7a8d98f90a03c3b6ff4d0b99f10f62cf8ac7af69d70832e"
+    },
+    {
+      "path": "work/recovery/split2-defense.png",
+      "bytes": 744766,
+      "sha256": "c933ba7e72b89e2e5baba33d3729da1a6a49a0064e6688dc2c8e4b974bbae5e4"
+    },
+    {
+      "path": "work/recovery/split2-idle.png",
+      "bytes": 765793,
+      "sha256": "0fd859b7a4d7d5eebf55388af5d310afa617ffc179c070775f39ad2648b38f8e"
+    },
+    {
+      "path": "work/recovery/split2-rest.png",
+      "bytes": 766017,
+      "sha256": "b9993a99eebe96de2466460e7f3330632c7a5aa9cf4f96f9e6b3b3f21db15de8"
+    },
+    {
+      "path": "work/recovery/split2-walk.png",
+      "bytes": 753514,
+      "sha256": "fd8597975a15a2707de214538ec6cd0612d2d8d9eab4c737aaeff8f5d3c8820e"
+    },
+    {
+      "path": "work/recovery/split2.log",
+      "bytes": 1386,
+      "sha256": "2f86a750735948a0c7fc6930afa25b6cd80c3d4e4aa4a24807abcf2498b406ce"
+    },
+    {
+      "path": "work/recovery/split3-attack.png",
+      "bytes": 728263,
+      "sha256": "f67d666fd4ee4b85ebc0e4eafb83a1a78871ca33f6d38b167bb46da63201e121"
+    },
+    {
+      "path": "work/recovery/split3-defense.png",
+      "bytes": 744884,
+      "sha256": "41e22c9b949e03ee0e541aa75a0acb87173e42676e528ca6dc7622839ae580e3"
+    },
+    {
+      "path": "work/recovery/split3-idle.png",
+      "bytes": 765793,
+      "sha256": "588aa1cd3407d2b45f045b4ef92cc9afd96972fcaed9d68a0d1813d330d942dd"
+    },
+    {
+      "path": "work/recovery/split3-rest.png",
+      "bytes": 766017,
+      "sha256": "e8ff36e4d37a9b8963a1f18d76b55cd37a7136f0a6549cf63e018eecc82d8199"
+    },
+    {
+      "path": "work/recovery/split3-walk.png",
+      "bytes": 753546,
+      "sha256": "c671f0c8e428253fff95e260479ad1b5f08b2ce22dc9e182b405171b22a430e3"
+    },
+    {
+      "path": "work/recovery/split3.log",
+      "bytes": 1387,
+      "sha256": "c50fafcc6aa1463e31d4df6ee0e440e3b40c423a3b4f7c731bece23cc403df53"
+    },
+    {
+      "path": "work/recovery/stretched.log",
+      "bytes": 4842,
+      "sha256": "84ed494cf8d9613a1750107cf6ed0d8e96ef2829969912abc7274d20dfa5c07d"
+    },
+    {
+      "path": "work/recovery/stretched.py",
+      "bytes": 1059,
+      "sha256": "1b2a67742039fad494296ac498447b36b45cd4b3d852d4c0a33fed6ba1f95fba"
+    },
+    {
+      "path": "work/recovery/torso-attack-218.png",
+      "bytes": 748213,
+      "sha256": "cbc45a4db3f8794709044cac14e8e70b3d05886ae4e9b8336b4ceaf971a9ce31"
+    },
+    {
+      "path": "work/recovery/torso-defense-71.png",
+      "bytes": 721437,
+      "sha256": "08bd9b7683fe3b51b58d2ed02771d47dbcc7a244b6496d11778b60ec48cfd5e0"
+    },
+    {
+      "path": "work/recovery/torso-diagnosis.json",
+      "bytes": 40989,
+      "sha256": "22b1e091805ab8b56ad56224a50d75127e210f02a98d9b6f2ec0cba6f0dacf0a"
+    },
+    {
+      "path": "work/recovery/torso-diagnosis.log",
+      "bytes": 19753,
+      "sha256": "e27c1057912132f330ba115d01f5864d688d1d62e285b6511e10b3854abb6518"
+    },
+    {
+      "path": "work/recovery/torso-repair.json",
+      "bytes": 153316,
+      "sha256": "4813a689549546c31f9694003fd1e2a1781351e929acf8820a21ec1103636782"
+    },
+    {
+      "path": "work/recovery/torso-repair.log",
+      "bytes": 1086,
+      "sha256": "5710289c040343e892da5ff626fc2caaf70f7a1c46c9f19f961d8ab4224561a2"
+    },
+    {
+      "path": "work/recovery/torso-walk-20.png",
+      "bytes": 748019,
+      "sha256": "a0914ac0176737d0e3b883951946804866b2bde2703ffc1c11b78d3570b89c32"
+    },
+    {
+      "path": "work/recovery/v2.log",
+      "bytes": 1369,
+      "sha256": "42e114f423e7c6da86fae89cf322c7f5ddcad694103dbf4d7f9a4b44ae9085db"
+    },
+    {
+      "path": "work/recovery/v3.log",
+      "bytes": 1368,
+      "sha256": "1c9a3dde8bad5f0912be9b3be0c0261987a2ad95b0ccb8f35807f72373adbc0f"
+    },
+    {
+      "path": "work/recovery/v4.log",
+      "bytes": 1368,
+      "sha256": "0156f5be7fa9d1636dd793d475fb067ee6f31c79a3e00ad26a845eb255329ffc"
+    },
+    {
+      "path": "work/recovery/validate-backup.log",
+      "bytes": 1786,
+      "sha256": "12039a916148031b6b7bf7de82b3988e8a948644fe1a8c0753a96e709ece7a84"
+    },
+    {
+      "path": "work/recovery/validate-collar.log",
+      "bytes": 5210,
+      "sha256": "70320697cfd6499578dc7fd632228e7d374d8351a55c4064768b25f6147fa2d2"
+    },
+    {
+      "path": "work/recovery/validate-contacts2.log",
+      "bytes": 1783,
+      "sha256": "7da67132a5d7f44104e56826fa44caf54e459a6dfec245c6c1f8c745423c6978"
+    },
+    {
+      "path": "work/recovery/validate-contacts3.log",
+      "bytes": 5219,
+      "sha256": "e51497a0e4b733a0b91845f954a1cb7f407015b42d977cefb807ca4bcb0fe493"
+    },
+    {
+      "path": "work/recovery/validate-final.log",
+      "bytes": 1789,
+      "sha256": "2a81ea615a4562085a5e9acb3d27715a621b74719c0b25b8fbb5c4d8a4db910b"
+    },
+    {
+      "path": "work/recovery/validate-split.log",
+      "bytes": 1802,
+      "sha256": "2ade1af591725522461a2e193511fdc847fdcd09dd4f609f00c5205b9da02379"
+    },
+    {
+      "path": "work/recovery/validate-split3.log",
+      "bytes": 1788,
+      "sha256": "31233749566be8b23dc07f44dffcce95bd4c4cc678ba3fe6616322a87d4a6be7"
+    },
+    {
+      "path": "work/recovery/validate.log",
+      "bytes": 1793,
+      "sha256": "e3da0cb9c8d81b38391cafaf7831816393229aa8b95527d5ed451e3eafe1b9a9"
+    },
+    {
+      "path": "work/recovery/validate.py",
+      "bytes": 2694,
+      "sha256": "fed977ff6663f4d52d9f10d1feedfae94aff04b68f1da02a7ce3b86fe0bdef1e"
+    },
+    {
+      "path": "work/recovery/validate_backup.py",
+      "bytes": 2700,
+      "sha256": "e193ed77424d4d4df67361d3a9e4d9f472eaecb5abc97ec03d9830c670a49ad3"
+    },
+    {
+      "path": "work/recovery/validate_candidate.py",
+      "bytes": 3733,
+      "sha256": "38c3024c14d43be4f35ea1cabb95b5cfccad74655de714e2329df5b3d779e9ad"
+    },
+    {
+      "path": "work/recovery/validate_final.py",
+      "bytes": 2876,
+      "sha256": "088ea3f0cc53684a245ac395263cf4f0c9bdeca48fd2f8b0d55afa7e9cf68e98"
+    },
+    {
+      "path": "work/recovery/validate_split.py",
+      "bytes": 2691,
+      "sha256": "19bd8293a249e04fa4e89d7a6f867abba9c3aa5d69bc72cf54d48a41455edb1d"
+    },
+    {
+      "path": "work/recovery/validation-backup.json",
+      "bytes": 1027,
+      "sha256": "1614604c83924b0eac5668d035c73d75bab0fe1d3eec8a4e19d421da258875c4"
+    },
+    {
+      "path": "work/recovery/validation-collar.json",
+      "bytes": 3646,
+      "sha256": "b874a94887f5f3a11f5ccd485f64da81d6bd4f66e376b7ddebb9ce3856116236"
+    },
+    {
+      "path": "work/recovery/validation-contacts2.json",
+      "bytes": 1019,
+      "sha256": "faa2be19da0bc37b68be27ddf42e6a2c3c3bbde0ecfd603c7eec1412b4ce1402"
+    },
+    {
+      "path": "work/recovery/validation-contacts3.json",
+      "bytes": 3649,
+      "sha256": "edc6f031c892a5acb18bf32c4a057468f10616cf31321debd9bef5a6f9ea8396"
+    },
+    {
+      "path": "work/recovery/validation-final.json",
+      "bytes": 1019,
+      "sha256": "faa2be19da0bc37b68be27ddf42e6a2c3c3bbde0ecfd603c7eec1412b4ce1402"
+    },
+    {
+      "path": "work/recovery/validation-smoothed.json",
+      "bytes": 1022,
+      "sha256": "342c7a91bc45b1a5880271a59678440147ec14311ea06a624c051fcd322b693a"
+    },
+    {
+      "path": "work/recovery/validation-split.json",
+      "bytes": 1022,
+      "sha256": "90a5d9c34c3ad7af7aee767755dcbcc7a03c736048bae17eeae136716687231b"
+    },
+    {
+      "path": "work/recovery/validation.json",
+      "bytes": 1026,
+      "sha256": "75beed45878c978bc23cea9f4f0eae6fda3f3dea366e1903671862e38b409489"
+    },
+    {
+      "path": "work/recovery/valkur-restored-collar.blend",
+      "bytes": 21578476,
+      "sha256": "246a39522340971e213e70c6efc4f47b7682fd22c6c5fe85737d509984218240"
+    },
+    {
+      "path": "work/recovery/valkur-restored-contacts.blend",
+      "bytes": 21547045,
+      "sha256": "5558e8856121567fd103e60c048b9a6b5f947b5930e1b3e251c91c4a44954efd"
+    },
+    {
+      "path": "work/recovery/valkur-restored-contacts2.blend",
+      "bytes": 21551090,
+      "sha256": "f9587b46f72b61180c949b12d0adeab218603cc7f764f780847e40e9d9da2b87"
+    },
+    {
+      "path": "work/recovery/valkur-restored-contacts3.blend",
+      "bytes": 21549571,
+      "sha256": "01752927b77ffcb880a04bfcb3f8e0429a341b0f8b06c39d6c72fe8e1435d192"
+    },
+    {
+      "path": "work/recovery/valkur-restored-final.blend",
+      "bytes": 21580090,
+      "sha256": "51e21fdbedc082d9c4a1b7717b48cebef9d63ceb09f7feba704938d65cec6a88"
+    },
+    {
+      "path": "work/recovery/valkur-restored-final.blend1",
+      "bytes": 21495231,
+      "sha256": "dd69770ccd02aa8afd3826da3e440aab9221ef837e40476327f743b11ae3a0f4"
+    },
+    {
+      "path": "work/recovery/valkur-restored-limbs.blend",
+      "bytes": 21510940,
+      "sha256": "5c878bdf0c6d880345b7a6c74548802b52b5b2903fa8b058676b3d8a44a0b6b1"
+    },
+    {
+      "path": "work/recovery/valkur-restored-smoothed.blend",
+      "bytes": 21496827,
+      "sha256": "eba8368e7b9ab684035cb6148948b3c6c903763297c317970a4707ff9ae82a77"
+    },
+    {
+      "path": "work/recovery/valkur-restored-split.blend",
+      "bytes": 21429671,
+      "sha256": "7fdd1814707d75435285770a4b0f509a9e9211d4ebe861f8d4a4e162dd5a1a92"
+    },
+    {
+      "path": "work/recovery/valkur-restored-split2.blend",
+      "bytes": 21432358,
+      "sha256": "6e428a157ae493d0ff918d159698fae4848779429e5ee78e98360c2efbafadf8"
+    },
+    {
+      "path": "work/recovery/valkur-restored-split3.blend",
+      "bytes": 21433776,
+      "sha256": "5c21562912f23d3f1dd94ebd3f0fac9c747be362166a06100918dc6132efff97"
+    },
+    {
+      "path": "work/recovery/valkur-restored-torso.blend",
+      "bytes": 21609873,
+      "sha256": "fee32efd2da66731b720c5affc614cf64addb0ab78eb4fb585022c1f5104345a"
+    },
+    {
+      "path": "work/recovery/valkur-restored-v2.blend",
+      "bytes": 21421256,
+      "sha256": "290094b66f976e6c178b3be1fff052b6c4dc3fb098be922e96577931b3f2bbad"
+    },
+    {
+      "path": "work/recovery/valkur-restored-v3.blend",
+      "bytes": 21393467,
+      "sha256": "2c4613c817d03da29de2385133389d32124f7f82a936f63dc47c555e9151da79"
+    },
+    {
+      "path": "work/recovery/valkur-restored-v4.blend",
+      "bytes": 21395590,
+      "sha256": "e584c0c0af69d24b717ee875cc3a1831a9612cafb15a7b5835c3f5aa8d68e785"
+    },
+    {
+      "path": "work/recovery/valkur-restored.blend",
+      "bytes": 21428211,
+      "sha256": "4422e5485b267c3465dc407a6036e904a50de8df742421ccb8e39a5890a11304"
+    },
+    {
+      "path": "work/recovery/export/valkur.mesh",
+      "bytes": 12941097,
+      "sha256": "de4b555d18116bcf12379b886f7ad085dedc1c54033e511a9a0dcd337d21c5d7"
+    },
+    {
+      "path": "work/recovery/export/valkur_diffuse.dds",
+      "bytes": 16777344,
+      "sha256": "decd747ba2c420c4da3e67eaa17bce402be1cff73496cf33c1b1ba7bdf8783b6"
+    },
+    {
+      "path": "work/recovery/export/valkur_normal.dds",
+      "bytes": 16777344,
+      "sha256": "68a4b1b1b5f1ad2c88c7cb3c32bb6a7cd66225f24d5964cb5c0b4183ed2f183e"
+    },
+    {
+      "path": "work/recovery/export/valkur_properties.dds",
+      "bytes": 192,
+      "sha256": "f7330c4d9a170911e96a3e3efe3a0ef054aa7c2a35502c3c02dcab7ff65e07ad"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/blender_manifest.toml",
+      "bytes": 955,
+      "sha256": "06e02513b68cb397c1c9b1b010657e8920b6e7e5533af7855148ac66563b6617"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/clausewitz.json",
+      "bytes": 4758,
+      "sha256": "872d8d0b4199d6a35589a595cae7c6b9c7e8f785e2f5529678621dbacff25652"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/library.py",
+      "bytes": 1509,
+      "sha256": "750cadc7e64c64cdce038c0bc233480c8295aba140bf1ad881d2c5f2072dc12a"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/license.txt",
+      "bytes": 35819,
+      "sha256": "b3d1eae7f524fc9ddd48562a4652efd2bcd848e38b03f05e388bcce943e73df2"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_data.py",
+      "bytes": 23476,
+      "sha256": "f045270e7dafd42bf0df91868c881432010775ff3f2532e09c69dc2bfea131b8"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/readme.md",
+      "bytes": 2547,
+      "sha256": "b5da815e5ada7a7f4176136550adc2dc72af22e45b1035177c14b85db9ccce82"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/recovery-settings.json",
+      "bytes": 331,
+      "sha256": "5ed82bc8aa6b4280b7bc0cd3a2d5a42d5fd97a2e3e58bd3f06a5bc02abd48cc6"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/settings.py",
+      "bytes": 2461,
+      "sha256": "e8ba665cbdf694da2f62f8b807eacfa6e979adfd6ad3f9ba05c4e7f07dfd6a10"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/updater.py",
+      "bytes": 4307,
+      "sha256": "9264c7646cda86b1336b031c745a40b210f21222f712d3a7b978433bd6ddc783"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/__init__.py",
+      "bytes": 4975,
+      "sha256": "42f81b764278962ee7ac5bfe03337bb22e847df0146c4f5c5eba9e9bb593e2af"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/__main__.py",
+      "bytes": 2944,
+      "sha256": "13c143897c60635b2b010a2e8128e321a20a69d79dc00c9412d82439db0cea45"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs.py",
+      "bytes": 24720,
+      "sha256": "83df6cdac5e19ef4c49bbf688f86d62344e86a973efd298a28d5ef3971e45627"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir.py",
+      "bytes": 24827,
+      "sha256": "f7b0b6010227b8a93e3e16f769733b7c9a2685cfb4d2964c701babdb73549ab1"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six.py",
+      "bytes": 34549,
+      "sha256": "4ce39f422ee71467ccac8bed76beb05f8c321c7f0ceda9279ae2dfa3670106b3"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/__init__.py",
+      "bytes": 677,
+      "sha256": "9611d471c64d86b2749da2981801e262bf97f712fe49a486dd76ade208f5790f"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/LICENSE.txt",
+      "bytes": 1097,
+      "sha256": "36ddb4d0a745a93ab203203d7190814b1b89727d254caff48c7a7afbbd47000b"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/METADATA",
+      "bytes": 8981,
+      "sha256": "9394d57d730d2861d37e9db09ba109293b86c0636ea104794ea4201fc8b01bc3"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/RECORD",
+      "bytes": 655,
+      "sha256": "21dd9904adb94c803058ce74e73b35ebc8f20ca081020622c732e5151805f61f"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/top_level.txt",
+      "bytes": 8,
+      "sha256": "9ca9dc13c094a9911127a56e4162f8fdb92e9d23c335f9fb299a9be13af96043"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/appdirs-1.4.4.dist-info/WHEEL",
+      "bytes": 110,
+      "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/core.py",
+      "bytes": 79680,
+      "sha256": "b111cf7f9e3c226c29f662774fcef7e053c59d687ff3037a2d713bf45c82f620"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/decorators.py",
+      "bytes": 11548,
+      "sha256": "f91d65b0b4abb180b028d37439774eb46ff431bc1f913e214ca30243d7ba1f1c"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/exceptions.py",
+      "bytes": 8371,
+      "sha256": "a374eb0ad7050af5a02853e05a11d34b8606c9ffa429394983aee5cba08dd920"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/formatting.py",
+      "bytes": 9564,
+      "sha256": "91610955316bb5962220476da3631a0516d338d27ab1e7e9db1926b2762d5960"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/globals.py",
+      "bytes": 1548,
+      "sha256": "314a9e4dbeb8753bb7c385cd257e3c8cb3a598ddfeb932ba9a92224fc596b594"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/parser.py",
+      "bytes": 16119,
+      "sha256": "afe7a6f7213539d8d80c46dd6b58e58a825280ced53cd705a73020af05e92c47"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/termui.py",
+      "bytes": 24679,
+      "sha256": "520d760ed63961e5f2c212156802a62534f66e4e74eee04bb4055bb00c3dc071"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/testing.py",
+      "bytes": 13236,
+      "sha256": "936f9f3a08487cc55de44e1ae64f50cf51bb9925c958e22fe0230c3dcc00c5cd"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/types.py",
+      "bytes": 25807,
+      "sha256": "a2c8e9fdade3ca9a0be460ab1e2c8309db2dbc72a7ba5121247b8916cd5b440d"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/utils.py",
+      "bytes": 16395,
+      "sha256": "4c7fba559ae7be2adfdb6ed9030645d3a2e2be12740c909012a9d6bc941ae179"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_bashcomplete.py",
+      "bytes": 12684,
+      "sha256": "5d1016d44831ec396a393c30f57c6df55014aadea9459fc96ff44c1452731887"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_compat.py",
+      "bytes": 24955,
+      "sha256": "51272a48c16e6972bf6d7063e0eaa7e7d74cf5e9792dd36229f1cd74d40afcac"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_termui_impl.py",
+      "bytes": 21359,
+      "sha256": "6e8fe85eac1d335a0ac58e516dab0bcaf53e513cf17c5da056864040a2f351f2"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_textwrap.py",
+      "bytes": 1234,
+      "sha256": "e1583485a0d8fe4aca4495d9b0af398e1fef628e0bdefac83b299c87ca3e6922"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_unicodefun.py",
+      "bytes": 4332,
+      "sha256": "4ac0c2ed4d4ce19a8631303d4d0c92dbfa41405da9476a5f8711c828843fa867"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/_winconsole.py",
+      "bytes": 10380,
+      "sha256": "624842fb9d7fbd7cdbebd09d90d136ebf124b42688327425a4df82d3d191e8d1"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click/__init__.py",
+      "bytes": 2542,
+      "sha256": "f712c99125e49cca86e209d45872f48d4137dd90353e3896a991244651a77091"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/INSTALLER",
+      "bytes": 5,
+      "sha256": "0b77bdb04e0461147a7c783c200bc11a6591886e59e2509f5d7f6cb7179d01ab"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/LICENSE.rst",
+      "bytes": 1503,
+      "sha256": "757302fe7c41e7026fa46d3315ea8604ed5295fc95c2256d9b38adac43f6fbe5"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/METADATA",
+      "bytes": 2970,
+      "sha256": "df0a92dab42feebea8f015706e8f58256c80ad0aefe9a17a095eb6cf6ed2f75a"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/RECORD",
+      "bytes": 2227,
+      "sha256": "a381cd106e1b6472800f11cac13378c65431aeb6b4766824b175391fe117e17f"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/top_level.txt",
+      "bytes": 7,
+      "sha256": "8c4950bd3c82a3de062bdd7a806dd6c29dc69d78038814e130c29dccf9e8a3dd"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/click-7.1.2.dist-info/WHEEL",
+      "bytes": 116,
+      "sha256": "e93dd36191386058b61d34b505e647357022f0de763994f83be749ebea267bfe"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2/__init__.py",
+      "bytes": 61436,
+      "sha256": "7679d8d15e9616b8f88cf44a6affb9c0789c720d438ed3b0622232dbdbb0806f"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/LICENSE.rst",
+      "bytes": 1175,
+      "sha256": "861f813004a151ac77024ad445794653809ddf8a7572aee7bab18d11df2ba1c6"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/METADATA",
+      "bytes": 3478,
+      "sha256": "8c5e0bdca414a72a1c765276fc9fb2356642a30e2806fa3bd8dbc22eb5ab1e3c"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/RECORD",
+      "bytes": 682,
+      "sha256": "386ea1a3575854237f4b9408acc32f44e55082fab1cbbb85dc79139e1de328ef"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/top_level.txt",
+      "bytes": 9,
+      "sha256": "b4d3e48ac16218116c3d49c220783adaf485964c7fd4d3bce8877c95b2667c54"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/pathlib2-2.3.6.dist-info/WHEEL",
+      "bytes": 110,
+      "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/LICENSE.txt",
+      "bytes": 1464,
+      "sha256": "a5e2fbdc239744419d29407cdbc92793c4d9c1d956c174f7cb7f96fa6d058c86"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/METADATA",
+      "bytes": 9795,
+      "sha256": "5d60e6f694c1e903c33cc53c7f0631bf8cab5646f4153cc335da84c4ff0d0478"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/RECORD",
+      "bytes": 645,
+      "sha256": "ed2f65daabc38d55e70ecd3dbdcbe8b63822b02efd09a3ffa5b2a20192b3df26"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/top_level.txt",
+      "bytes": 17,
+      "sha256": "231cdee663639a2b3df6a97b244b4061cf7e76324c6df471f85170dd1ff365ff"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/scandir-1.10.0.dist-info/WHEEL",
+      "bytes": 106,
+      "sha256": "1453081ce300cf305bcc2438eb7d1cabb98e6fac8930861a35bf1a28143c5ffd"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/LICENSE",
+      "bytes": 1066,
+      "sha256": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/METADATA",
+      "bytes": 1795,
+      "sha256": "5507062050801267d9725efb139ae23c2378bf64c8b1cfeab5a7278f12872682"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/RECORD",
+      "bytes": 537,
+      "sha256": "ae697245a96383dd27bbdb09c9b6926360ecc7a653ff72bbdb75b17cb6c981ee"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/top_level.txt",
+      "bytes": 4,
+      "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/six-1.16.0.dist-info/WHEEL",
+      "bytes": 110,
+      "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools/_helpers.py",
+      "bytes": 1494,
+      "sha256": "87c4668bf158c8d09b0e59072159b6a3577faa503718c210ec36ea6af5ff9df2"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools/_parser.py",
+      "bytes": 24206,
+      "sha256": "b9a6f4f8907cb5e273956a5d71658a2cac0f4f23a4b0e8ee4499f3f2f9a8185b"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools/_re.py",
+      "bytes": 4391,
+      "sha256": "9ce76abc53e419fb3329dd6da7af0140dd47b4b9695d2d08acf1a44d389c8bbd"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools/_writer.py",
+      "bytes": 6687,
+      "sha256": "d20d9abf0d25901cb675c098d563b9d4dda06bc5d6a78e47385bdde89b26eb04"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools/__init__.py",
+      "bytes": 449,
+      "sha256": "66ca96c923c5ba294a5fffb229618b4403c7d5137e76c284f1b20ef970615ae3"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/INSTALLER",
+      "bytes": 5,
+      "sha256": "0b77bdb04e0461147a7c783c200bc11a6591886e59e2509f5d7f6cb7179d01ab"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/LICENSE",
+      "bytes": 1093,
+      "sha256": "34b59b39e7ba577a1d86924218c71229b163d3bf3903aec784299f725c89d324"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/METADATA",
+      "bytes": 15227,
+      "sha256": "d2c27de334099a1f86685ff5c8ac31a20b832d001b6e6768dfab437c9c9c4661"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/RECORD",
+      "bytes": 1226,
+      "sha256": "6eee0dcf857bf2073d686dfa2f17e1e564ed240a2b8cbd5da265ae1fb4ddae7e"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/top_level.txt",
+      "bytes": 12,
+      "sha256": "0705658a5d7c32bbf72731650119cf6f0243e30d0526a32ce08340c44f27dadf"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/external/toml_tools-2.0.0.dist-info/WHEEL",
+      "bytes": 116,
+      "sha256": "56d0811de0aa7a612ef5cfead2a0452d7d5d265badcf16d891baf19b1d290ef5"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_blender/blender_import_export.original.txt",
+      "bytes": 77773,
+      "sha256": "0c37fb639915116423fc9ee65e1c2626b4a8887f8eb7f21ad86bc8a8bda7004a"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_blender/blender_import_export.py",
+      "bytes": 77903,
+      "sha256": "982003b7406363f07799a9c4a8f42f486ee09f3040d2bea576c10668fb77b505"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_blender/blender_ui.py",
+      "bytes": 36162,
+      "sha256": "f1eac22c1758cda6c474dca0d3a6b5a68fdec93051bb41264a1c0032f528a77e"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_blender/pdx_script_export.py",
+      "bytes": 8734,
+      "sha256": "c612922603aa3f32b59dea73115760f3269a7184147eeba8dea0af6c9d3e641e"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_blender/__init__.py",
+      "bytes": 4564,
+      "sha256": "7edf4fb20876c6cf41dc6b16ac46425358ae19b535b5094ceb1daa4979e26215"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_maya/maya_import_export.py",
+      "bytes": 71955,
+      "sha256": "c79f07c78975ed464ee1454afeaf3bf9e308bbfd3d6040ea18cff334fb17d113"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_maya/maya_ui.py",
+      "bytes": 51447,
+      "sha256": "617fd50c0a3b7e27c3f0b2302c36b7d37fb83c0f44aeab9d3cf2d624c5c8b547"
+    },
+    {
+      "path": "work/recovery/io_pdx_mesh/pdx_maya/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/entity_links/valkur_units_test.txt",
+      "bytes": 514,
+      "sha256": "3a6de4ee4bb6196a7db5384b8791263154968fd6076c15b2cb6feb1ab78758b9"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/src_Image_0.png",
+      "bytes": 26041411,
+      "sha256": "f0638a61c9d500e598c0e984542a2ae5206a6de2f5cfa5d9cc084d95de77cb99"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/src_Image_1.png",
+      "bytes": 3875207,
+      "sha256": "ce4bb2adde2e5414b950825cd38f6b493acc93d2546b1829aa04a23eb5453109"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/src_Image_2.png",
+      "bytes": 18941067,
+      "sha256": "415050171d96284b39c7c54af7568fc90c1d4a4685cd7cc7744a971521be01a6"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur.asset",
+      "bytes": 2853,
+      "sha256": "43efec0ca318a805289b6fbddf57033cf16a4892cc9945c46f6772e83c050303"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur.mesh",
+      "bytes": 12148005,
+      "sha256": "f051c9b3ce4f63bb961fcb85ba06876cd00e275e44e90d8b809b9e946ec27e57"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_attack.anim",
+      "bytes": 593080,
+      "sha256": "bd4ca47143a20580f4c1db94baed3df340ef6be8e060435d6259eec10275d12c"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_defense.anim",
+      "bytes": 593080,
+      "sha256": "60978f954ce8f6b7ff2bb66ec48abee3a60f53f1de0bd2733aa4145d7ba00b96"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_diffuse.dds",
+      "bytes": 16777344,
+      "sha256": "decd747ba2c420c4da3e67eaa17bce402be1cff73496cf33c1b1ba7bdf8783b6"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_diffuse.png",
+      "bytes": 1968462,
+      "sha256": "5a5e9e18f70cd99535270a1d260a7c89e6ecf78592deba1dedefe5ba85e8e593"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_diffuse_baked.png",
+      "bytes": 665902,
+      "sha256": "41211a9965ea1bb0277dff2f505c31f842cccc034306c21fdffd2519a73405a7"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_idle.anim",
+      "bytes": 343931,
+      "sha256": "1e361b15fbbc597823972c8fb25ca072ba33de5ca4522a19847243cf38e1990a"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_move.anim",
+      "bytes": 161502,
+      "sha256": "9125bc53f142c4686dcdb5744470b99a245d0d7fb8576909b7d9e0fcd1159a8e"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_normal.dds",
+      "bytes": 16777344,
+      "sha256": "68a4b1b1b5f1ad2c88c7cb3c32bb6a7cd66225f24d5964cb5c0b4183ed2f183e"
+    },
+    {
+      "path": "work/recovery/mod-before-restoration/gfx/models/units/infantry/valkur/valkur_properties.dds",
+      "bytes": 192,
+      "sha256": "f7330c4d9a170911e96a3e3efe3a0ef054aa7c2a35502c3c02dcab7ff65e07ad"
+    },
+    {
+      "path": "work/vanilla-integration/animation-manifest.json",
+      "bytes": 8796,
+      "sha256": "b3876a0104d58f4f4f471c585e944e294eee3628130816050b440588a8a6d65d"
+    },
+    {
+      "path": "work/vanilla-integration/asset-validation.json",
+      "bytes": 1024,
+      "sha256": "aaef5d7c0f741d69581ec0ba894b4672ae97f24266ed614e28adbe5f86791d28"
+    },
+    {
+      "path": "work/vanilla-integration/audit.json",
+      "bytes": 26045,
+      "sha256": "09eaf9c111b69f18ee77d8bbba8f4b9817338af60d72670ea2794f462b765e5a"
+    },
+    {
+      "path": "work/vanilla-integration/audit.log",
+      "bytes": 795,
+      "sha256": "5018a1d346d897c26284badb24d9dabd20a918dae7249a1d929052a0afe3ab9b"
+    },
+    {
+      "path": "work/vanilla-integration/audit.py",
+      "bytes": 1839,
+      "sha256": "5c641afff2c1cf6b389c0dc04a3201343bd4699b1fc22e4905083481b459154c"
+    },
+    {
+      "path": "work/vanilla-integration/body-without-equipment.png",
+      "bytes": 743119,
+      "sha256": "2e754e5fae153860f6b20985edd3f38037623eeadd20bd7493eba6d5c6fec9b0"
+    },
+    {
+      "path": "work/vanilla-integration/build_assets.py",
+      "bytes": 4048,
+      "sha256": "2ca96554526b7713677226f806cb5121895d7bd0cc347df27f119024b4718e3c"
+    },
+    {
+      "path": "work/vanilla-integration/deploy.ps1",
+      "bytes": 2407,
+      "sha256": "260d3105e61a79a4ed9015540ad2ffeeca47d0a9f2f71be67c912a0395888d89"
+    },
+    {
+      "path": "work/vanilla-integration/deployment.json",
+      "bytes": 6180,
+      "sha256": "842e2fb6795203d78d2d6541aea8bf2e57dec079d0cdf628d741d3ebf5390f2d"
+    },
+    {
+      "path": "work/vanilla-integration/despawn_animation-1.png",
+      "bytes": 738967,
+      "sha256": "28edadcc02dd34f30ffdd28c7141ca1b119a81c7a3e8b9f6946541c57d11fd7b"
+    },
+    {
+      "path": "work/vanilla-integration/despawn_animation-104.png",
+      "bytes": 737774,
+      "sha256": "a0f3990161e4109bd2572e8ab1385ec8d72b14f615aad80ad5fa85d23de246d8"
+    },
+    {
+      "path": "work/vanilla-integration/despawn_animation-209.png",
+      "bytes": 707429,
+      "sha256": "0ad2274cdb27b1c54177e87c02eaddcdccef5658a8fd6ece2bbe572e3a120031"
+    },
+    {
+      "path": "work/vanilla-integration/equipment-idle.png",
+      "bytes": 732946,
+      "sha256": "5c3069a68a3f0f264ceff305ea726bdbbe4062ff54398a91dd9f321596e76b3b"
+    },
+    {
+      "path": "work/vanilla-integration/equipment-report.json",
+      "bytes": 293,
+      "sha256": "0249fd655fbd4ccf0929bc6de0f99549e1c8c8f4673cbbe48a50d5dcadbecfa1"
+    },
+    {
+      "path": "work/vanilla-integration/equipment-rest.png",
+      "bytes": 765960,
+      "sha256": "234aa46a4c5f4fbdebcdea586e0c961018fbcf7e5e00e45703a5eec37ffe660a"
+    },
+    {
+      "path": "work/vanilla-integration/equipment.log",
+      "bytes": 3592,
+      "sha256": "4195f470bfba3a9cff460857b5288d753c178e813881b661b927b18029dccae4"
+    },
+    {
+      "path": "work/vanilla-integration/equipment.py",
+      "bytes": 6864,
+      "sha256": "90fe506daf9683d1ffabee962afd19a468a004b8097e9af61ce8a1cc1f5f1fe6"
+    },
+    {
+      "path": "work/vanilla-integration/event-despawn_animation-2.0.png",
+      "bytes": 725585,
+      "sha256": "0c4aeeb7c98dd521968b36cf09bd7648d3e3b1d2f77055ac428f2bdd9d7bb330"
+    },
+    {
+      "path": "work/vanilla-integration/event-gathering_army_viking_animation-0.73.png",
+      "bytes": 742117,
+      "sha256": "ca0a6924f0f57d4d5cd77c5b076f51c608d16ba27530cd00fa760df1aae97dd0"
+    },
+    {
+      "path": "work/vanilla-integration/event-gathering_army_viking_animation-1.5.png",
+      "bytes": 741695,
+      "sha256": "b8fa1da1d94b44a6c273dcbc17cee20c6a866c1316c163c4639b93302258f0aa"
+    },
+    {
+      "path": "work/vanilla-integration/event-gathering_army_viking_animation-3.0.png",
+      "bytes": 742002,
+      "sha256": "896cc2c61c22e09648dfed7f0a87dfa153cd1c31e71962f2314461b1208645d0"
+    },
+    {
+      "path": "work/vanilla-integration/event-gathering_army_viking_animation-6.0.png",
+      "bytes": 744995,
+      "sha256": "42def100cb098335afb791ddf6f480dfac8bf0d2d20af48f7f6f887011d21a69"
+    },
+    {
+      "path": "work/vanilla-integration/event-spawn_animation-0.0.png",
+      "bytes": 689546,
+      "sha256": "8737e4bc7a6f1d1658b442e5a6626f8cc1dfb39e002a433ff36cf60e2d824ebe"
+    },
+    {
+      "path": "work/vanilla-integration/gathering_army_viking_animation-30.png",
+      "bytes": 737021,
+      "sha256": "f10033912f1f18b740b1253b9e1b58433dce665a0fa0a40768fdd753e7d74d15"
+    },
+    {
+      "path": "work/vanilla-integration/INTEGRATION-NOTES.md",
+      "bytes": 4143,
+      "sha256": "280c96557fc33e54dd035f731e32ab855a4ea5d74ed533846fe187aee6eb502c"
+    },
+    {
+      "path": "work/vanilla-integration/integration-validation.json",
+      "bytes": 6710,
+      "sha256": "3bd27f1d27aaf289540a5bfb9b118ad41b360de31924dce7c1676a9c89fc20d2"
+    },
+    {
+      "path": "work/vanilla-integration/moving_standard_animation-122.png",
+      "bytes": 744932,
+      "sha256": "7ac0adf23abf72936ee173280f6c78b9cfedfe86f3e1b06cebf614c7fc7d4e1f"
+    },
+    {
+      "path": "work/vanilla-integration/moving_standard_animation-81.png",
+      "bytes": 744932,
+      "sha256": "8a2f705c9aebc81ff19700534df7a87fe799457ad197dd79cf430f71918d7405"
+    },
+    {
+      "path": "work/vanilla-integration/preview-events.log",
+      "bytes": 2833,
+      "sha256": "7a260713fdbe39493b12a43dcb9967dace0980bea536b0955d7975a3632409ff"
+    },
+    {
+      "path": "work/vanilla-integration/preview_events.py",
+      "bytes": 2166,
+      "sha256": "07bee51d6721397122cc694701a62ce2d2c86cb9d6e798d7b133d90d6662a0b1"
+    },
+    {
+      "path": "work/vanilla-integration/retarget.log",
+      "bytes": 3371,
+      "sha256": "8c5023f388505606383d7d5e85f3f3d9ad9cb5e3b0d98858c89f673ddae8583c"
+    },
+    {
+      "path": "work/vanilla-integration/retarget.py",
+      "bytes": 6215,
+      "sha256": "92bf119b46174df4c039a9f904426a2feae3a4d6374ef614194f40240010d923"
+    },
+    {
+      "path": "work/vanilla-integration/roundtrip.json",
+      "bytes": 895,
+      "sha256": "0979aa25afd344cb9649ff41c22fd9c7041768d4f40aacc8a25ae7e0d6ed6721"
+    },
+    {
+      "path": "work/vanilla-integration/roundtrip.log",
+      "bytes": 2662,
+      "sha256": "e70e8fadda72c5332b076193899e6cf750bdcf56fd9003d1e5babaea8e771888"
+    },
+    {
+      "path": "work/vanilla-integration/roundtrip.py",
+      "bytes": 2760,
+      "sha256": "2e73f69b2ba3d6cb6bd15cb7974eaf37e2073da337588f38e38d402787e9dc66"
+    },
+    {
+      "path": "work/vanilla-integration/source-preserved.blend",
+      "bytes": 21580090,
+      "sha256": "51e21fdbedc082d9c4a1b7717b48cebef9d63ceb09f7feba704938d65cec6a88"
+    },
+    {
+      "path": "work/vanilla-integration/spawn_animation-1.png",
+      "bytes": 683693,
+      "sha256": "138658f71ffbb3492f1e7784c407d62ff68f9276c882abd9a6e2d9520e47ed32"
+    },
+    {
+      "path": "work/vanilla-integration/spawn_animation-140.png",
+      "bytes": 725637,
+      "sha256": "d8ae272f7dd2c94771cc9bbcc911aaf011dd483c91341f1b62784150f153ee64"
+    },
+    {
+      "path": "work/vanilla-integration/spawn_animation-281.png",
+      "bytes": 738967,
+      "sha256": "8b7da9b12d5fbdb2617cd648f9463ab50cc6aac3cb2d4ea32abb10d599b0ee37"
+    },
+    {
+      "path": "work/vanilla-integration/validate_integration.py",
+      "bytes": 2915,
+      "sha256": "6f9a1e4ba483ac136d3fef6b40d428a07d866ddb73ce9a133c472eb5aaa88eb1"
+    },
+    {
+      "path": "work/vanilla-integration/validation.log",
+      "bytes": 1373,
+      "sha256": "07c242c87d1687dce563d10b0765b58ad0acea6e7213f846406e5c5fb2dd4298"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-actions.blend",
+      "bytes": 50466300,
+      "sha256": "0a04e83d5849a91b90d2d833b3d856c9f86ffc6bfff371de3d72207397599979"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-actions.blend1",
+      "bytes": 50335540,
+      "sha256": "2a8a7e370c7d9886a2b1c57285c88f903c761b240b372f90b2189910b2cb4040"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-equipment.blend",
+      "bytes": 57093154,
+      "sha256": "72acedf937610879f15960d423393ab652cf4a548b6205e2c7ca5729f899b4f9"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-equipment.blend1",
+      "bytes": 57374842,
+      "sha256": "a3ef819df95caa8b3f5c8766e663330ff52cfa637bc477414941fda85c23a838"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-preview.blend",
+      "bytes": 57103065,
+      "sha256": "b27aedb19c570dc7fb442f7a7607d2f064b58604150325aed352871128ff01be"
+    },
+    {
+      "path": "work/vanilla-integration/valkur-vanilla-preview.blend1",
+      "bytes": 57382939,
+      "sha256": "79cc65a457b08dba1abbd002f78a0145bc354c0f26657eaf663cf1a89d81f463"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/entity_links/valkur_units_test.txt",
+      "bytes": 514,
+      "sha256": "3a6de4ee4bb6196a7db5384b8791263154968fd6076c15b2cb6feb1ab78758b9"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/src_Image_0.png",
+      "bytes": 26041411,
+      "sha256": "f0638a61c9d500e598c0e984542a2ae5206a6de2f5cfa5d9cc084d95de77cb99"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/src_Image_1.png",
+      "bytes": 3875207,
+      "sha256": "ce4bb2adde2e5414b950825cd38f6b493acc93d2546b1829aa04a23eb5453109"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/src_Image_2.png",
+      "bytes": 18941067,
+      "sha256": "415050171d96284b39c7c54af7568fc90c1d4a4685cd7cc7744a971521be01a6"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur.asset",
+      "bytes": 2853,
+      "sha256": "43efec0ca318a805289b6fbddf57033cf16a4892cc9945c46f6772e83c050303"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur.mesh",
+      "bytes": 12941097,
+      "sha256": "de4b555d18116bcf12379b886f7ad085dedc1c54033e511a9a0dcd337d21c5d7"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_attack.anim",
+      "bytes": 593080,
+      "sha256": "bd4ca47143a20580f4c1db94baed3df340ef6be8e060435d6259eec10275d12c"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_defense.anim",
+      "bytes": 593080,
+      "sha256": "60978f954ce8f6b7ff2bb66ec48abee3a60f53f1de0bd2733aa4145d7ba00b96"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_diffuse.dds",
+      "bytes": 16777344,
+      "sha256": "decd747ba2c420c4da3e67eaa17bce402be1cff73496cf33c1b1ba7bdf8783b6"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_diffuse.png",
+      "bytes": 1968462,
+      "sha256": "5a5e9e18f70cd99535270a1d260a7c89e6ecf78592deba1dedefe5ba85e8e593"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_diffuse_baked.png",
+      "bytes": 665902,
+      "sha256": "41211a9965ea1bb0277dff2f505c31f842cccc034306c21fdffd2519a73405a7"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_idle.anim",
+      "bytes": 343931,
+      "sha256": "1e361b15fbbc597823972c8fb25ca072ba33de5ca4522a19847243cf38e1990a"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_move.anim",
+      "bytes": 161502,
+      "sha256": "9125bc53f142c4686dcdb5744470b99a245d0d7fb8576909b7d9e0fcd1159a8e"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_normal.dds",
+      "bytes": 16777344,
+      "sha256": "68a4b1b1b5f1ad2c88c7cb3c32bb6a7cd66225f24d5964cb5c0b4183ed2f183e"
+    },
+    {
+      "path": "work/vanilla-integration/mod-before/gfx/models/units/infantry/valkur/valkur_properties.dds",
+      "bytes": 192,
+      "sha256": "f7330c4d9a170911e96a3e3efe3a0ef054aa7c2a35502c3c02dcab7ff65e07ad"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur.asset",
+      "bytes": 21335,
+      "sha256": "58e692f35c429b3e7d189b0be5c5cea871f66e2320f49faf81232c7d832c82dd"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur.mesh",
+      "bytes": 11210569,
+      "sha256": "5cb29d178ff6993b09b1de18e6003ac2803ba55b7987aa842c9af24b5955ddc2"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_diffuse.dds",
+      "bytes": 16777344,
+      "sha256": "decd747ba2c420c4da3e67eaa17bce402be1cff73496cf33c1b1ba7bdf8783b6"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_normal.dds",
+      "bytes": 16777344,
+      "sha256": "68a4b1b1b5f1ad2c88c7cb3c32bb6a7cd66225f24d5964cb5c0b4183ed2f183e"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_properties.dds",
+      "bytes": 192,
+      "sha256": "f7330c4d9a170911e96a3e3efe3a0ef054aa7c2a35502c3c02dcab7ff65e07ad"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_shield.mesh",
+      "bytes": 823403,
+      "sha256": "4ab75b1ecf8d6a2ff7ca2c7f99d8be830bb180cfcb8c70db69385353bfb51d16"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_shield_back.mesh",
+      "bytes": 823408,
+      "sha256": "3ff381a4c0de7777e0b7e99555ed393aa148eeb9aea558c719f522445e761d92"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_sword.mesh",
+      "bytes": 357178,
+      "sha256": "5dca93400d3c19772e467234c6b4d5f3ff190d05c297d5ce087a40945b130516"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/valkur_sword_stowed.mesh",
+      "bytes": 357185,
+      "sha256": "b70eef87d64682ed5ca84fd669d3559f2711e4e7ecc030906484a8e731cd2617"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_besiege_animation.anim",
+      "bytes": 297984,
+      "sha256": "dc29ed003c3dddc35ab6bc36d5f3161c30228e58493b936bf641767131b1d151"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_despawn_animation.anim",
+      "bytes": 362888,
+      "sha256": "82f0eebf7e81f6fe90f336f298691203237c61e27a89076a32871730e2833f6a"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_even_defensive_seq_1_animation.anim",
+      "bytes": 270656,
+      "sha256": "93182c8316027586edd591c3011b98ec3fbddf83a1ab5ae6e50a89b8838ae4e9"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_even_offensive_seq_1_animation.anim",
+      "bytes": 270656,
+      "sha256": "7000038fe0b93822791ba237008ffa138c1a7fbc07d451241354f4a627e8b88e"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_even_winlose_tx_defensive_1_animation.anim",
+      "bytes": 118644,
+      "sha256": "899990c19043d64b7eaec78986f43f4853b48dcbcc9e6345fe7a016599a5a3df"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_even_winlose_tx_offensive_1_animation.anim",
+      "bytes": 118644,
+      "sha256": "d05fbd78fea337faa170cd577e5610569aa0c095a28e379d3b7993100e8c981e"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_gathering_army_animation.anim",
+      "bytes": 520024,
+      "sha256": "a9cb162d90f71c40f58506ed3f9e5322181baeed89cc57200f1659c6737b0140"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_gathering_army_viking_animation.anim",
+      "bytes": 236496,
+      "sha256": "94a295076222d9aff99be782d6695eeee5539e50738a85094882df9b0b04c9df"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_idle_base_animation.anim",
+      "bytes": 311648,
+      "sha256": "fe13e380ebf7866aca70a550df2e69cb0e164e5893d3ac81b69918abdaa992cf"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_idle_tx_battle_axes_animation.anim",
+      "bytes": 263824,
+      "sha256": "84a909348f7438dc8e8fd67465c202418ce18961800d119fe9537f24194caef1"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_idle_tx_battle_swords_animation.anim",
+      "bytes": 263824,
+      "sha256": "ec379cc2a903a7f9bbd2c355ca9c7c5dfa2060074ea80cb5f1c87b5dde59f7c1"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_idle_var1_animation.anim",
+      "bytes": 554184,
+      "sha256": "7c135b0ad90ecf165ca31807f970128d664fc9ab2287acdbb2be3e7ee8ae51dd"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_infantry_male_sick_idle.anim",
+      "bytes": 485864,
+      "sha256": "fc771ce4358743b25d0562a1bc6e11198f71f5028cb7e428dd4d83c141d17493"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_infantry_male_sick_moving.anim",
+      "bytes": 144264,
+      "sha256": "f2341368f8db1db6d3d964905dfe4ad13cf667fdf500d86fb27003bffd4c2f15"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_moving_battle_animation.anim",
+      "bytes": 144264,
+      "sha256": "7b8017c609486587e5b920ffe0567be6969bfe98a1d0bbf3004fd0f11ee62885"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_moving_retreat_animation.anim",
+      "bytes": 41784,
+      "sha256": "226a9be8162ff141e5e55f26e3a1ae091d4606f0f8c1663b7097dc3b4c93f999"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_moving_standard_animation.anim",
+      "bytes": 144264,
+      "sha256": "1263b54ed7c27f5eaa49d244182855889675efdd3ca016f71c5f70bd85c1a02d"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_pursuit_defensive_seq_1_animation.anim",
+      "bytes": 221124,
+      "sha256": "f86ae8bdaa28ea6b2d989eb0cc41dae603eb2e34690ef44a6d39f472bbf8fb09"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_pursuit_offensive_seq_1_animation.anim",
+      "bytes": 221124,
+      "sha256": "1c09b6615868e6e308e153aa58662ce49aff4f1ab375db6713fc8f2167f04a6a"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_spawn_animation.anim",
+      "bytes": 485864,
+      "sha256": "040e6631481e2eb5db8ed0fc5af9bcc9b0ba2fe968b4a3250b77379eb6d7426b"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_victorious_combat_animation.anim",
+      "bytes": 724984,
+      "sha256": "e99c007001d64572c8e4fb28ba0017096a1e22f5f7520c1ae8c89d2984c637ff"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_victorious_siege_animation.anim",
+      "bytes": 793304,
+      "sha256": "6def29ee2b369cd263be1cbcb56d82c60edf73f6adb1434c5f317a512ca24e10"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_winlose_defensive_seq_1_animation.anim",
+      "bytes": 181840,
+      "sha256": "6f530a5a90d962e232d0b31598bab1e8def6009c32e1d72635462ea5820f0bf5"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_winlose_even_tx_defensive_1_animation.anim",
+      "bytes": 110104,
+      "sha256": "fb37ce8ddc01e4a6daf2bd26eb3f5f550f0a405a77d261ffa06ddfc3450b20a6"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_winlose_even_tx_offensive_1_animation.anim",
+      "bytes": 110104,
+      "sha256": "ed5759bd3071728440bb3dd955f3abc34b5708f90ff727393be375cd7558cc37"
+    },
+    {
+      "path": "work/vanilla-integration/staged/gfx/models/units/infantry/valkur/vanilla_winlose_offensive_seq_1_animation.anim",
+      "bytes": 181840,
+      "sha256": "7da1896789a05268be064c688a1641c3e0f436425a38d76e8bcf01b724565a07"
+    },
+    {
+      "path": "work/walk_frames/arm_idle.png",
+      "bytes": 795923,
+      "sha256": "1cb7854c7fc2ecb23793605b516fbb72220b964a7ab46a3d8c125e6b36c508c6"
+    },
+    {
+      "path": "work/walk_frames/arm_walk.png",
+      "bytes": 789762,
+      "sha256": "d185f71d8329dd46d17db4c481a7508239f998fba67793d7a9519bb5d2d52047"
+    },
+    {
+      "path": "work/walk_frames/fixed_01.png",
+      "bytes": 476765,
+      "sha256": "01f8032f98bc273fb0586256c23ad4fcd321170d3981bed9d607afe76e3f47d1"
+    },
+    {
+      "path": "work/walk_frames/fixed_13.png",
+      "bytes": 470248,
+      "sha256": "5210dac7f9388a2f558ed1b24014c5d3aea63bb783f8450a23503969acc9bb1f"
+    },
+    {
+      "path": "work/walk_frames/fixed_49.png",
+      "bytes": 496491,
+      "sha256": "c22cf4192deaf11efa129b0953999a4014558663e301a26f47c95ea090a4f248"
+    },
+    {
+      "path": "work/walk_frames/fixed_73.png",
+      "bytes": 474364,
+      "sha256": "02fed90ecaf982c07f1f769cd61ab951e200e1ee087d0a6abbda472d03e7744c"
+    },
+    {
+      "path": "work/walk_frames/gap_a_01.png",
+      "bytes": 1025506,
+      "sha256": "1854d5370f5e88944f1cd42484e271bd3bf1cf1fad2cbfabf6845064fc7a9eff"
+    },
+    {
+      "path": "work/walk_frames/gap_a_49.png",
+      "bytes": 993199,
+      "sha256": "0488bfffceebb881c875d9b33ecb405efdf33ad1426d56a83319696a2cd69233"
+    },
+    {
+      "path": "work/walk_frames/gap_b_01.png",
+      "bytes": 1077552,
+      "sha256": "297bb1adff8abee690ad20a76c7d23409d27d6bcbeac25b0aeaeaae62a481809"
+    },
+    {
+      "path": "work/walk_frames/gap_b_49.png",
+      "bytes": 1002166,
+      "sha256": "6b7b04a6892a311f0d15c13691de526452d7be21ea2a450894567b5c07b46bb4"
+    },
+    {
+      "path": "work/walk_frames/gap_cut.png",
+      "bytes": 1046585,
+      "sha256": "ea1bb5e52c1260f5bc04534ea7f58963aad819c270281beb8b4e7355c9b8b228"
+    },
+    {
+      "path": "work/walk_frames/gap_c_01.png",
+      "bytes": 917055,
+      "sha256": "ee4890333891e3b252fd65a27ddf282332eef12fa97aff538c872cad69b7fac5"
+    },
+    {
+      "path": "work/walk_frames/gap_c_49.png",
+      "bytes": 903647,
+      "sha256": "39a550ebd910dddf6c3bcf266c0fd8c1e2a80516e4254e7e652a6120d98e7c14"
+    },
+    {
+      "path": "work/walk_frames/grip_01.png",
+      "bytes": 635700,
+      "sha256": "34e900762de98106e4f9be5a631af07ea211247ad65b761e8c8490bf7188c32d"
+    },
+    {
+      "path": "work/walk_frames/grip_30.png",
+      "bytes": 655839,
+      "sha256": "f001a442b27c8366ab9ad49d4da9f926ddb907213b9f0bf416689949cb680232"
+    },
+    {
+      "path": "work/walk_frames/grip_60.png",
+      "bytes": 648853,
+      "sha256": "4349b5148067a93e2d8d099ab7b13fe4778d90479a0425945008a6d02be196f4"
+    },
+    {
+      "path": "work/walk_frames/grip_clean.png",
+      "bytes": 1054841,
+      "sha256": "abe69256a30014a5b72771186120f9107d6630b82f55dd0ef6ae68e32e1dc68a"
+    },
+    {
+      "path": "work/walk_frames/plates.png",
+      "bytes": 1060287,
+      "sha256": "8af42904985ab055802b777a49f7a056adb6c9ca6a9174c1e23dd3260dc6f88b"
+    },
+    {
+      "path": "work/walk_frames/walk_01.png",
+      "bytes": 475895,
+      "sha256": "91456bed17812c7f8b2d14fd402fb8b8cf914c0783b79b26ffe82d7c1792f564"
+    },
+    {
+      "path": "work/walk_frames/walk_13.png",
+      "bytes": 468081,
+      "sha256": "02c24eb23efb0d4350c462309e7b81af4892d842fbc556df00db8a1b795ebce7"
+    },
+    {
+      "path": "work/walk_frames/walk_25.png",
+      "bytes": 461113,
+      "sha256": "b5aa9494c13cfc1a01ebf77fba9273cdce86f38ce086750bbe99fd7fa9f177d0"
+    },
+    {
+      "path": "work/walk_frames/walk_37.png",
+      "bytes": 496054,
+      "sha256": "a55a11ae2417b02dfbcca868d4c6ce3b08446604f2350da80b88c967bd1f553b"
+    },
+    {
+      "path": "work/walk_frames/walk_49.png",
+      "bytes": 496491,
+      "sha256": "3e2282a0bad3e170cbcae9b7c463ededce1dae75365e36fd3fe423a0ff31a747"
+    },
+    {
+      "path": "work/walk_frames/walk_61.png",
+      "bytes": 491688,
+      "sha256": "11754416d42b37be5aff651842ce3ecadfbca442a0ee82996edc69b243ef3b66"
+    },
+    {
+      "path": "work/walk_frames/walk_73.png",
+      "bytes": 471564,
+      "sha256": "7c0a4ac8ee898523d7b14e7301d05d7ee9479a76c54f2fe0826bf673a62f8e6e"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/entity_links/valkur_units_test.txt",
+      "bytes": 514,
+      "sha256": "3a6de4ee4bb6196a7db5384b8791263154968fd6076c15b2cb6feb1ab78758b9"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/src_Image_0.png",
+      "bytes": 26041411,
+      "sha256": "f0638a61c9d500e598c0e984542a2ae5206a6de2f5cfa5d9cc084d95de77cb99"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/src_Image_1.png",
+      "bytes": 3875207,
+      "sha256": "ce4bb2adde2e5414b950825cd38f6b493acc93d2546b1829aa04a23eb5453109"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/src_Image_2.png",
+      "bytes": 18941067,
+      "sha256": "415050171d96284b39c7c54af7568fc90c1d4a4685cd7cc7744a971521be01a6"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur.asset",
+      "bytes": 21335,
+      "sha256": "58e692f35c429b3e7d189b0be5c5cea871f66e2320f49faf81232c7d832c82dd"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur.mesh",
+      "bytes": 11210569,
+      "sha256": "5cb29d178ff6993b09b1de18e6003ac2803ba55b7987aa842c9af24b5955ddc2"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_attack.anim",
+      "bytes": 593080,
+      "sha256": "bd4ca47143a20580f4c1db94baed3df340ef6be8e060435d6259eec10275d12c"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_defense.anim",
+      "bytes": 593080,
+      "sha256": "60978f954ce8f6b7ff2bb66ec48abee3a60f53f1de0bd2733aa4145d7ba00b96"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_diffuse.dds",
+      "bytes": 16777344,
+      "sha256": "decd747ba2c420c4da3e67eaa17bce402be1cff73496cf33c1b1ba7bdf8783b6"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_diffuse.png",
+      "bytes": 1968462,
+      "sha256": "5a5e9e18f70cd99535270a1d260a7c89e6ecf78592deba1dedefe5ba85e8e593"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_diffuse_baked.png",
+      "bytes": 665902,
+      "sha256": "41211a9965ea1bb0277dff2f505c31f842cccc034306c21fdffd2519a73405a7"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_idle.anim",
+      "bytes": 343931,
+      "sha256": "1e361b15fbbc597823972c8fb25ca072ba33de5ca4522a19847243cf38e1990a"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_move.anim",
+      "bytes": 161502,
+      "sha256": "9125bc53f142c4686dcdb5744470b99a245d0d7fb8576909b7d9e0fcd1159a8e"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_normal.dds",
+      "bytes": 16777344,
+      "sha256": "68a4b1b1b5f1ad2c88c7cb3c32bb6a7cd66225f24d5964cb5c0b4183ed2f183e"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_properties.dds",
+      "bytes": 192,
+      "sha256": "f7330c4d9a170911e96a3e3efe3a0ef054aa7c2a35502c3c02dcab7ff65e07ad"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_shield.mesh",
+      "bytes": 823403,
+      "sha256": "4ab75b1ecf8d6a2ff7ca2c7f99d8be830bb180cfcb8c70db69385353bfb51d16"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_shield_back.mesh",
+      "bytes": 823408,
+      "sha256": "3ff381a4c0de7777e0b7e99555ed393aa148eeb9aea558c719f522445e761d92"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_sword.mesh",
+      "bytes": 357178,
+      "sha256": "5dca93400d3c19772e467234c6b4d5f3ff190d05c297d5ce087a40945b130516"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/valkur_sword_stowed.mesh",
+      "bytes": 357185,
+      "sha256": "b70eef87d64682ed5ca84fd669d3559f2711e4e7ecc030906484a8e731cd2617"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_besiege_animation.anim",
+      "bytes": 297984,
+      "sha256": "dc29ed003c3dddc35ab6bc36d5f3161c30228e58493b936bf641767131b1d151"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_despawn_animation.anim",
+      "bytes": 362888,
+      "sha256": "82f0eebf7e81f6fe90f336f298691203237c61e27a89076a32871730e2833f6a"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_even_defensive_seq_1_animation.anim",
+      "bytes": 270656,
+      "sha256": "93182c8316027586edd591c3011b98ec3fbddf83a1ab5ae6e50a89b8838ae4e9"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_even_offensive_seq_1_animation.anim",
+      "bytes": 270656,
+      "sha256": "7000038fe0b93822791ba237008ffa138c1a7fbc07d451241354f4a627e8b88e"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_even_winlose_tx_defensive_1_animation.anim",
+      "bytes": 118644,
+      "sha256": "899990c19043d64b7eaec78986f43f4853b48dcbcc9e6345fe7a016599a5a3df"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_even_winlose_tx_offensive_1_animation.anim",
+      "bytes": 118644,
+      "sha256": "d05fbd78fea337faa170cd577e5610569aa0c095a28e379d3b7993100e8c981e"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_gathering_army_animation.anim",
+      "bytes": 520024,
+      "sha256": "a9cb162d90f71c40f58506ed3f9e5322181baeed89cc57200f1659c6737b0140"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_gathering_army_viking_animation.anim",
+      "bytes": 236496,
+      "sha256": "94a295076222d9aff99be782d6695eeee5539e50738a85094882df9b0b04c9df"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_idle_base_animation.anim",
+      "bytes": 311648,
+      "sha256": "fe13e380ebf7866aca70a550df2e69cb0e164e5893d3ac81b69918abdaa992cf"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_idle_tx_battle_axes_animation.anim",
+      "bytes": 263824,
+      "sha256": "84a909348f7438dc8e8fd67465c202418ce18961800d119fe9537f24194caef1"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_idle_tx_battle_swords_animation.anim",
+      "bytes": 263824,
+      "sha256": "ec379cc2a903a7f9bbd2c355ca9c7c5dfa2060074ea80cb5f1c87b5dde59f7c1"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_idle_var1_animation.anim",
+      "bytes": 554184,
+      "sha256": "7c135b0ad90ecf165ca31807f970128d664fc9ab2287acdbb2be3e7ee8ae51dd"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_infantry_male_sick_idle.anim",
+      "bytes": 485864,
+      "sha256": "fc771ce4358743b25d0562a1bc6e11198f71f5028cb7e428dd4d83c141d17493"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_infantry_male_sick_moving.anim",
+      "bytes": 144264,
+      "sha256": "f2341368f8db1db6d3d964905dfe4ad13cf667fdf500d86fb27003bffd4c2f15"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_moving_battle_animation.anim",
+      "bytes": 144264,
+      "sha256": "7b8017c609486587e5b920ffe0567be6969bfe98a1d0bbf3004fd0f11ee62885"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_moving_retreat_animation.anim",
+      "bytes": 41784,
+      "sha256": "226a9be8162ff141e5e55f26e3a1ae091d4606f0f8c1663b7097dc3b4c93f999"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_moving_standard_animation.anim",
+      "bytes": 144264,
+      "sha256": "1263b54ed7c27f5eaa49d244182855889675efdd3ca016f71c5f70bd85c1a02d"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_pursuit_defensive_seq_1_animation.anim",
+      "bytes": 221124,
+      "sha256": "f86ae8bdaa28ea6b2d989eb0cc41dae603eb2e34690ef44a6d39f472bbf8fb09"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_pursuit_offensive_seq_1_animation.anim",
+      "bytes": 221124,
+      "sha256": "1c09b6615868e6e308e153aa58662ce49aff4f1ab375db6713fc8f2167f04a6a"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_spawn_animation.anim",
+      "bytes": 485864,
+      "sha256": "040e6631481e2eb5db8ed0fc5af9bcc9b0ba2fe968b4a3250b77379eb6d7426b"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_victorious_combat_animation.anim",
+      "bytes": 724984,
+      "sha256": "e99c007001d64572c8e4fb28ba0017096a1e22f5f7520c1ae8c89d2984c637ff"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_victorious_siege_animation.anim",
+      "bytes": 793304,
+      "sha256": "6def29ee2b369cd263be1cbcb56d82c60edf73f6adb1434c5f317a512ca24e10"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_winlose_defensive_seq_1_animation.anim",
+      "bytes": 181840,
+      "sha256": "6f530a5a90d962e232d0b31598bab1e8def6009c32e1d72635462ea5820f0bf5"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_winlose_even_tx_defensive_1_animation.anim",
+      "bytes": 110104,
+      "sha256": "fb37ce8ddc01e4a6daf2bd26eb3f5f550f0a405a77d261ffa06ddfc3450b20a6"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_winlose_even_tx_offensive_1_animation.anim",
+      "bytes": 110104,
+      "sha256": "ed5759bd3071728440bb3dd955f3abc34b5708f90ff727393be375cd7558cc37"
+    },
+    {
+      "path": "mod/valkur_units_test/gfx/models/units/infantry/valkur/vanilla_winlose_offensive_seq_1_animation.anim",
+      "bytes": 181840,
+      "sha256": "7da1896789a05268be064c688a1641c3e0f436425a38d76e8bcf01b724565a07"
+    }
+  ],
+  "excluded": [
+    "Git metadata",
+    "Python bytecode/cache"
+  ],
+  "source_files": 585,
+  "bytes": 2769656870
+}

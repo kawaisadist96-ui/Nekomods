@@ -1,0 +1,47 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.547  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\source-preserved.blend"
+[io_pdx.updater] ERROR:  Failed during update check. (URL can't contain control characters. '/repos/STNH Team/io_pdx_mesh/releases' (found at least ' '))
+[io_pdx] INFO:  Running io_pdx_mesh from d:\blender\blender.exe ((5, 2, 2))
+[io_pdx] INFO:  C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh
+RETARGET idle_base_animation 179
+RETARGET idle_var1_animation 321
+RETARGET besiege_animation 171
+RETARGET spawn_animation 281
+00:22.281  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\spawn_animation-1.png'
+00:22.656  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\spawn_animation-140.png'
+00:22.922  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\spawn_animation-281.png'
+RETARGET despawn_animation 209
+00:23.719  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\despawn_animation-1.png'
+00:24.016  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\despawn_animation-104.png'
+00:24.250  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\despawn_animation-209.png'
+RETARGET gathering_army_viking_animation 135
+00:24.781  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\gathering_army_viking_animation-30.png'
+RETARGET gathering_army_animation 301
+RETARGET moving_standard_animation 81
+00:25.891  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\moving_standard_animation-81.png'
+RETARGET moving_battle_animation 81
+RETARGET moving_retreat_animation 21
+RETARGET victorious_combat_animation 421
+RETARGET victorious_siege_animation 461
+RETARGET infantry_male_sick_moving 81
+RETARGET infantry_male_sick_idle 281
+RETARGET idle_tx_battle_axes_animation 151
+RETARGET idle_tx_battle_swords_animation 151
+RETARGET even_offensive_seq_1_animation 155
+RETARGET winlose_offensive_seq_1_animation 103
+RETARGET pursuit_offensive_seq_1_animation 126
+RETARGET even_winlose_tx_offensive_1_animation 66
+RETARGET winlose_even_tx_offensive_1_animation 61
+RETARGET even_defensive_seq_1_animation 155
+RETARGET winlose_defensive_seq_1_animation 103
+RETARGET pursuit_defensive_seq_1_animation 126
+RETARGET even_winlose_tx_defensive_1_animation 66
+RETARGET winlose_even_tx_defensive_1_animation 61
+00:32.016  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_6872_36a6741a3e68f4a89b9603c5c37878c0.png.png"
+Info: Saved as "valkur-vanilla-actions.blend"
+DONE 26
+Unable to delete file
+Unable to delete file
+
+Blender quit

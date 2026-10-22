@@ -1,0 +1,67 @@
+{
+  "snapped_to_hand": 5933,
+  "snapped_to_body": 564,
+  "skirt_verts": 72755,
+  "shoulders": {
+    "left": 112364,
+    "right": 122663
+  },
+  "neck_verts": 90531,
+  "attack_95": {
+    "probes": [
+      {
+        "edge": [
+          809011,
+          809035
+        ],
+        "rest_cm": 0.063,
+        "posed_cm": 0.051
+      },
+      {
+        "edge": [
+          221522,
+          221525
+        ],
+        "rest_cm": 0.562,
+        "posed_cm": 0.562
+      },
+      {
+        "edge": [
+          613288,
+          613296
+        ],
+        "rest_cm": 0.198,
+        "posed_cm": 0.203
+      },
+      {
+        "edge": [
+          122507,
+          122508
+        ],
+        "rest_cm": 0.338,
+        "posed_cm": 0.338
+      },
+      {
+        "edge": [
+          1258444,
+          1258445
+        ],
+        "rest_cm": 0.06,
+        "posed_cm": 37.315
+      }
+    ],
+    "edges_extra_over_8cm": 3065,
+    "worst": {
+      "edge": [
+        1198661,
+        1198837
+      ],
+      "rest_cm": 0.28,
+      "posed_cm": 43.468,
+      "bones": [
+        "Character1_Hips",
+        "Character1_LeftHand"
+      ]
+    }
+  }
+}

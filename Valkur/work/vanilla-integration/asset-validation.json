@@ -1,0 +1,43 @@
+{
+  "vanilla_body_states": [
+    "idle",
+    "idle",
+    "besiege",
+    "spawn",
+    "defeated",
+    "disband",
+    "gather",
+    "gather_idle_1",
+    "gather_idle_2",
+    "move",
+    "move_attack",
+    "move_attack_continue",
+    "move_retreat",
+    "combat_won",
+    "siege_won",
+    "idle_sick",
+    "move_sick",
+    "even_offensive_seq_1",
+    "even_defensive_seq_1",
+    "winlose_offensive_seq_1",
+    "winlose_defensive_seq_1",
+    "pursuit_offensive_seq_1",
+    "pursuit_defensive_seq_1",
+    "even_winlose_tx_offensive_1",
+    "winlose_even_tx_offensive_1",
+    "even_winlose_tx_defensive_1",
+    "winlose_even_tx_defensive_1"
+  ],
+  "state_count": 27,
+  "animation_count": 26,
+  "animation_ids_resolved": true,
+  "next_states_resolved": true,
+  "equipment_entities": [
+    "valkur_shield_entity",
+    "valkur_shield_back_entity",
+    "valkur_sword_entity",
+    "valkur_sword_stowed_entity",
+    "unit_fp1_horn_entity"
+  ],
+  "source_entity": "unit_fp1_infantry_02_entity"
+}

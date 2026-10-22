@@ -1,0 +1,129 @@
+{
+  "geometry_uv_identical_to_uncut": true,
+  "vertices": 91927,
+  "faces": 124741,
+  "bones": 61,
+  "changed_weights": 17206,
+  "max_influences": 4,
+  "max_weight_sum_error": 2.0000000011677344e-07,
+  "unweighted": 0,
+  "tests": [
+    {
+      "action": "idle",
+      "frames": 179,
+      "max_side_edge_extra_cm": 0.3988845359452915,
+      "worst_frame": 105,
+      "edge_frame_occurrences_over8cm": 0,
+      "regions": {
+        "side": {
+          "max_extra_cm": 0.3988845359452915,
+          "worst_frame": 105,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "arms": {
+          "max_extra_cm": 0.7976987716046141,
+          "worst_frame": 117,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "collar": {
+          "max_extra_cm": 1.9052030726211955,
+          "worst_frame": 117,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "torso": {
+          "max_extra_cm": 1.2461827135581922,
+          "worst_frame": 113,
+          "edge_frame_occurrences_over8cm": 0
+        }
+      }
+    },
+    {
+      "action": "walk",
+      "frames": 81,
+      "max_side_edge_extra_cm": 3.0601120865104523,
+      "worst_frame": 30,
+      "edge_frame_occurrences_over8cm": 0,
+      "regions": {
+        "side": {
+          "max_extra_cm": 3.0601120865104523,
+          "worst_frame": 30,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "arms": {
+          "max_extra_cm": 7.268089830359597,
+          "worst_frame": 3,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "collar": {
+          "max_extra_cm": 7.6161084171276565,
+          "worst_frame": 40,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "torso": {
+          "max_extra_cm": 7.036819819933849,
+          "worst_frame": 2,
+          "edge_frame_occurrences_over8cm": 0
+        }
+      }
+    },
+    {
+      "action": "attack",
+      "frames": 309,
+      "max_side_edge_extra_cm": 5.702270822547604,
+      "worst_frame": 63,
+      "edge_frame_occurrences_over8cm": 0,
+      "regions": {
+        "side": {
+          "max_extra_cm": 5.702270822547604,
+          "worst_frame": 63,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "arms": {
+          "max_extra_cm": 18.62990518829256,
+          "worst_frame": 173,
+          "edge_frame_occurrences_over8cm": 1427
+        },
+        "collar": {
+          "max_extra_cm": 21.85629337910281,
+          "worst_frame": 131,
+          "edge_frame_occurrences_over8cm": 5668
+        },
+        "torso": {
+          "max_extra_cm": 23.61760090826761,
+          "worst_frame": 215,
+          "edge_frame_occurrences_over8cm": 12289
+        }
+      }
+    },
+    {
+      "action": "defense",
+      "frames": 309,
+      "max_side_edge_extra_cm": 5.124970981565083,
+      "worst_frame": 108,
+      "edge_frame_occurrences_over8cm": 0,
+      "regions": {
+        "side": {
+          "max_extra_cm": 5.124970981565083,
+          "worst_frame": 108,
+          "edge_frame_occurrences_over8cm": 0
+        },
+        "arms": {
+          "max_extra_cm": 15.528036336155855,
+          "worst_frame": 71,
+          "edge_frame_occurrences_over8cm": 3211
+        },
+        "collar": {
+          "max_extra_cm": 20.156448855231048,
+          "worst_frame": 31,
+          "edge_frame_occurrences_over8cm": 5396
+        },
+        "torso": {
+          "max_extra_cm": 25.578826356060855,
+          "worst_frame": 71,
+          "edge_frame_occurrences_over8cm": 27863
+        }
+      }
+    }
+  ],
+  "bone_rest_unchanged": true
+}

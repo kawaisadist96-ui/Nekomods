@@ -1,0 +1,1087 @@
+{
+  "bones": [
+    {
+      "name": "root",
+      "native": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "World_node_1",
+      "native": [
+        0.8258822560310364,
+        -48.82719421386719,
+        0.0
+      ],
+      "fitted": [
+        0.8552011251449585,
+        -50.56056213378906,
+        0.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Hips",
+      "native": [
+        -4.1206374114732477e-16,
+        -2.6076507568359375,
+        93.40672302246094
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        100.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_back_1",
+      "native": [
+        9.9373140335083,
+        9.477102279663086,
+        97.4024658203125
+      ],
+      "fitted": [
+        14.0,
+        13.0,
+        108.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_back_2",
+      "native": [
+        9.9373140335083,
+        10.470283508300781,
+        66.41645812988281
+      ],
+      "fitted": [
+        15.0,
+        13.0,
+        96.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_back_3",
+      "native": [
+        9.9373140335083,
+        11.601646423339844,
+        36.38234329223633
+      ],
+      "fitted": [
+        16.0,
+        13.0,
+        84.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_front_1",
+      "native": [
+        10.269177436828613,
+        -18.311830520629883,
+        92.76616668701172
+      ],
+      "fitted": [
+        14.0,
+        -12.0,
+        108.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_front_2",
+      "native": [
+        10.695300102233887,
+        -18.403091430664062,
+        61.780155181884766
+      ],
+      "fitted": [
+        15.0,
+        -12.0,
+        96.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_skirt_front_3",
+      "native": [
+        11.27894115447998,
+        -17.67843246459961,
+        31.746042251586914
+      ],
+      "fitted": [
+        16.0,
+        -12.0,
+        84.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_hip_node_1",
+      "native": [
+        20.779720306396484,
+        -7.961156845092773,
+        106.16266632080078
+      ],
+      "fitted": [
+        21.51740074157715,
+        -5.543555736541748,
+        113.20877838134766
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Front_hip_node_1",
+      "native": [
+        -12.302178382873535,
+        -22.357948303222656,
+        101.73307800292969
+      ],
+      "fitted": [
+        -12.738905906677246,
+        -20.451433181762695,
+        108.62194061279297
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftUpLeg",
+      "native": [
+        10.507670402526855,
+        -4.211880207061768,
+        89.94672393798828
+      ],
+      "fitted": [
+        13.0,
+        0.0,
+        99.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftLeg",
+      "native": [
+        13.382095336914062,
+        -1.8086155652999878,
+        48.12284851074219
+      ],
+      "fitted": [
+        17.0,
+        5.960464477539063e-08,
+        61.000003814697266
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftFoot",
+      "native": [
+        15.81798267364502,
+        0.3749741315841675,
+        10.415762901306152
+      ],
+      "fitted": [
+        19.0,
+        2.0,
+        13.000003814697266
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftToeBase",
+      "native": [
+        19.225675582885742,
+        -14.440081596374512,
+        3.2998530864715576
+      ],
+      "fitted": [
+        20.0,
+        -13.000000953674316,
+        4.000002384185791
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightUpLeg",
+      "native": [
+        -10.50766658782959,
+        -4.211880207061768,
+        89.94672393798828
+      ],
+      "fitted": [
+        -13.0,
+        0.0,
+        99.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightLeg",
+      "native": [
+        -13.49728775024414,
+        -1.8002314567565918,
+        48.131378173828125
+      ],
+      "fitted": [
+        -20.0,
+        -4.0978193283081055e-08,
+        61.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightFoot",
+      "native": [
+        -16.03702735900879,
+        0.3741140365600586,
+        10.430667877197266
+      ],
+      "fitted": [
+        -22.0,
+        2.0,
+        13.000000953674316
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightToeBase",
+      "native": [
+        -19.462299346923828,
+        -14.436867713928223,
+        3.3147621154785156
+      ],
+      "fitted": [
+        -24.0,
+        -12.999999046325684,
+        3.9999988079071045
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Spine",
+      "native": [
+        -2.6204412649651586e-15,
+        -2.6076507568359375,
+        103.35237121582031
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        114.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Spine1",
+      "native": [
+        -5.593264329614104e-15,
+        -2.6076507568359375,
+        116.74077606201172
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        128.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Spine2",
+      "native": [
+        -8.56608739426305e-15,
+        -2.6076507568359375,
+        130.12918090820312
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        143.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "back_node_1",
+      "native": [
+        0.0,
+        23.324039459228516,
+        134.71624755859375
+      ],
+      "fitted": [
+        8.870184080788605e-15,
+        26.852266311645508,
+        147.74990844726562
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftShoulder",
+      "native": [
+        8.980793952941895,
+        1.1024718284606934,
+        135.29966735839844
+      ],
+      "fitted": [
+        10.0,
+        0.0,
+        150.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftArm",
+      "native": [
+        20.511619567871094,
+        1.091902256011963,
+        135.29966735839844
+      ],
+      "fitted": [
+        20.0,
+        4.0,
+        149.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftForeArm",
+      "native": [
+        37.87759017944336,
+        1.0919015407562256,
+        117.41288757324219
+      ],
+      "fitted": [
+        25.0,
+        5.0,
+        126.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftForeArmRoll",
+      "native": [
+        46.542945861816406,
+        -1.9241905212402344,
+        108.97005462646484
+      ],
+      "fitted": [
+        25.999998092651367,
+        5.000000476837158,
+        114.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHand",
+      "native": [
+        54.35240173339844,
+        -4.731899261474609,
+        100.85464477539062
+      ],
+      "fitted": [
+        26.999998092651367,
+        5.000000476837158,
+        103.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Left_hand_node_1",
+      "native": [
+        70.96892547607422,
+        -11.14678955078125,
+        92.8400650024414
+      ],
+      "fitted": [
+        45.20641326904297,
+        -10.642618179321289,
+        93.7009048461914
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandThumb1",
+      "native": [
+        56.191165924072266,
+        -9.577116966247559,
+        95.8180160522461
+      ],
+      "fitted": [
+        27.404525756835938,
+        2.335130453109741,
+        98.97069549560547
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandThumb2",
+      "native": [
+        56.83266830444336,
+        -12.210497856140137,
+        94.41812896728516
+      ],
+      "fitted": [
+        27.545656204223633,
+        0.8867703676223755,
+        97.85078430175781
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandThumb3",
+      "native": [
+        58.11212921142578,
+        -14.373640060424805,
+        92.36399841308594
+      ],
+      "fitted": [
+        27.827138900756836,
+        -0.3029574155807495,
+        96.20748138427734
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandIndex1",
+      "native": [
+        61.48531723022461,
+        -10.414332389831543,
+        92.9054946899414
+      ],
+      "fitted": [
+        28.569238662719727,
+        1.8746616840362549,
+        96.64067840576172
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandIndex2",
+      "native": [
+        63.81487274169922,
+        -11.961591720581055,
+        90.12056732177734
+      ],
+      "fitted": [
+        29.08173942565918,
+        1.0236694812774658,
+        94.41273498535156
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandIndex3",
+      "native": [
+        65.43804168701172,
+        -13.069756507873535,
+        87.97251892089844
+      ],
+      "fitted": [
+        29.4388427734375,
+        0.41417890787124634,
+        92.69429779052734
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandRing1",
+      "native": [
+        61.44645690917969,
+        -6.709858417510986,
+        92.40198516845703
+      ],
+      "fitted": [
+        28.56068992614746,
+        3.912123203277588,
+        96.23786926269531
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandRing2",
+      "native": [
+        63.928470611572266,
+        -7.5493268966674805,
+        89.07025909423828
+      ],
+      "fitted": [
+        29.106733322143555,
+        3.4504153728485107,
+        93.57249450683594
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_LeftHandRing3",
+      "native": [
+        65.83760833740234,
+        -8.195039749145508,
+        86.50751495361328
+      ],
+      "fitted": [
+        29.526742935180664,
+        3.095273733139038,
+        91.52229309082031
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightShoulder",
+      "native": [
+        -8.980793952941895,
+        1.1024718284606934,
+        135.29966735839844
+      ],
+      "fitted": [
+        -10.0,
+        0.0,
+        150.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightArm",
+      "native": [
+        -20.511619567871094,
+        1.0919023752212524,
+        135.29966735839844
+      ],
+      "fitted": [
+        -20.0,
+        4.0,
+        149.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightForeArm",
+      "native": [
+        -37.87758255004883,
+        1.0919009447097778,
+        117.41288757324219
+      ],
+      "fitted": [
+        -25.0,
+        4.0,
+        126.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightForeArmRoll",
+      "native": [
+        -46.54294967651367,
+        -1.9241849184036255,
+        108.97005462646484
+      ],
+      "fitted": [
+        -29.0,
+        3.000000238418579,
+        114.00000762939453
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHand",
+      "native": [
+        -54.352394104003906,
+        -4.731899738311768,
+        100.85459899902344
+      ],
+      "fitted": [
+        -32.0,
+        3.0,
+        102.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Right_hand_node_1",
+      "native": [
+        -71.08330535888672,
+        -11.146784782409668,
+        92.98128509521484
+      ],
+      "fitted": [
+        -49.32486343383789,
+        -12.642614364624023,
+        90.84718322753906
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandThumb1",
+      "native": [
+        -56.1911735534668,
+        -9.577123641967773,
+        95.8179931640625
+      ],
+      "fitted": [
+        -32.40453338623047,
+        0.3351268768310547,
+        97.97071838378906
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandThumb2",
+      "native": [
+        -56.832672119140625,
+        -12.2105073928833,
+        94.4180908203125
+      ],
+      "fitted": [
+        -32.54566192626953,
+        -1.1132338047027588,
+        96.85079193115234
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandThumb3",
+      "native": [
+        -58.112117767333984,
+        -14.373651504516602,
+        92.36396026611328
+      ],
+      "fitted": [
+        -32.82714080810547,
+        -2.3029634952545166,
+        95.20748901367188
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandIndex1",
+      "native": [
+        -61.48531723022461,
+        -10.414338111877441,
+        92.90547180175781
+      ],
+      "fitted": [
+        -33.569244384765625,
+        -0.12534117698669434,
+        95.64070129394531
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandIndex2",
+      "native": [
+        -63.81487274169922,
+        -11.961597442626953,
+        90.12052917480469
+      ],
+      "fitted": [
+        -34.08174514770508,
+        -0.976333737373352,
+        93.4127426147461
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandIndex3",
+      "native": [
+        -65.43804931640625,
+        -13.069765090942383,
+        87.97248840332031
+      ],
+      "fitted": [
+        -34.438838958740234,
+        -1.5858268737792969,
+        91.6943130493164
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandRing1",
+      "native": [
+        -61.44645690917969,
+        -6.709861755371094,
+        92.40194702148438
+      ],
+      "fitted": [
+        -33.56069564819336,
+        1.9121208190917969,
+        95.23787689208984
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandRing2",
+      "native": [
+        -63.92845916748047,
+        -7.54932975769043,
+        89.0702133178711
+      ],
+      "fitted": [
+        -34.10673904418945,
+        1.4504139423370361,
+        92.57249450683594
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_RightHandRing3",
+      "native": [
+        -65.83759307861328,
+        -8.195043563842773,
+        86.50745391845703
+      ],
+      "fitted": [
+        -34.5267448425293,
+        1.095271348953247,
+        90.52228546142578
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Neck",
+      "native": [
+        -1.15389087648461e-14,
+        -2.6076507568359375,
+        143.517578125
+      ],
+      "fitted": [
+        0.0,
+        0.0,
+        160.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Character1_Head",
+      "native": [
+        -7.624331599550248e-15,
+        -1.7154922485351562,
+        156.02053833007812
+      ],
+      "fitted": [
+        0.0,
+        1.0,
+        173.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_front_1",
+      "native": [
+        -10.269200325012207,
+        -18.311800003051758,
+        92.76619720458984
+      ],
+      "fitted": [
+        -14.0,
+        -12.0,
+        108.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_front_2",
+      "native": [
+        -10.695300102233887,
+        -18.403099060058594,
+        61.78020095825195
+      ],
+      "fitted": [
+        -15.0,
+        -12.0,
+        96.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_front_3",
+      "native": [
+        -11.278900146484375,
+        -17.67840003967285,
+        31.746000289916992
+      ],
+      "fitted": [
+        -16.0,
+        -12.0,
+        84.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_back_1",
+      "native": [
+        -9.937310218811035,
+        9.477100372314453,
+        97.40249633789062
+      ],
+      "fitted": [
+        -14.0,
+        13.0,
+        108.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_back_2",
+      "native": [
+        -9.937310218811035,
+        10.47029972076416,
+        66.41649627685547
+      ],
+      "fitted": [
+        -15.0,
+        13.0,
+        96.0
+      ],
+      "rotation_delta_degrees": 0.0
+    },
+    {
+      "name": "Rright_skirt_back_3",
+      "native": [
+        -9.937310218811035,
+        11.60159969329834,
+        36.382301330566406
+      ],
+      "fitted": [
+        -16.0,
+        13.0,
+        84.0
+      ],
+      "rotation_delta_degrees": 0.0
+    }
+  ],
+  "locators": [],
+  "animations": [
+    {
+      "id": "idle_base_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_idle_base.anim",
+      "fps": 60.33707809448242,
+      "samples": 179,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "idle_var1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_idle_var1.anim",
+      "fps": 60.1875,
+      "samples": 321,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "besiege_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_besiege.anim",
+      "fps": 60.35293960571289,
+      "samples": 171,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "spawn_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_spawn.anim",
+      "fps": 60.21428680419922,
+      "samples": 281,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "despawn_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_despawn.anim",
+      "fps": 60.28845977783203,
+      "samples": 209,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "gathering_army_viking_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_gathering_army_viking.anim",
+      "fps": 15.168539047241211,
+      "samples": 135,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "gathering_army_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_gathering_army.anim",
+      "fps": 60.20000076293945,
+      "samples": 301,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "moving_standard_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_moving_standard.anim",
+      "fps": 60.75,
+      "samples": 81,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "moving_battle_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_moving_battle.anim",
+      "fps": 60.75,
+      "samples": 81,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "moving_retreat_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_moving_retreat.anim",
+      "fps": 15.75,
+      "samples": 21,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "victorious_combat_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_victorious_combat.anim",
+      "fps": 60.14285659790039,
+      "samples": 421,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "victorious_siege_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_victorious_siege.anim",
+      "fps": 60.130435943603516,
+      "samples": 461,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "infantry_male_sick_moving",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_male_sick_moving.anim",
+      "fps": 30.375,
+      "samples": 81,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "infantry_male_sick_idle",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_male_sick_idle.anim",
+      "fps": 30.10714340209961,
+      "samples": 281,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "idle_tx_battle_axes_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_idle_tx_battle_axes.anim",
+      "fps": 60.400001525878906,
+      "samples": 151,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "idle_tx_battle_swords_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_idle_tx_battle_swords.anim",
+      "fps": 60.400001525878906,
+      "samples": 151,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "even_offensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_even_offensive_seq_1.anim",
+      "fps": 30.194805145263672,
+      "samples": 155,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "winlose_offensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_winlose_offensive_seq_1.anim",
+      "fps": 30.294116973876953,
+      "samples": 103,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "pursuit_offensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_pursuit_offensive_seq_1.anim",
+      "fps": 30.239999771118164,
+      "samples": 126,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "even_winlose_tx_offensive_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_even_winlose_tx_offensive_1.anim",
+      "fps": 30.461538314819336,
+      "samples": 66,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "winlose_even_tx_offensive_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_winlose_even_tx_offensive_1.anim",
+      "fps": 30.5,
+      "samples": 61,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "even_defensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_even_defensive_seq_1.anim",
+      "fps": 30.194805145263672,
+      "samples": 155,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "winlose_defensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_winlose_defensive_seq_1.anim",
+      "fps": 30.294116973876953,
+      "samples": 103,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "pursuit_defensive_seq_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_pursuit_defensive_seq_1.anim",
+      "fps": 30.239999771118164,
+      "samples": 126,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "even_winlose_tx_defensive_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_even_winlose_tx_defensive_1.anim",
+      "fps": 30.461538314819336,
+      "samples": 66,
+      "bones": 61,
+      "missing": []
+    },
+    {
+      "id": "winlose_even_tx_defensive_1_animation",
+      "source": "C:\\Game\\Crusader Kings 3\\game\\gfx\\models\\units\\infantry\\animations\\infantry_01_axe_winlose_even_tx_defensive_1.anim",
+      "fps": 30.5,
+      "samples": 61,
+      "bones": 61,
+      "missing": []
+    }
+  ],
+  "mesh_objects": [
+    [
+      "|unit_fp1_infantry_02|LOD_0|unit_fp1_infantry_02_LOD_0|unit_fp1",
+      2
+    ],
+    [
+      "|unit_fp1_infantry_02|LOD_1|unit_fp1_infantry_02_LOD_1|unit_fp1",
+      2
+    ],
+    [
+      "|unit_fp1_infantry_02|LOD_2|unit_fp1_infantry_02_LOD_2|unit_fp1",
+      2
+    ]
+  ],
+  "root_nodes": [
+    "object",
+    "locator"
+  ]
+}

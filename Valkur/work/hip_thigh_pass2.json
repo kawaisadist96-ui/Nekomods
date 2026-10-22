@@ -1,0 +1,256 @@
+{
+  "source": "valkur-rig-work.blend",
+  "panel": "front-left upper thigh skin",
+  "falloff_t": [
+    0.12,
+    0.62
+  ],
+  "origin_cm": [
+    13.0,
+    0.0,
+    99.0
+  ],
+  "knee_cm": [
+    17.0,
+    0.0,
+    61.0
+  ],
+  "thigh_length_cm": 38.21,
+  "island_verts": 980,
+  "affected_verts": 4340,
+  "t_range": [
+    0.048,
+    0.599
+  ],
+  "border_cliffs": [
+    {
+      "inside": 1105931,
+      "outside": 1105948,
+      "gap_cm": 0.357,
+      "hip_delta": 0.881
+    },
+    {
+      "inside": 1087286,
+      "outside": 1087285,
+      "gap_cm": 0.117,
+      "hip_delta": 0.542
+    },
+    {
+      "inside": 1105950,
+      "outside": 1105956,
+      "gap_cm": 0.298,
+      "hip_delta": 0.895
+    },
+    {
+      "inside": 1105954,
+      "outside": 1105964,
+      "gap_cm": 0.142,
+      "hip_delta": 0.916
+    },
+    {
+      "inside": 1024100,
+      "outside": 1024147,
+      "gap_cm": 0.108,
+      "hip_delta": 0.6
+    },
+    {
+      "inside": 1024104,
+      "outside": 1024154,
+      "gap_cm": 0.358,
+      "hip_delta": 0.627
+    },
+    {
+      "inside": 1024116,
+      "outside": 1105943,
+      "gap_cm": 0.358,
+      "hip_delta": 0.849
+    },
+    {
+      "inside": 1024120,
+      "outside": 1105936,
+      "gap_cm": 0.184,
+      "hip_delta": 0.804
+    },
+    {
+      "inside": 1024132,
+      "outside": 1024156,
+      "gap_cm": 0.291,
+      "hip_delta": 0.608
+    },
+    {
+      "inside": 1024136,
+      "outside": 1024154,
+      "gap_cm": 0.239,
+      "hip_delta": 0.627
+    },
+    {
+      "inside": 1077522,
+      "outside": 1077521,
+      "gap_cm": 0.126,
+      "hip_delta": 0.886
+    },
+    {
+      "inside": 1024143,
+      "outside": 1024154,
+      "gap_cm": 0.193,
+      "hip_delta": 0.627
+    },
+    {
+      "inside": 1024151,
+      "outside": 1024166,
+      "gap_cm": 0.094,
+      "hip_delta": 0.596
+    },
+    {
+      "inside": 1024158,
+      "outside": 1024159,
+      "gap_cm": 0.247,
+      "hip_delta": 0.596
+    },
+    {
+      "inside": 1024180,
+      "outside": 1024181,
+      "gap_cm": 0.053,
+      "hip_delta": 0.604
+    },
+    {
+      "inside": 827636,
+      "outside": 827639,
+      "gap_cm": 0.21,
+      "hip_delta": 0.773
+    },
+    {
+      "inside": 827642,
+      "outside": 827645,
+      "gap_cm": 0.203,
+      "hip_delta": 0.706
+    },
+    {
+      "inside": 827661,
+      "outside": 827660,
+      "gap_cm": 0.168,
+      "hip_delta": 0.663
+    },
+    {
+      "inside": 827673,
+      "outside": 827679,
+      "gap_cm": 0.136,
+      "hip_delta": 0.569
+    },
+    {
+      "inside": 827680,
+      "outside": 827679,
+      "gap_cm": 0.125,
+      "hip_delta": 0.569
+    }
+  ],
+  "border_cliff_count": 400,
+  "after": {
+    "attack": [
+      {
+        "frame": 95,
+        "target_edge_cm": 0.050833,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 2.5885,
+          "ratio": 1.152
+        },
+        "edges_stretched_more_than_1cm": 0
+      },
+      {
+        "frame": 185,
+        "target_edge_cm": 0.052225,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 2.0648,
+          "ratio": 0.919
+        },
+        "edges_stretched_more_than_1cm": 0
+      }
+    ],
+    "idle": [
+      {
+        "frame": 90,
+        "target_edge_cm": 0.064806,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 2.4369,
+          "ratio": 1.084
+        },
+        "edges_stretched_more_than_1cm": 0
+      }
+    ],
+    "walk": [
+      {
+        "frame": 21,
+        "target_edge_cm": 0.071446,
+        "worst": {
+          "edge": [
+            923438,
+            923439
+          ],
+          "rest_cm": 1.8132,
+          "posed_cm": 2.3824,
+          "ratio": 1.314
+        },
+        "edges_stretched_more_than_1cm": 0
+      },
+      {
+        "frame": 61,
+        "target_edge_cm": 0.063621,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 1.9288,
+          "ratio": 0.858
+        },
+        "edges_stretched_more_than_1cm": 0
+      }
+    ],
+    "defense": [
+      {
+        "frame": 95,
+        "target_edge_cm": 0.044295,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 2.468,
+          "ratio": 1.098
+        },
+        "edges_stretched_more_than_1cm": 0
+      },
+      {
+        "frame": 185,
+        "target_edge_cm": 0.043864,
+        "worst": {
+          "edge": [
+            809055,
+            809057
+          ],
+          "rest_cm": 2.247,
+          "posed_cm": 2.2617,
+          "ratio": 1.006
+        },
+        "edges_stretched_more_than_1cm": 0
+      }
+    ]
+  }
+}

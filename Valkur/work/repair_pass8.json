@@ -1,0 +1,97 @@
+{
+  "cloth_verts": 131349,
+  "hand_harmonized": 4074,
+  "probes": [
+    {
+      "edge": [
+        809011,
+        809035
+      ],
+      "rest_cm": 0.063,
+      "posed_cm": 0.051
+    },
+    {
+      "edge": [
+        221522,
+        221525
+      ],
+      "rest_cm": 0.562,
+      "posed_cm": 0.896
+    },
+    {
+      "edge": [
+        613288,
+        613296
+      ],
+      "rest_cm": 0.198,
+      "posed_cm": 0.227
+    },
+    {
+      "edge": [
+        519568,
+        519579
+      ],
+      "rest_cm": 0.225,
+      "posed_cm": 1.792
+    },
+    {
+      "edge": [
+        1258444,
+        1258445
+      ],
+      "rest_cm": 0.06,
+      "posed_cm": 0.06
+    }
+  ],
+  "edges_over_8cm": 1386,
+  "pairs": [
+    [
+      "Character1_Hips / Left_skirt_front_2",
+      783
+    ],
+    [
+      "Character1_RightUpLeg / Rright_skirt_front_2",
+      135
+    ],
+    [
+      "Character1_Hips / Character1_LeftUpLeg",
+      129
+    ],
+    [
+      "Character1_RightArm / Character1_Spine2",
+      82
+    ],
+    [
+      "Character1_LeftArm / Character1_Spine2",
+      51
+    ],
+    [
+      "Character1_LeftHand / Character1_LeftHand",
+      47
+    ],
+    [
+      "Character1_LeftUpLeg / Left_skirt_front_2",
+      39
+    ],
+    [
+      "Character1_RightUpLeg / Rright_skirt_front_3",
+      31
+    ],
+    [
+      "Character1_RightHand / Character1_RightHand",
+      19
+    ],
+    [
+      "Character1_Hips / Character1_Hips",
+      17
+    ],
+    [
+      "Character1_LeftUpLeg / Character1_LeftUpLeg",
+      15
+    ],
+    [
+      "Character1_Hips / Character1_Spine2",
+      15
+    ]
+  ]
+}

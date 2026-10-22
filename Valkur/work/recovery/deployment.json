@@ -1,0 +1,70 @@
+{
+  "in_game_test_performed": false,
+  "installed_at": "2026-10-21T20:08:12.9861312+02:00",
+  "destination": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur.mesh",
+  "status": "restored test candidate; remaining extreme-pose deformation recorded in RESTORATION-NOTES.md",
+  "previous_sha256": "F051C9B3CE4F63BB961FCB85BA06876CD00E275E44E90D8B809B9E946EC27E57",
+  "preserved_files": [
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\entity_links\\valkur_units_test.txt",
+      "sha256": "3A6DE4EE4BB6196A7DB5384B8791263154968FD6076C15B2CB6FEB1AB78758B9"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\src_Image_0.png",
+      "sha256": "F0638A61C9D500E598C0E984542A2AE5206A6DE2F5CFA5D9CC084D95DE77CB99"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\src_Image_1.png",
+      "sha256": "CE4BB2ADDE2E5414B950825CD38F6B493ACC93D2546B1829AA04A23EB5453109"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\src_Image_2.png",
+      "sha256": "415050171D96284B39C7C54AF7568FC90C1D4A4685CD7CC7744A971521BE01A6"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_attack.anim",
+      "sha256": "BD4CA47143A20580F4C1DB94BAED3DF340EF6BE8E060435D6259EEC10275D12C"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_defense.anim",
+      "sha256": "60978F954CE8F6B7FF2BB66EC48ABEE3A60F53F1DE0BD2733AA4145D7BA00B96"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_diffuse_baked.png",
+      "sha256": "41211A9965EA1BB0277DFF2F505C31F842CCCC034306C21FDFFD2519A73405A7"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_diffuse.dds",
+      "sha256": "DECD747BA2C420C4DA3E67EAA17BCE402BE1CFF73496CF33C1B1BA7BDF8783B6"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_diffuse.png",
+      "sha256": "5A5E9E18F70CD99535270A1D260A7C89E6ECF78592DEBA1DEDEFE5BA85E8E593"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_idle.anim",
+      "sha256": "1E361B15FBBC597823972C8FB25CA072BA33DE5CA4522A19847243CF38E1990A"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_move.anim",
+      "sha256": "9125BC53F142C4686DCDB5744470B99A245D0D7FB8576909B7D9E0FCD1159A8E"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_normal.dds",
+      "sha256": "68A4B1B1B5F1AD2C88C7CB3C32BB6A7CD66225F24D5964CB5C0B4183ED2F183E"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur_properties.dds",
+      "sha256": "F7330C4D9A170911E96A3E3EFE3A0EF054AA7C2A35502C3C02DCAB7FF65E07AD"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur\\valkur.asset",
+      "sha256": "43EFEC0CA318A805289B6FBDDF57033CF16A4892CC9945C46F6772E83C050303"
+    }
+  ],
+  "staged_sha256": "DE4B555D18116BCF12379B886F7AD085DEDC1C54033E511A9A0DCD337D21C5D7",
+  "backup": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\recovery\\mod-before-restoration\\gfx\\models\\units\\infantry\\valkur\\valkur.mesh",
+  "source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\recovery\\export\\valkur.mesh",
+  "installed_sha256": "DE4B555D18116BCF12379B886F7AD085DEDC1C54033E511A9A0DCD337D21C5D7",
+  "all_other_mod_files_unchanged": true
+}

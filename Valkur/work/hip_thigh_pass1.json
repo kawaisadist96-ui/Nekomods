@@ -1,0 +1,113 @@
+{
+  "decision": "body skin on the front-left upper thigh, not skirt cloth or equipment",
+  "bones": [
+    "Character1_Hips",
+    "Character1_LeftUpLeg"
+  ],
+  "band_cm": 2.5,
+  "seam_cm": 0.2,
+  "island_verts": 980,
+  "affected_verts": 1226,
+  "seam_added": 246,
+  "hip_verts_before": 154,
+  "leg_verts_before": 1072,
+  "hip_z_cm": [
+    82.866,
+    93.467
+  ],
+  "leg_z_cm": [
+    78.292,
+    93.583
+  ],
+  "weights_changed": 460,
+  "skipped_other_bones": [],
+  "affected_edges": 3202,
+  "after": {
+    "attack": [
+      {
+        "frame": 95,
+        "target_edge_cm": 0.557296,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          9.0054
+        ],
+        "edges_over_2cm": 139,
+        "edges_over_5cm": 15
+      },
+      {
+        "frame": 185,
+        "target_edge_cm": 0.23037,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          4.2221
+        ],
+        "edges_over_2cm": 32,
+        "edges_over_5cm": 0
+      }
+    ],
+    "idle": [
+      {
+        "frame": 90,
+        "target_edge_cm": 0.036081,
+        "longest_affected_edge_cm": [
+          809055,
+          809057,
+          2.4693
+        ],
+        "edges_over_2cm": 2,
+        "edges_over_5cm": 0
+      }
+    ],
+    "walk": [
+      {
+        "frame": 21,
+        "target_edge_cm": 0.206094,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          2.869
+        ],
+        "edges_over_2cm": 15,
+        "edges_over_5cm": 0
+      },
+      {
+        "frame": 61,
+        "target_edge_cm": 0.12784,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          2.2686
+        ],
+        "edges_over_2cm": 6,
+        "edges_over_5cm": 0
+      }
+    ],
+    "defense": [
+      {
+        "frame": 95,
+        "target_edge_cm": 0.512268,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          8.3663
+        ],
+        "edges_over_2cm": 119,
+        "edges_over_5cm": 7
+      },
+      {
+        "frame": 185,
+        "target_edge_cm": 0.381959,
+        "longest_affected_edge_cm": [
+          758631,
+          758655,
+          6.3227
+        ],
+        "edges_over_2cm": 72,
+        "edges_over_5cm": 2
+      }
+    ]
+  },
+  "rest_edge_cm": 0.062524
+}

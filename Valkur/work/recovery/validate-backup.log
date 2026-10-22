@@ -1,0 +1,10 @@
+00:00.047  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.562  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\valkur-walk-fix.blend"
+SCAN {'action': 'idle', 'frames': 179, 'max_side_edge_extra_cm': 7.228469543423168, 'worst_frame': 115, 'edge_frame_occurrences_over8cm': 0}
+SCAN {'action': 'walk', 'frames': 81, 'max_side_edge_extra_cm': 39.20422421272968, 'worst_frame': 76, 'edge_frame_occurrences_over8cm': 26007}
+SCAN {'action': 'attack', 'frames': 309, 'max_side_edge_extra_cm': 106.30922786634768, 'worst_frame': 218, 'edge_frame_occurrences_over8cm': 115143}
+SCAN {'action': 'defense', 'frames': 309, 'max_side_edge_extra_cm': 82.20107933406057, 'worst_frame': 157, 'edge_frame_occurrences_over8cm': 109613}
+VALIDATION {'geometry_uv_identical_to_uncut': True, 'vertices': 90072, 'faces': 124741, 'bones': 61, 'changed_weights': 0, 'max_influences': 4, 'max_weight_sum_error': 1.09999999997612e-06, 'unweighted': 0, 'tests': [{'action': 'idle', 'frames': 179, 'max_side_edge_extra_cm': 7.228469543423168, 'worst_frame': 115, 'edge_frame_occurrences_over8cm': 0}, {'action': 'walk', 'frames': 81, 'max_side_edge_extra_cm': 39.20422421272968, 'worst_frame': 76, 'edge_frame_occurrences_over8cm': 26007}, {'action': 'attack', 'frames': 309, 'max_side_edge_extra_cm': 106.30922786634768, 'worst_frame': 218, 'edge_frame_occurrences_over8cm': 115143}, {'action': 'defense', 'frames': 309, 'max_side_edge_extra_cm': 82.20107933406057, 'worst_frame': 157, 'edge_frame_occurrences_over8cm': 109613}], 'bone_rest_unchanged': True}
+
+Blender quit

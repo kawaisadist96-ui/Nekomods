@@ -1,0 +1,37 @@
+[
+  {
+    "file": "valkur.mesh",
+    "geometry_uv_normals_match": true,
+    "bounds_max_error": 0.0,
+    "weight_mismatches": 0,
+    "reimport_triangles": 152878
+  },
+  {
+    "file": "valkur_shield.mesh",
+    "geometry_uv_normals_match": true,
+    "bounds_max_error": 0.0,
+    "weight_mismatches": 0,
+    "reimport_triangles": 19388
+  },
+  {
+    "file": "valkur_shield_back.mesh",
+    "geometry_uv_normals_match": true,
+    "bounds_max_error": 0.0,
+    "weight_mismatches": 0,
+    "reimport_triangles": 19388
+  },
+  {
+    "file": "valkur_sword.mesh",
+    "geometry_uv_normals_match": true,
+    "bounds_max_error": 0.0,
+    "weight_mismatches": 0,
+    "reimport_triangles": 7716
+  },
+  {
+    "file": "valkur_sword_stowed.mesh",
+    "geometry_uv_normals_match": true,
+    "bounds_max_error": 0.0,
+    "weight_mismatches": 0,
+    "reimport_triangles": 7716
+  }
+]

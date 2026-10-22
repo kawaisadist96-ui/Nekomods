@@ -1,0 +1,60 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.562  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-split3.blend"
+EDGE [30327, 74845] 0.550117223930313 18.049159337529094
+ V [15.12, -16.81, 95.97] [('Left_skirt_front_1', 0.2), ('Left_skirt_front_2', 0.8)]
+ V [15.68, -16.82, 95.97] [('Character1_Hips', 0.887), ('Left_skirt_front_1', 0.023), ('Left_skirt_front_2', 0.09)]
+EDGE [28881, 74256] 0.43680743734581107 15.381620035720948
+ V [5.19, -16.32, 91.03] [('Character1_Hips', 0.41), ('Left_skirt_front_2', 0.402), ('Left_skirt_front_3', 0.188)]
+ V [4.98, -16.46, 90.67] [('Character1_Hips', 1.0)]
+EDGE [30261, 30312] 1.4490456447911741 15.28259189555671
+ V [14.07, -16.67, 92.18] [('Character1_Hips', 0.872), ('Left_skirt_front_1', 0.018), ('Left_skirt_front_2', 0.076), ('Character1_LeftUpLeg', 0.035)]
+ V [13.69, -16.5, 93.57] [('Character1_Hips', 0.26), ('Left_skirt_front_1', 0.14), ('Left_skirt_front_2', 0.575), ('Left_skirt_front_3', 0.024)]
+EDGE [74840, 74841] 0.4537849921277118 11.90843746150255
+ V [14.75, -16.51, 94.29] [('Character1_Hips', 0.456), ('Left_skirt_front_1', 0.108), ('Left_skirt_front_2', 0.436)]
+ V [15.12, -16.76, 94.33] [('Character1_Hips', 0.999)]
+EDGE [34150, 34151] 0.44490828355873446 11.861506235136018
+ V [23.39, -10.66, 86.04] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+ V [23.18, -10.49, 86.4] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+EDGE [30320, 74842] 0.5075584601661556 11.913093659653292
+ V [14.74, -16.51, 94.65] [('Character1_Hips', 0.438), ('Left_skirt_front_1', 0.112), ('Left_skirt_front_2', 0.45)]
+ V [15.12, -16.75, 94.88] [('Character1_Hips', 1.0)]
+EDGE [34150, 34152] 0.6150873259166582 11.92828010910718
+ V [23.39, -10.66, 86.04] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+ V [23.37, -10.2, 86.45] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+EDGE [76445, 76446] 0.4608468715540944 11.739651194467793
+ V [23.05, -10.49, 86.4] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+ V [22.87, -10.66, 86.01] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+EDGE [34156, 34157] 1.06108853690456 12.190622797242476
+ V [24.24, -9.56, 86.14] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+ V [23.71, -10.44, 85.89] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+EDGE [34157, 76457] 0.6973018057554936 11.817623013574403
+ V [23.71, -10.44, 85.89] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+ V [23.77, -10.03, 86.45] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+EDGE [34154, 34156] 1.2718717741971477 12.19376553820114
+ V [23.72, -10.52, 85.48] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+ V [24.24, -9.56, 86.14] [('Character1_Hips', 0.635), ('Character1_LeftUpLeg', 0.365)]
+EDGE [49843, 49845] 0.5872479108849193 11.451811697117636
+ V [20.44, 4.65, 104.07] [('Character1_Hips', 0.798), ('Character1_LeftForeArmRoll', 0.202)]
+ V [20.39, 4.41, 104.61] [('Character1_Hips', 0.592), ('Left_skirt_back_1', 0.264), ('Left_skirt_back_2', 0.144)]
+EDGE [31958, 75480] 1.4545821411076096 12.281897802073113
+ V [20.05, -14.63, 98.45] [('Character1_Hips', 0.093), ('Left_skirt_front_1', 0.213), ('Left_skirt_front_2', 0.693)]
+ V [19.89, -14.86, 97.03] [('Character1_Hips', 0.776), ('Left_skirt_front_1', 0.047), ('Left_skirt_front_2', 0.178)]
+EDGE [75421, 75425] 0.3083695548677089 10.828954026622016
+ V [20.88, -14.3, 83.02] [('Character1_Hips', 0.5), ('Character1_LeftUpLeg', 0.5)]
+ V [21.18, -14.28, 82.93] [('Character1_Hips', 0.121), ('Character1_LeftUpLeg', 0.879)]
+EDGE [74842, 74843] 0.5524494758844831 10.92066442181025
+ V [15.12, -16.75, 94.88] [('Character1_Hips', 1.0)]
+ V [15.12, -16.81, 95.43] [('Character1_Hips', 0.508), ('Left_skirt_front_1', 0.098), ('Left_skirt_front_2', 0.394)]
+EDGE [28881, 74258] 0.44183297920105624 10.801854160865117
+ V [5.19, -16.32, 91.03] [('Character1_Hips', 0.41), ('Left_skirt_front_2', 0.402), ('Left_skirt_front_3', 0.188)]
+ V [5.58, -16.42, 91.21] [('Left_skirt_front_1', 0.129), ('Left_skirt_front_2', 0.605), ('Left_skirt_front_3', 0.266)]
+EDGE [30261, 30310] 1.0145132906861298 11.30525123153869
+ V [14.07, -16.67, 92.18] [('Character1_Hips', 0.872), ('Left_skirt_front_1', 0.018), ('Left_skirt_front_2', 0.076), ('Character1_LeftUpLeg', 0.035)]
+ V [13.31, -16.53, 92.84] [('Character1_Hips', 0.424), ('Left_skirt_front_1', 0.111), ('Left_skirt_front_2', 0.46)]
+EDGE [31812, 31817] 0.6473125350103391 10.918078381842793
+ V [21.05, -14.95, 82.22] [('Character1_Hips', 0.121), ('Character1_LeftUpLeg', 0.879)]
+ V [21.08, -14.96, 82.87] [('Character1_Hips', 0.5), ('Character1_LeftUpLeg', 0.5)]
+TOTAL 161
+
+Blender quit

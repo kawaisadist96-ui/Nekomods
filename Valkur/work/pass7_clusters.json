@@ -1,0 +1,253 @@
+{
+  "edges_over_8cm": 1710,
+  "pairs": [
+    [
+      "Character1_Hips / Left_skirt_front_2",
+      909
+    ],
+    [
+      "Character1_Hips / Character1_LeftUpLeg",
+      168
+    ],
+    [
+      "Character1_LeftHand / Character1_LeftHand",
+      121
+    ],
+    [
+      "Left_skirt_front_2 / Rright_skirt_front_2",
+      110
+    ],
+    [
+      "Character1_Hips / Character1_RightUpLeg",
+      89
+    ],
+    [
+      "Character1_RightArm / Character1_Spine2",
+      82
+    ],
+    [
+      "Character1_LeftArm / Character1_Spine2",
+      51
+    ],
+    [
+      "Character1_RightUpLeg / Rright_skirt_front_2",
+      49
+    ],
+    [
+      "Left_skirt_front_1 / Rright_skirt_front_1",
+      34
+    ],
+    [
+      "Character1_LeftUpLeg / Character1_LeftUpLeg",
+      15
+    ],
+    [
+      "Character1_Hips / Character1_Hips",
+      15
+    ],
+    [
+      "Character1_Hips / Character1_Spine2",
+      15
+    ],
+    [
+      "Rright_skirt_back_2 / Rright_skirt_front_2",
+      13
+    ],
+    [
+      "Character1_Hips / Character1_LeftHand",
+      12
+    ],
+    [
+      "Left_skirt_back_2 / Left_skirt_front_2",
+      9
+    ],
+    [
+      "Character1_Hips / Left_skirt_front_1",
+      8
+    ],
+    [
+      "Left_skirt_front_1 / Rright_skirt_front_2",
+      5
+    ],
+    [
+      "Character1_RightHand / Character1_RightHand",
+      3
+    ],
+    [
+      "Left_skirt_front_2 / Rright_skirt_front_1",
+      2
+    ]
+  ],
+  "samples": [
+    {
+      "edge": [
+        519568,
+        519579
+      ],
+      "rest": 0.225,
+      "posed": 19.553,
+      "a_cm": [
+        -0.07,
+        -12.66,
+        95.19
+      ],
+      "bones": [
+        "Rright_skirt_front_2",
+        "Left_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        519568,
+        519580
+      ],
+      "rest": 0.312,
+      "posed": 19.527,
+      "a_cm": [
+        -0.07,
+        -12.66,
+        95.19
+      ],
+      "bones": [
+        "Rright_skirt_front_2",
+        "Left_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        519592,
+        519594
+      ],
+      "rest": 0.447,
+      "posed": 15.505,
+      "a_cm": [
+        1.66,
+        -13.64,
+        95.24
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Character1_Hips"
+      ]
+    },
+    {
+      "edge": [
+        519600,
+        519601
+      ],
+      "rest": 0.687,
+      "posed": 16.013,
+      "a_cm": [
+        0.81,
+        -14.13,
+        95.86
+      ],
+      "bones": [
+        "Character1_Hips",
+        "Left_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        519600,
+        519602
+      ],
+      "rest": 0.495,
+      "posed": 15.917,
+      "a_cm": [
+        0.81,
+        -14.13,
+        95.86
+      ],
+      "bones": [
+        "Character1_Hips",
+        "Left_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        613160,
+        613173
+      ],
+      "rest": 0.091,
+      "posed": 15.886,
+      "a_cm": [
+        1.53,
+        -6.45,
+        92.86
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Character1_Hips"
+      ]
+    },
+    {
+      "edge": [
+        613376,
+        613377
+      ],
+      "rest": 0.111,
+      "posed": 19.866,
+      "a_cm": [
+        0.01,
+        -11.41,
+        93.58
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Rright_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        613384,
+        613385
+      ],
+      "rest": 0.249,
+      "posed": 19.878,
+      "a_cm": [
+        0.2,
+        -11.07,
+        93.33
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Rright_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        613392,
+        613393
+      ],
+      "rest": 0.225,
+      "posed": 19.849,
+      "a_cm": [
+        0.05,
+        -11.0,
+        93.32
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Rright_skirt_front_2"
+      ]
+    },
+    {
+      "edge": [
+        613392,
+        613422
+      ],
+      "rest": 0.213,
+      "posed": 19.948,
+      "a_cm": [
+        0.05,
+        -11.0,
+        93.32
+      ],
+      "bones": [
+        "Left_skirt_front_2",
+        "Rright_skirt_front_2"
+      ]
+    }
+  ]
+}

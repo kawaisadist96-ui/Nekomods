@@ -1,0 +1,338 @@
+{
+  "mesh": "Valkur Normal - approved textured source",
+  "armature": "VALKUR_CK3_FITTED_61",
+  "mesh_parent": "Node_1",
+  "mesh_matrix_world": [
+    [
+      0.00011611,
+      0.0,
+      0.0,
+      -52.56256866
+    ],
+    [
+      0.0,
+      0.00011611,
+      0.0,
+      23.58678055
+    ],
+    [
+      0.0,
+      0.0,
+      0.00011611,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "arm_matrix_world": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "mesh_scale": [
+    0.00012208,
+    0.00012208,
+    0.00012208
+  ],
+  "arm_scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "parents": [
+    {
+      "name": "Node_1",
+      "type": "EMPTY",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "matrix_world": [
+        [
+          0.95109999,
+          0.0,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.95109999,
+          0.0,
+          -16.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.95109999,
+          95.11000061
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Unit and ground placement - 190.22 cm",
+      "type": "EMPTY",
+      "scale": [
+        0.95109999,
+        0.95109999,
+        0.95109999
+      ],
+      "location": [
+        -2.0,
+        -16.0,
+        95.110001
+      ],
+      "matrix_world": [
+        [
+          0.95109999,
+          0.0,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.95109999,
+          0.0,
+          -16.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.95109999,
+          95.11000061
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "island_faces": 1808,
+  "island_verts": 980,
+  "bbox_cm": {
+    "min": [
+      4.388,
+      -16.749,
+      78.292
+    ],
+    "max": [
+      16.8,
+      -11.977,
+      93.583
+    ],
+    "size": [
+      12.412,
+      4.772,
+      15.291
+    ]
+  },
+  "centroid_cm": [
+    10.054,
+    -14.744,
+    85.4
+  ],
+  "average_normal_world": [
+    -0.4598,
+    -0.8672,
+    -0.1913
+  ],
+  "boundary_edges": 150,
+  "internal_edge_visits": 5274,
+  "dominant_weight": [
+    [
+      "Character1_LeftUpLeg",
+      880
+    ],
+    [
+      "Character1_Hips",
+      100
+    ]
+  ],
+  "albedo_image": {
+    "name": "Image_0",
+    "size": [
+      4096,
+      4096
+    ]
+  },
+  "albedo_sample_count": 83,
+  "albedo_average_rgb": [
+    0.5269,
+    0.4314,
+    0.362
+  ],
+  "albedo_guess": "skin_or_tan",
+  "outside_gaps": [
+    {
+      "vertex": 758622,
+      "outside": 687844,
+      "gap_cm": 0.9497,
+      "normal_alignment": -0.0011
+    },
+    {
+      "vertex": 758646,
+      "outside": 687815,
+      "gap_cm": 0.8826,
+      "normal_alignment": -0.0246
+    },
+    {
+      "vertex": 758742,
+      "outside": 791924,
+      "gap_cm": 0.5293,
+      "normal_alignment": 0.0121
+    },
+    {
+      "vertex": 758766,
+      "outside": 1077452,
+      "gap_cm": 0.1329,
+      "normal_alignment": 0.1714
+    },
+    {
+      "vertex": 758814,
+      "outside": 1077501,
+      "gap_cm": 0.1558,
+      "normal_alignment": 0.1157
+    },
+    {
+      "vertex": 758934,
+      "outside": 1010944,
+      "gap_cm": 0.283,
+      "normal_alignment": 0.0494
+    },
+    {
+      "vertex": 758982,
+      "outside": 1010916,
+      "gap_cm": 0.1403,
+      "normal_alignment": -0.0481
+    },
+    {
+      "vertex": 759006,
+      "outside": 1010952,
+      "gap_cm": 0.1634,
+      "normal_alignment": 0.4092
+    },
+    {
+      "vertex": 759030,
+      "outside": 1077763,
+      "gap_cm": 0.0734,
+      "normal_alignment": 0.1647
+    },
+    {
+      "vertex": 808938,
+      "outside": 672967,
+      "gap_cm": 0.1058,
+      "normal_alignment": 0.1612
+    },
+    {
+      "vertex": 808962,
+      "outside": 672968,
+      "gap_cm": 0.312,
+      "normal_alignment": -0.0503
+    },
+    {
+      "vertex": 808986,
+      "outside": 672990,
+      "gap_cm": 0.1077,
+      "normal_alignment": -0.0375
+    },
+    {
+      "vertex": 809010,
+      "outside": 671096,
+      "gap_cm": 0.1143,
+      "normal_alignment": 0.1126
+    },
+    {
+      "vertex": 809058,
+      "outside": 789349,
+      "gap_cm": 0.649,
+      "normal_alignment": -0.0487
+    },
+    {
+      "vertex": 878645,
+      "outside": 923523,
+      "gap_cm": 0.4162,
+      "normal_alignment": -0.0656
+    },
+    {
+      "vertex": 878693,
+      "outside": 1010903,
+      "gap_cm": 0.3651,
+      "normal_alignment": 0.0472
+    }
+  ],
+  "outside_gap_cm_median": 0.283,
+  "outside_gap_cm_min": 0.0734,
+  "rest_edge_cm": 0.062527,
+  "rest_a_cm": [
+    6.9893,
+    -12.4648,
+    82.9593
+  ],
+  "rest_b_cm": [
+    7.0241,
+    -12.5112,
+    82.9825
+  ],
+  "action_slots": [
+    {
+      "identifier": "OBVALKUR_CK3_FITTED_61",
+      "display": "VALKUR_CK3_FITTED_61",
+      "type": "OBJECT"
+    }
+  ],
+  "action_layers": 1,
+  "assigned_slot": {
+    "identifier": "OBVALKUR_CK3_FITTED_61",
+    "display": "VALKUR_CK3_FITTED_61"
+  },
+  "posed_edge_cm": 20.055891,
+  "posed_a_cm": [
+    24.9222,
+    104.9001,
+    75.3214
+  ],
+  "posed_b_cm": [
+    24.1684,
+    94.7388,
+    92.5962
+  ]
+}

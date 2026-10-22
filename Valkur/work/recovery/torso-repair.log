@@ -1,0 +1,13 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.610  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-collar.blend"
+TORSO 12758
+00:21.500  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\torso-walk-20.png'
+00:21.813  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\torso-attack-218.png'
+00:22.063  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\torso-defense-71.png'
+00:22.156  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_19548_9f63973f87e3f5891530ee2ba4c5ad4c.png.png"
+Info: Saved as "valkur-restored-torso.blend"
+Unable to delete file
+Unable to delete file
+
+Blender quit

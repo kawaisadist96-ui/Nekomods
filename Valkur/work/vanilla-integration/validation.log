@@ -1,0 +1,9 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.547  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\valkur-vanilla-equipment.blend"
+[io_pdx.updater] ERROR:  Failed during update check. (URL can't contain control characters. '/repos/STNH Team/io_pdx_mesh/releases' (found at least ' '))
+[io_pdx] INFO:  Running io_pdx_mesh from d:\blender\blender.exe ((5, 2, 2))
+[io_pdx] INFO:  C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh
+VALIDATED 26 4348 MAX 7.62939453125e-05 [{'file': 'valkur.mesh', 'shape': 'valkurShape', 'vertices': 117113, 'triangles': 152878, 'bones': 61}, {'file': 'valkur_shield.mesh', 'shape': 'Valkur_shieldShape', 'vertices': 12300, 'triangles': 19388, 'bones': 0}, {'file': 'valkur_shield_back.mesh', 'shape': 'Valkur_shield_backShape', 'vertices': 12300, 'triangles': 19388, 'bones': 0}, {'file': 'valkur_sword.mesh', 'shape': 'Valkur_swordShape', 'vertices': 5505, 'triangles': 7716, 'bones': 0}, {'file': 'valkur_sword_stowed.mesh', 'shape': 'Valkur_sword_stowedShape', 'vertices': 5505, 'triangles': 7716, 'bones': 0}]
+
+Blender quit

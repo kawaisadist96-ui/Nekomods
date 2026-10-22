@@ -1,0 +1,17 @@
+[
+  {
+    "name": "base-color.webp",
+    "bytes": 2792954,
+    "sha256": "797B4D43C102BDB6DEB77AA4443BEC2C0FE04F5E9E01341B73911B4D0F95A546"
+  },
+  {
+    "name": "metallic-roughness.webp",
+    "bytes": 276340,
+    "sha256": "B19A46249EE7FB660E1DC4353A40593096883303B6DB1F4B8E82CD1E456DA5AA"
+  },
+  {
+    "name": "normal.webp",
+    "bytes": 2153506,
+    "sha256": "E9CA8DA17C022F8A249A04EA9EAB8C2B8191EF4024921FE77E12E8435D350FD3"
+  }
+]

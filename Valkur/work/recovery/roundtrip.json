@@ -1,0 +1,16 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\recovery\\export\\valkur.mesh",
+  "source_faces": 124741,
+  "export_vertices": 134679,
+  "export_triangles": 179982,
+  "export_bones": 61,
+  "geometry_matches_export_input": true,
+  "skeleton_matches_previous_game_mesh": true,
+  "max_weight_sum_error": 4.7497451305389404e-08,
+  "skin_matches_export_input": true,
+  "reimport_vertices": 134679,
+  "reimport_faces": 179982,
+  "reimport_bones": 61,
+  "reimport_weight_mismatches": 0,
+  "bounds_max_difference": 0.0
+}

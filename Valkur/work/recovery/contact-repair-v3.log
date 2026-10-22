@@ -1,0 +1,13 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.578  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-smoothed.blend"
+CONTACT_REPAIR {'source': 'C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\recovery\\valkur-restored-smoothed.blend', 'vertices': 91927, 'extra_seam_vertices': 1304, 'faces': 124741, 'face_regions': {'0': 103409, '1': 6107, '2': 5364, '3': 9861}, 'deleted_faces': 0}
+00:25.140  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\contacts3-walk.png'
+00:25.468  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\contacts3-attack.png'
+00:25.734  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\contacts3-defense.png'
+00:25.828  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_22576_130f8001ad9f9d594aac7197a5fd7de1.png.png"
+Info: Saved as "valkur-restored-contacts3.blend"
+Unable to delete file
+Unable to delete file
+
+Blender quit

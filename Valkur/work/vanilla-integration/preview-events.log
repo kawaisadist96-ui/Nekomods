@@ -1,0 +1,26 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.531  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\valkur-vanilla-equipment.blend"
+[io_pdx.updater] ERROR:  Failed during update check. (URL can't contain control characters. '/repos/STNH Team/io_pdx_mesh/releases' (found at least ' '))
+[io_pdx] INFO:  Running io_pdx_mesh from d:\blender\blender.exe ((5, 2, 2))
+[io_pdx] INFO:  C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh
+[io_pdx] INFO:  importing - C:\Game\Crusader Kings 3\game\gfx\models\units\infantry\attachment_fp1_horn\unit_fp1_horn.mesh
+[io_pdx] INFO:  creating node 1/1 - fp1_hornShape
+[io_pdx] INFO:  creating mesh -
+[io_pdx] INFO:  creating material - standard
+[io_pdx] WARNING:  unable to find texture filepath - C:\Game\Crusader Kings 3\game\gfx\models\units\infantry\attachment_fp1_horn\unit_fp1_infantry_03_diffuse.dds
+[io_pdx] WARNING:  unable to find texture filepath - C:\Game\Crusader Kings 3\game\gfx\models\units\infantry\attachment_fp1_horn\unit_fp1_infantry_03_properties.dds
+[io_pdx] WARNING:  unable to find texture filepath - C:\Game\Crusader Kings 3\game\gfx\models\units\infantry\attachment_fp1_horn\unit_fp1_infantry_03_normal.dds
+[io_pdx] INFO:  import finished! (0.0102 sec)
+00:18.297  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-gathering_army_viking_animation-0.73.png'
+00:18.609  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-gathering_army_viking_animation-1.5.png'
+00:18.875  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-gathering_army_viking_animation-3.0.png'
+00:19.125  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-gathering_army_viking_animation-6.0.png'
+00:19.390  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-spawn_animation-0.0.png'
+00:19.625  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\vanilla-integration\event-despawn_animation-2.0.png'
+00:19.906  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_17808_de04211f8c4309f0a779fe691174a20e.png.png"
+Info: Saved as "valkur-vanilla-preview.blend"
+Unable to delete file
+Unable to delete file
+
+Blender quit

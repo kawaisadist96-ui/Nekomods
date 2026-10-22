@@ -1,0 +1,41 @@
+{
+  "geometry_uv_identical_to_uncut": true,
+  "vertices": 90072,
+  "faces": 124741,
+  "bones": 61,
+  "changed_weights": 3525,
+  "max_influences": 4,
+  "max_weight_sum_error": 1.09999999997612e-06,
+  "unweighted": 0,
+  "tests": [
+    {
+      "action": "idle",
+      "frames": 179,
+      "max_side_edge_extra_cm": 0.8517133222356039,
+      "worst_frame": 105,
+      "edge_frame_occurrences_over8cm": 0
+    },
+    {
+      "action": "walk",
+      "frames": 81,
+      "max_side_edge_extra_cm": 15.212518983234272,
+      "worst_frame": 80,
+      "edge_frame_occurrences_over8cm": 607
+    },
+    {
+      "action": "attack",
+      "frames": 309,
+      "max_side_edge_extra_cm": 73.28403481381689,
+      "worst_frame": 217,
+      "edge_frame_occurrences_over8cm": 51384
+    },
+    {
+      "action": "defense",
+      "frames": 309,
+      "max_side_edge_extra_cm": 51.92561888577071,
+      "worst_frame": 54,
+      "edge_frame_occurrences_over8cm": 31325
+    }
+  ],
+  "bone_rest_unchanged": true
+}

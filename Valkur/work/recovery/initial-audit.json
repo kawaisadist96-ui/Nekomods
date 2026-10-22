@@ -1,0 +1,148 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\valkur-walk-fix.blend",
+  "vertices": 90072,
+  "faces": 124741,
+  "groups": [
+    "root",
+    "World_node_1",
+    "Character1_Hips",
+    "Left_skirt_back_1",
+    "Left_skirt_back_2",
+    "Left_skirt_back_3",
+    "Left_skirt_front_1",
+    "Left_skirt_front_2",
+    "Left_skirt_front_3",
+    "Left_hip_node_1",
+    "Front_hip_node_1",
+    "Character1_LeftUpLeg",
+    "Character1_LeftLeg",
+    "Character1_LeftFoot",
+    "Character1_LeftToeBase",
+    "Character1_RightUpLeg",
+    "Character1_RightLeg",
+    "Character1_RightFoot",
+    "Character1_RightToeBase",
+    "Character1_Spine",
+    "Character1_Spine1",
+    "Character1_Spine2",
+    "back_node_1",
+    "Character1_LeftShoulder",
+    "Character1_LeftArm",
+    "Character1_LeftForeArm",
+    "Character1_LeftForeArmRoll",
+    "Character1_LeftHand",
+    "Left_hand_node_1",
+    "Character1_LeftHandThumb1",
+    "Character1_LeftHandThumb2",
+    "Character1_LeftHandThumb3",
+    "Character1_LeftHandIndex1",
+    "Character1_LeftHandIndex2",
+    "Character1_LeftHandIndex3",
+    "Character1_LeftHandRing1",
+    "Character1_LeftHandRing2",
+    "Character1_LeftHandRing3",
+    "Character1_RightShoulder",
+    "Character1_RightArm",
+    "Character1_RightForeArm",
+    "Character1_RightForeArmRoll",
+    "Character1_RightHand",
+    "Right_hand_node_1",
+    "Character1_RightHandThumb1",
+    "Character1_RightHandThumb2",
+    "Character1_RightHandThumb3",
+    "Character1_RightHandIndex1",
+    "Character1_RightHandIndex2",
+    "Character1_RightHandIndex3",
+    "Character1_RightHandRing1",
+    "Character1_RightHandRing2",
+    "Character1_RightHandRing3",
+    "Character1_Neck",
+    "Character1_Head",
+    "Rright_skirt_front_1",
+    "Rright_skirt_front_2",
+    "Rright_skirt_front_3",
+    "Rright_skirt_back_1",
+    "Rright_skirt_back_2",
+    "Rright_skirt_back_3"
+  ],
+  "matrix": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "images": [
+    [
+      "Render Result",
+      [
+        0,
+        0
+      ],
+      "",
+      false
+    ],
+    [
+      "valkur_bake",
+      [
+        2048,
+        2048
+      ],
+      "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\valkur-bake.png",
+      false
+    ],
+    [
+      "valkur_normal_bake",
+      [
+        2048,
+        2048
+      ],
+      "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\valkur-normal-bake.png",
+      false
+    ]
+  ],
+  "cut_faces": 117811,
+  "missing_faces": 6930,
+  "missing_bounds": [
+    [
+      7.099005222320557,
+      39.459232330322266
+    ],
+    [
+      -33.318939208984375,
+      12.556648254394531
+    ],
+    [
+      67.93699645996094,
+      120.62581634521484
+    ]
+  ],
+  "missing_dominant": {
+    "Character1_LeftHand": 5713,
+    "Character1_Hips": 13337,
+    "Left_skirt_front_2": 1184,
+    "Character1_Spine": 2079,
+    "Character1_LeftUpLeg": 339,
+    "Left_skirt_back_2": 853,
+    "Character1_LeftForeArmRoll": 86
+  }
+}

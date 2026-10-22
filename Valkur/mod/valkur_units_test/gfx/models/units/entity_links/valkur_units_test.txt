@@ -1,0 +1,13 @@
+﻿# Valkur units test.
+# Each character is one folder under gfx/models/units/infantry/<name>/
+# with a .mesh, .anim files, textures, and one .asset (pdxmesh + entity).
+# To add another character: create that folder, then add a new link block below.
+# This test replaces the Northern Lords base Norse levy model while the mod is on.
+# fp1_army_02 and fp1_army_03 stay vanilla.
+
+fp1_army_01 = {
+	type = army
+	requires_dlc_flag = the_northern_lords
+	graphical_cultures = { norse_unit_gfx }
+	entity = valkur_entity
+}

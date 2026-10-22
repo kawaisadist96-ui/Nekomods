@@ -1,0 +1,703 @@
+[
+  {
+    "path": "build_rig.json",
+    "sha256": "8cd0744e124253f7ec98272a53c8139ea4f7998f2c9a0de62c7fcff8ff8d5b92",
+    "bytes": 32105,
+    "keys": [
+      "rig",
+      "bones",
+      "same_names_hierarchy",
+      "rest_head_positions_adapted",
+      "bone_axis_rotation_delta_max",
+      "weights",
+      "weapon_vertices",
+      "samples",
+      "finger_note",
+      "direct_native_animation_compatibility",
+      "mod_files_changed"
+    ]
+  },
+  {
+    "path": "build_tests.json",
+    "sha256": "a2294862a3179afd945d33db24333e648d7cdebb93c81051a5b76857e99746a4",
+    "bytes": 2559,
+    "keys": [
+      "clips",
+      "rest_pose_saved",
+      "mesh_design_changed",
+      "ck3_export_performed"
+    ]
+  },
+  {
+    "path": "CURSOR-DEVIR.md",
+    "sha256": "b6615017ff3cb9871fca121eabac5861d9dd555fee5afe476bc5c229f19cbd96",
+    "bytes": 6623
+  },
+  {
+    "path": "diagnose_other.json",
+    "sha256": "6ce302786e0cef7075b9dba7b1035433a255e6a66ab78f9fe59d1ddaeaf96610",
+    "bytes": 10511,
+    "keys": [
+      "longest_sampled_edges"
+    ]
+  },
+  {
+    "path": "diagnose_shoulders.json",
+    "sha256": "c059c7be76325ac17de818cc964711d2890e6ee93321dd8b043459dfd0393571",
+    "bytes": 11434,
+    "keys": [
+      "longest_sampled_edges"
+    ]
+  },
+  {
+    "path": "diagnose_stretch.json",
+    "sha256": "b26c8184b22a92075aacfd9d22da7fe8635890d53ada927c3dcd15937b34e13a",
+    "bytes": 9768,
+    "keys": [
+      "longest_sampled_edges"
+    ]
+  },
+  {
+    "path": "final_verify.json",
+    "sha256": "20eb6f536ac74094178cdca906be0292cea10419aae566463c0b6b926e5d4aeb",
+    "bytes": 24044,
+    "keys": [
+      "signatures",
+      "vertices",
+      "faces",
+      "height_cm",
+      "unweighted_vertices",
+      "max_influences",
+      "max_weight_sum_error",
+      "uv_layers",
+      "custom_normals",
+      "images",
+      "bones",
+      "actions",
+      "status"
+    ]
+  },
+  {
+    "path": "load_native_actions.json",
+    "sha256": "71695377b82eb60dd2c04c27dce0b2343a3faab4ab3c9c54f2a0008588069f38",
+    "bytes": 27368,
+    "keys": [
+      "bones",
+      "animations",
+      "source_rig",
+      "rest_axes",
+      "coordinate_system"
+    ]
+  },
+  {
+    "path": "rapor.html",
+    "sha256": "372b62542e52e36159c18d09d6f3bf52c5bbb983c950359d0db24a6c100e2910",
+    "bytes": 9425
+  },
+  {
+    "path": "refine_weights.json",
+    "sha256": "c7f52859a21eff4f6d1e3b766be9667aa89a0bbc649fd28c6e8289ae52ef7e67",
+    "bytes": 775,
+    "keys": [
+      "regions",
+      "max_influences",
+      "normalization_error",
+      "shield_uv_islands",
+      "shield_position_count",
+      "weapon_vertices",
+      "weights_modified_only",
+      "skinning_method"
+    ]
+  },
+  {
+    "path": "reports\\final-preservation.json",
+    "sha256": "94bc89eb4f47930935363b1a7c118dd65337d7a00a93e0363d5fb968326f7ce8",
+    "bytes": 537,
+    "keys": [
+      "source_sha256",
+      "geometry_signature_matches",
+      "height_cm"
+    ]
+  },
+  {
+    "path": "reports\\fitted-bones.json",
+    "sha256": "eaf78f39964ce9c04721c8e35769323b3b60de8dabd6556139132b466558885c",
+    "bytes": 41426,
+    "keys": "list"
+  },
+  {
+    "path": "reports\\glb-full.json",
+    "sha256": "2498e52b918e37f29c1eddfe28742ead262fcea8f76ae4c031547b7509c12596",
+    "bytes": 4904,
+    "keys": [
+      "accessors",
+      "asset",
+      "bufferViews",
+      "buffers",
+      "extensionsRequired",
+      "extensionsUsed",
+      "images",
+      "materials",
+      "meshes",
+      "nodes",
+      "samplers",
+      "scene",
+      "scenes",
+      "textures"
+    ]
+  },
+  {
+    "path": "reports\\native-bones.json",
+    "sha256": "353c5ae65ab0c5959ba262148d028af047e9401eaa49a71abcd48b344765fcbd",
+    "bytes": 45117,
+    "keys": "list"
+  },
+  {
+    "path": "reports\\shield-selected.json",
+    "sha256": "50caeb86eab07e043ca1fc20b99afd6fe6616b9c0f77e1ba9a7a0f7fffdb9cf3",
+    "bytes": 648,
+    "keys": "list"
+  },
+  {
+    "path": "reports\\source.json",
+    "sha256": "d75e6a58306fd7f506c925e0540a8a40363502f88966b7a97a390101d129e6e5",
+    "bytes": 3283,
+    "keys": [
+      "source",
+      "bytes",
+      "sha256",
+      "asset",
+      "nodes",
+      "meshes",
+      "materials",
+      "images",
+      "skins",
+      "animation_count",
+      "accessors"
+    ]
+  },
+  {
+    "path": "reports\\texture-manifest.json",
+    "sha256": "7ba9e00091eb048e339d49c3b6e46d3c4de9af7c02869c56b21dba62a30f6e86",
+    "bytes": 450,
+    "keys": "list"
+  },
+  {
+    "path": "SHA256-manifest.csv",
+    "sha256": "08f4555cca015c776ac52c2b27b8c773fb22e4eddae9146dacc1a586c1b9f883",
+    "bytes": 4224
+  },
+  {
+    "path": "work\\bake_complete.py",
+    "sha256": "aab8be97d7d1f050a16505b229d9ca223e4f3ae8657375ef8bc1031c6fbd7b0f",
+    "bytes": 10049,
+    "description": "Higher-resolution bake of the original paint, gap fill, normal map, then export."
+  },
+  {
+    "path": "work\\bake_detail_preview.py",
+    "sha256": "825c84e13dbde776d459a0c809eebcf6f4869a03e5b47bb8c9f15af90f73fc22",
+    "bytes": 7542,
+    "description": "Bake a tangent normal onto the solid shell and save a ready-to-export blend."
+  },
+  {
+    "path": "work\\bake_from_source.py",
+    "sha256": "65c5e6ddbbad021869575ded3f7466c981ff3f1080d2b6d2c59bc9c037dc682c",
+    "bytes": 8619,
+    "description": "Bake the original material onto a fresh UV, fill gaps, preview, and export."
+  },
+  {
+    "path": "work\\bake_voxel_export.py",
+    "sha256": "77e9f7790fe1d4507233eac0e3560464d2e956a4395058bf7d142593cee7b19b",
+    "bytes": 6949,
+    "description": "Solid-shell color bake, then write the game mesh and diffuse. Flat normal stays."
+  },
+  {
+    "path": "work\\bake_voxel_preview.py",
+    "sha256": "88203a3d17e28c8985cb318602599d3e376eda3408725fa6e024185828edcd92",
+    "bytes": 4893,
+    "description": "Fuse the card mesh into a solid shell and preview a color bake. Does not write game files."
+  },
+  {
+    "path": "work\\cluster_pass5.py",
+    "sha256": "0f558593f64800b974c60078d6062ab690812c6ac1e44b5b3b0137639f86163f",
+    "bytes": 2205,
+    "description": null
+  },
+  {
+    "path": "work\\cluster_pass7.py",
+    "sha256": "8938592779ca28fff2ed254ce1ea8908849b5a587b879d0680c6201af9c9448d",
+    "bytes": 2144,
+    "description": "Classify short edges that still stretch on pass 7, attack frame 95."
+  },
+  {
+    "path": "work\\cut_handle_scraps.py",
+    "sha256": "9182f457888cbc8607c8c91b5779731b2a360afba05a1d2e023b6220c2acf365",
+    "bytes": 2648,
+    "description": "Delete only the torn scraps hanging under the shield grip."
+  },
+  {
+    "path": "work\\cut_plates.py",
+    "sha256": "8fb75d7ba4d634c631de4a2b9d8e57d1bec6117fcb455abc2638933ca67c32b5",
+    "bytes": 4797,
+    "description": "Remove the hip-to-shield plates without cutting the shield disc."
+  },
+  {
+    "path": "work\\cut_scraps.py",
+    "sha256": "7183e8ef66458d71d6b5f0d831723a3023961e04d25429f7e8fb915b3162d4d7",
+    "bytes": 3478,
+    "description": "Drop the leftover cloth scraps on the hip side of the shield."
+  },
+  {
+    "path": "work\\diag_anim_eval.py",
+    "sha256": "22442e315dc07f0581fd7773f27d5b1acf634f529afd6aa0b1cdcbf9ebf24ac7",
+    "bytes": 2434,
+    "description": null
+  },
+  {
+    "path": "work\\diag_island.json",
+    "sha256": "bfa8633f0d213dd7fdf217e644b0c75cd51b2525c361143d070889336b00cf31",
+    "bytes": 5710,
+    "keys": [
+      "mesh",
+      "armature",
+      "mesh_parent",
+      "mesh_matrix_world",
+      "arm_matrix_world",
+      "mesh_scale",
+      "arm_scale",
+      "parents",
+      "island_faces",
+      "island_verts",
+      "bbox_cm",
+      "centroid_cm",
+      "average_normal_world",
+      "boundary_edges",
+      "internal_edge_visits",
+      "dominant_weight",
+      "albedo_image",
+      "albedo_sample_count",
+      "albedo_average_rgb",
+      "albedo_guess",
+      "outside_gaps",
+      "outside_gap_cm_median",
+      "outside_gap_cm_min",
+      "rest_edge_cm",
+      "rest_a_cm",
+      "rest_b_cm",
+      "action_slots",
+      "action_layers",
+      "assigned_slot",
+      "posed_edge_cm",
+      "posed_a_cm",
+      "posed_b_cm"
+    ]
+  },
+  {
+    "path": "work\\diag_island.py",
+    "sha256": "b7b532ce24178956d0c91b7030a5e2e005c20b9072f86ce7be75a74f8128fe96",
+    "bytes": 10239,
+    "description": "World-space identity of the failing skirt edge. Does not save the blend."
+  },
+  {
+    "path": "work\\diag_native_falloff.py",
+    "sha256": "9c4d2afba6467f7957acb16830123a7a7b093e912079af55073c7fc960fac2fb",
+    "bytes": 1979,
+    "description": null
+  },
+  {
+    "path": "work\\diag_residual.py",
+    "sha256": "d9765d8ce3b51a882c55a87a0752697a3007e754a931cdb57bf8857c27dc24fd",
+    "bytes": 2898,
+    "description": null
+  },
+  {
+    "path": "work\\diag_scene.json",
+    "sha256": "9515c06e703bcd76c2db2504780eaa443299eee432b0cfe6b1ed34e8e7a88ac3",
+    "bytes": 12394,
+    "keys": [
+      "file",
+      "objects",
+      "actions",
+      "scene",
+      "mesh",
+      "armature",
+      "armature_action",
+      "mesh_counts",
+      "pair",
+      "shoulder_pair",
+      "index_ok",
+      "pair_shares_polygon_or_edge_scan",
+      "pair_linked",
+      "rest_edge_cm",
+      "uv_layer",
+      "island_truncated",
+      "island_faces",
+      "island_verts",
+      "island_bbox_cm",
+      "island_dominant_groups",
+      "island_hard_groups",
+      "bone_heads_cm"
+    ]
+  },
+  {
+    "path": "work\\diag_scene.py",
+    "sha256": "4d007e9407996fca967c8043b5734e71ea74c937fdf4e1332bb9a46a21838181",
+    "bytes": 7866,
+    "description": "Read-only scene and skirt-edge audit. Does not save the blend."
+  },
+  {
+    "path": "work\\diag_shield_hand.py",
+    "sha256": "fce03cc06703352e3722f8e3c9b99809e28538037a39899fabe0cd8e01e62b29",
+    "bytes": 1815,
+    "description": "Compare the left hand bone to the shield in rest and in the walk."
+  },
+  {
+    "path": "work\\diag_walk.py",
+    "sha256": "9792d162bd8253bc3041cc5fe2962b9f0a61abdb672da8b4c4f477e3ee176231",
+    "bytes": 2730,
+    "description": "Sample the walk cycle for pops, foot height, and a bad loop."
+  },
+  {
+    "path": "work\\diag_walk_feet.py",
+    "sha256": "b56ae631dc2826fa320b3a3cb291f43235f6fbffe65d8e97e39f720bac53a643",
+    "bytes": 1405,
+    "description": "Print the walk's vertical motion and the lowest each foot gets."
+  },
+  {
+    "path": "work\\export_anims_only.py",
+    "sha256": "f8f19b9766c4e23d670dd7b59b5bd52e9ec1c0e0931f8dc6fc5c24d1b44c45b6",
+    "bytes": 1243,
+    "description": "Re-export idle and walk with the armature in pose mode. Does not save the blend."
+  },
+  {
+    "path": "work\\export_baked_texture.py",
+    "sha256": "292014f0725aa1de7f4302754df0cec199d655ec54b48803799e61a4d11a5a49",
+    "bytes": 8627,
+    "description": "Decimate, rebake albedo onto a new UV, and re-export the test mesh."
+  },
+  {
+    "path": "work\\export_detail.py",
+    "sha256": "89a660951c704b7abc023fd885702964160b7dcf6a8cea7162eaa217281a914b",
+    "bytes": 3437,
+    "description": "Write the RRxG normal, diffuse, and mesh from the checked preview blend."
+  },
+  {
+    "path": "work\\export_gap.py",
+    "sha256": "907917fde43106c38d23cfd0452f53aef03d7e0d0392ef38cb48c7c1068488d2",
+    "bytes": 1053,
+    "description": "Export the plate-cut mesh. Leaves textures and animations as they are."
+  },
+  {
+    "path": "work\\export_solid_bake.py",
+    "sha256": "d62e44bd5ac7f78c49a78d81d91a2a4a59e4f48f03019e6cbdc8ac8340aac173",
+    "bytes": 8829,
+    "description": "Fuse the character into one surface, bake the original paint onto it, preview, then export."
+  },
+  {
+    "path": "work\\export_test_unit.py",
+    "sha256": "fade2fb732bcbd76193674bdeaa41a0c5239cc3daf5e010ecd14928128e63fcb",
+    "bytes": 5187,
+    "description": "Export a test-resolution Valkyr mesh and two animations. Does not save the blend."
+  },
+  {
+    "path": "work\\export_uv_preserve.py",
+    "sha256": "ebf1db65504651d3836bad83fae5d81e3c2e8ed3ead46b36d0e8b20ce02bca5e",
+    "bytes": 7462,
+    "description": "Reduce the mesh inside each original UV island so the painted texture still lines up."
+  },
+  {
+    "path": "work\\export_walk.py",
+    "sha256": "0caf7eeb57ce3067e94797cc1cd58573356b80c19ed97a7a62c8aa0d33a7f72a",
+    "bytes": 881,
+    "description": "Export the lowered walk. Leaves attack, defense, and idle untouched."
+  },
+  {
+    "path": "work\\find_shield_gap.py",
+    "sha256": "de2783b0bdb4699c818595a843613d2cfea76539b2f09abd37e537451893d7b4",
+    "bytes": 1263,
+    "description": "Find the sheet of faces stretched between the shield and the thigh."
+  },
+  {
+    "path": "work\\find_shield_owners.py",
+    "sha256": "a56a07703e5acf8ada475dcf19b8ce131272e3db3dc14998526acb76419069b2",
+    "bytes": 1242,
+    "description": "See which bones own the faces between the shield and the thigh."
+  },
+  {
+    "path": "work\\fix_arms_hands_rightleg.py",
+    "sha256": "2cdc0617a5bbb75e3c56006332ae2164b7683bc2904a77749ce3550e99211708",
+    "bytes": 12928,
+    "description": "Continue from the left-thigh repair.\n\n1. Islands that mix a hand bone with the body are resolved as either a rigid\n   weapon/shield or body skin. A consistent weapon island is not touched.\n2. Right thigh skin gets the same hip-to-leg falloff as the left thigh.\n3. Each shoulder cap blends spine, clavicle and upper arm along the bone."
+  },
+  {
+    "path": "work\\fix_hip_thigh.py",
+    "sha256": "299d63647774f177266753014acc95000dc163db6d2521ed69b1f3ae3af443a1",
+    "bytes": 8617,
+    "description": "Local hip/thigh skin blend for the verified body panel around 809011-809035.\n\nThe panel is thigh skin, not skirt cloth. Only this panel and its immediate\nsame-surface seam are reweighted. The blend file is written to a new path."
+  },
+  {
+    "path": "work\\fix_hip_thigh_pass2.py",
+    "sha256": "7f4e4baa1aa780c9bc3d51646da874f787039d10060bddd9a22c73f3e5ae75fa",
+    "bytes": 8266,
+    "description": "Redo the front-left thigh skin with a long hip-to-leg falloff.\n\nThe 2.5 cm band left a steep gradient: a 1.6 cm edge still posed to 9 cm.\nNative CK3 weights change across roughly the upper half of the thigh, so this\npass uses that length on this skin panel only. Source is the untouched work copy."
+  },
+  {
+    "path": "work\\fix_hip_thigh_pass3.py",
+    "sha256": "35631a576c00ee041004e25c82f199566b30d2ca473b67cd84c6d408436891d5",
+    "bytes": 7501,
+    "description": "Left-thigh skin only: hips to upper-leg falloff along the fitted thigh bone.\n\nPass 2 smoothed the original panel and then stopped mid-gradient, which moved\nthe tear to the mask border. This pass covers the left thigh skin whose weights\nare only Hips and LeftUpLeg, and it stops where the falloff is already pure.\nSkirt, hands, and the right leg are left unchanged. Source is the work copy."
+  },
+  {
+    "path": "work\\fix_pass6.py",
+    "sha256": "f9f2016651aa87fec864e92dbde7aa726967c7fbdbc4461f4dfb95f3fee15c29",
+    "bytes": 9587,
+    "description": "Pass 6 from the arm/hand/right-thigh repair."
+  },
+  {
+    "path": "work\\fix_pass8.py",
+    "sha256": "2410e48a95aca632bad0b1f456044fa3b9cc8b122201e0306e57401148002b01",
+    "bytes": 7386,
+    "description": "Pass 8. Blend the skirt across the center line and close hips borders.\n\nStarts from pass 7. Thigh and shoulder weights stay unless a vertex is\nhips-dominant cloth next to the skirt."
+  },
+  {
+    "path": "work\\fix_pass9.py",
+    "sha256": "160f6b3fccab702548ace51ccca93864c3d4386463fbbf9ae69bfeff4f243266",
+    "bytes": 5258,
+    "description": "Pass 9. Average weights across the remaining hard bone borders.\n\nOnly the two vertices of a stretching edge are pulled together, then the\npass repeats so the blend spreads a few rings instead of jumping in one edge."
+  },
+  {
+    "path": "work\\fix_skirt.py",
+    "sha256": "791f90f5b8303ca29202ea67c33802d67cfe42c24168f2f880fb56a7d41bf393",
+    "bytes": 4494,
+    "description": "Skirt-only pass on top of pass 5. Does not touch hand or shoulder weights."
+  },
+  {
+    "path": "work\\fix_walk_kick.py",
+    "sha256": "c37f000b0e3d80c90ff663682c4f382e4740a1c420b4a080dff75d434694cd19",
+    "bytes": 2993,
+    "description": "Lower the kicking foot in the walk cycle and render the result. Does not write game files."
+  },
+  {
+    "path": "work\\hip_thigh_pass1.json",
+    "sha256": "cb5bd37af0831752692eb8621934aafa3237ec15211f06e00f4fbabdf905cdbf",
+    "bytes": 2367,
+    "keys": [
+      "decision",
+      "bones",
+      "band_cm",
+      "seam_cm",
+      "island_verts",
+      "affected_verts",
+      "seam_added",
+      "hip_verts_before",
+      "leg_verts_before",
+      "hip_z_cm",
+      "leg_z_cm",
+      "weights_changed",
+      "skipped_other_bones",
+      "affected_edges",
+      "after",
+      "rest_edge_cm"
+    ]
+  },
+  {
+    "path": "work\\hip_thigh_pass2.json",
+    "sha256": "1fbdae92c6925b9f9debd58465e0282df44b88e12f573d2066e747c4cc73bd1c",
+    "bytes": 5092,
+    "keys": [
+      "source",
+      "panel",
+      "falloff_t",
+      "origin_cm",
+      "knee_cm",
+      "thigh_length_cm",
+      "island_verts",
+      "affected_verts",
+      "t_range",
+      "border_cliffs",
+      "border_cliff_count",
+      "after"
+    ]
+  },
+  {
+    "path": "work\\hip_thigh_pass3.json",
+    "sha256": "732734702ed41826bb5bb11343e372743c98235c1f1237e3f0e7adb0430324ec",
+    "bytes": 11989,
+    "keys": [
+      "affected_verts",
+      "target_pair_included",
+      "t_range",
+      "thigh_length_cm",
+      "tube_cm",
+      "sampled_border_cliffs",
+      "after"
+    ]
+  },
+  {
+    "path": "work\\hip_thigh_pass4.json",
+    "sha256": "277b45b66df6e867868c22afa2b789d8f85194f88de78d4f320420de44a52d79",
+    "bytes": 11981,
+    "keys": [
+      "affected_verts",
+      "target_pair_included",
+      "t_range",
+      "thigh_length_cm",
+      "tube_cm",
+      "sampled_border_cliffs",
+      "after"
+    ]
+  },
+  {
+    "path": "work\\hip_thigh_residual.json",
+    "sha256": "ae36049b325d4fc107e820611db54df72f62633f9e16e1a48e2efaba3a4f2ebf",
+    "bytes": 618,
+    "keys": [
+      "rest_cm",
+      "posed_cm",
+      "a",
+      "b",
+      "nearby_count",
+      "sharp_jumps"
+    ]
+  },
+  {
+    "path": "work\\mark_plates.py",
+    "sha256": "7091b5c8c59742b872b647ca6da05c4e2082237008eb19cf165cc48abdecdd4e",
+    "bytes": 2970,
+    "description": "Highlight the skirt stack and leave the shield disc alone."
+  },
+  {
+    "path": "work\\native_thigh_falloff.json",
+    "sha256": "248323002210b59b50749346a0844966f2845ac8b2e9adecc22776609b1e6315",
+    "bytes": 974,
+    "keys": [
+      "hip_cm",
+      "knee_cm",
+      "bone_length",
+      "samples",
+      "by_t"
+    ]
+  },
+  {
+    "path": "work\\pass5_clusters.json",
+    "sha256": "614d280c362b11d6eb4ceddac488bbfbf518c475ecfdc38d3459279756cf3b1b",
+    "bytes": 4632,
+    "keys": [
+      "edges_over_4cm",
+      "pairs",
+      "samples"
+    ]
+  },
+  {
+    "path": "work\\pass7_clusters.json",
+    "sha256": "eb92aee2d96b9777614da7552bbb179dbc0a18f294a1c2c95b96e26d548a557d",
+    "bytes": 4327,
+    "keys": [
+      "edges_over_8cm",
+      "pairs",
+      "samples"
+    ]
+  },
+  {
+    "path": "work\\preview_source.py",
+    "sha256": "ec743d61dc6081fd3df3b980a9914bca8fc0985e0a7b30f4e9c3057e5fd3eb8e",
+    "bytes": 2063,
+    "description": null
+  },
+  {
+    "path": "work\\render_arm.py",
+    "sha256": "5e4a7f3cdcd64314ba5f7be0f014e6660928224081b6a0241aa6b0cb2d04124a",
+    "bytes": 1654,
+    "description": "High angle of the whole figure so the shield arm can be judged."
+  },
+  {
+    "path": "work\\render_gap.py",
+    "sha256": "6e39f7c6af5b0075ff57dc3dffbb5f6517c9ed02598bbc4dd4fe0311f67c8108",
+    "bytes": 1649,
+    "description": "Close view of the shield-thigh gap in the raised-leg pose."
+  },
+  {
+    "path": "work\\render_grip.py",
+    "sha256": "d7d089602cdaad5533d3e7eac27e98db65d13d6dc6269c3478ef27539fae82ee",
+    "bytes": 1603,
+    "description": "Show the shield grip from the arm side, rest and mid-walk."
+  },
+  {
+    "path": "work\\render_walk.py",
+    "sha256": "b6fa539afe8dc66a1011de1ce82942f3ec46c7605085c904cd49bd27ac72ffce",
+    "bytes": 2078,
+    "description": "Side-view frames of the walk, plus stance-foot drift."
+  },
+  {
+    "path": "work\\repair_pass10.json",
+    "sha256": "d32ca4ae5a70f82a07e9f534a43af32e0bf3f261de52ef67e36b56de5cd04ace",
+    "bytes": 1605,
+    "keys": [
+      "probes",
+      "edges_over_8cm",
+      "pairs"
+    ]
+  },
+  {
+    "path": "work\\repair_pass5.json",
+    "sha256": "366d429de7f0fd0243ee31601956a670d19e8cad3c4698675cfc6e3abc1db287",
+    "bytes": 20112,
+    "keys": [
+      "base",
+      "mixed_islands",
+      "hand_seed_verts",
+      "weapon_verts_rewritten",
+      "body_leak_verts_rewritten",
+      "island_decisions_largest",
+      "right_thigh_verts",
+      "shoulders",
+      "attack_95",
+      "walk_21",
+      "defense_95"
+    ]
+  },
+  {
+    "path": "work\\repair_pass6.json",
+    "sha256": "83cb9d57abf73e175e43203e52adfa1ddf84cb1f4e83629393d97661eededd3e",
+    "bytes": 1185,
+    "keys": [
+      "snapped_to_hand",
+      "snapped_to_body",
+      "skirt_verts",
+      "shoulders",
+      "neck_verts",
+      "attack_95"
+    ]
+  },
+  {
+    "path": "work\\repair_pass7.json",
+    "sha256": "6cc093fa8afe279e9c982897a9da65718ef108db41bdd97b2641e0971fe5c7b6",
+    "bytes": 678,
+    "keys": [
+      "skirt_verts",
+      "attack_95"
+    ]
+  },
+  {
+    "path": "work\\repair_pass8.json",
+    "sha256": "8cd11745a5ddfc0bcf0549e744182992f3eb0bf7a901d91ad22422fe29d61510",
+    "bytes": 1658,
+    "keys": [
+      "cloth_verts",
+      "hand_harmonized",
+      "probes",
+      "edges_over_8cm",
+      "pairs"
+    ]
+  },
+  {
+    "path": "work\\repair_pass9.json",
+    "sha256": "f16f06368b91743b763f132a6f4d8db7d38bed69b23b12817d053a9c7d116a77",
+    "bytes": 1588,
+    "keys": [
+      "probes",
+      "edges_over_8cm",
+      "pairs"
+    ]
+  }
+]

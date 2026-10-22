@@ -1,0 +1,12 @@
+{
+  "source_sha256": {
+    "C:\\Users\\Administrator\\Downloads\\CK 3 models\\valkur.glb": "F6CF6292371B87252E4ADEFB7AEC44F61657BC9E4677AF70415B1C566E092D75",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\Jump Space Dev mode\\viking-warrior-3d\\14-valkur-rig\\source\\valkur.glb": "F6CF6292371B87252E4ADEFB7AEC44F61657BC9E4677AF70415B1C566E092D75"
+  },
+  "geometry_signature_matches": {
+    "vertex_signature": true,
+    "ordered_vertex_signature": true,
+    "face_signature": true
+  },
+  "height_cm": 190.2200176083743
+}

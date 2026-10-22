@@ -1,0 +1,168 @@
+{
+  "time": "2026-10-22T01:26:31.4885380+02:00",
+  "target": "C:\\Users\\Administrator\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\valkur_units_test\\gfx\\models\\units\\infantry\\valkur",
+  "backup": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\mod-before\\gfx\\models\\units\\infantry\\valkur",
+  "files": [
+    {
+      "file": "valkur_shield_back.mesh",
+      "before": null,
+      "after": "3FF381A4C0DE7777E0B7E99555ED393AA148EEB9AEA558C719F522445E761D92"
+    },
+    {
+      "file": "valkur_shield.mesh",
+      "before": null,
+      "after": "4AB75B1ECF8D6A2FF7CA2C7F99D8BE830BB180CFCB8C70DB69385353BFB51D16"
+    },
+    {
+      "file": "valkur_sword_stowed.mesh",
+      "before": null,
+      "after": "B70EEF87D64682ED5CA84FD669D3559F2711E4E7ECC030906484A8E731CD2617"
+    },
+    {
+      "file": "valkur_sword.mesh",
+      "before": null,
+      "after": "5DCA93400D3C19772E467234C6B4D5F3FF190D05C297D5CE087A40945B130516"
+    },
+    {
+      "file": "valkur.asset",
+      "before": "43EFEC0CA318A805289B6FBDDF57033CF16A4892CC9945C46F6772E83C050303",
+      "after": "58E692F35C429B3E7D189B0BE5C5CEA871F66E2320F49FAF81232C7D832C82DD"
+    },
+    {
+      "file": "valkur.mesh",
+      "before": "DE4B555D18116BCF12379B886F7AD085DEDC1C54033E511A9A0DCD337D21C5D7",
+      "after": "5CB29D178FF6993B09B1DE18E6003AC2803BA55B7987AA842C9AF24B5955DDC2"
+    },
+    {
+      "file": "vanilla_besiege_animation.anim",
+      "before": null,
+      "after": "DC29ED003C3DDDC35AB6BC36D5F3161C30228E58493B936BF641767131B1D151"
+    },
+    {
+      "file": "vanilla_despawn_animation.anim",
+      "before": null,
+      "after": "82F0EEBF7E81F6FE90F336F298691203237C61E27A89076A32871730E2833F6A"
+    },
+    {
+      "file": "vanilla_even_defensive_seq_1_animation.anim",
+      "before": null,
+      "after": "93182C8316027586EDD591C3011B98EC3FBDDF83A1AB5AE6E50A89B8838AE4E9"
+    },
+    {
+      "file": "vanilla_even_offensive_seq_1_animation.anim",
+      "before": null,
+      "after": "7000038FE0B93822791BA237008FFA138C1A7FBC07D451241354F4A627E8B88E"
+    },
+    {
+      "file": "vanilla_even_winlose_tx_defensive_1_animation.anim",
+      "before": null,
+      "after": "899990C19043D64B7EAEC78986F43F4853B48DCBCC9E6345FE7A016599A5A3DF"
+    },
+    {
+      "file": "vanilla_even_winlose_tx_offensive_1_animation.anim",
+      "before": null,
+      "after": "D05FBD78FEA337FAA170CD577E5610569AA0C095A28E379D3B7993100E8C981E"
+    },
+    {
+      "file": "vanilla_gathering_army_animation.anim",
+      "before": null,
+      "after": "A9CB162D90F71C40F58506ED3F9E5322181BAEED89CC57200F1659C6737B0140"
+    },
+    {
+      "file": "vanilla_gathering_army_viking_animation.anim",
+      "before": null,
+      "after": "94A295076222D9AFF99BE782D6695EEEE5539E50738A85094882DF9B0B04C9DF"
+    },
+    {
+      "file": "vanilla_idle_base_animation.anim",
+      "before": null,
+      "after": "FE13E380EBF7866ACA70A550DF2E69CB0E164E5893D3AC81B69918ABDAA992CF"
+    },
+    {
+      "file": "vanilla_idle_tx_battle_axes_animation.anim",
+      "before": null,
+      "after": "84A909348F7438DC8E8FD67465C202418CE18961800D119FE9537F24194CAEF1"
+    },
+    {
+      "file": "vanilla_idle_tx_battle_swords_animation.anim",
+      "before": null,
+      "after": "EC379CC2A903A7F9BBD2C355CA9C7C5DFA2060074EA80CB5F1C87B5DDE59F7C1"
+    },
+    {
+      "file": "vanilla_idle_var1_animation.anim",
+      "before": null,
+      "after": "7C135B0AD90ECF165CA31807F970128D664FC9AB2287ACDBB2BE3E7EE8AE51DD"
+    },
+    {
+      "file": "vanilla_infantry_male_sick_idle.anim",
+      "before": null,
+      "after": "FC771CE4358743B25D0562A1BC6E11198F71F5028CB7E428DD4D83C141D17493"
+    },
+    {
+      "file": "vanilla_infantry_male_sick_moving.anim",
+      "before": null,
+      "after": "F2341368F8DB1DB6D3D964905DFE4AD13CF667FDF500D86FB27003BFFD4C2F15"
+    },
+    {
+      "file": "vanilla_moving_battle_animation.anim",
+      "before": null,
+      "after": "7B8017C609486587E5B920FFE0567BE6969BFE98A1D0BBF3004FD0F11EE62885"
+    },
+    {
+      "file": "vanilla_moving_retreat_animation.anim",
+      "before": null,
+      "after": "226A9BE8162FF141E5E55F26E3A1AE091D4606F0F8C1663B7097DC3B4C93F999"
+    },
+    {
+      "file": "vanilla_moving_standard_animation.anim",
+      "before": null,
+      "after": "1263B54ED7C27F5EAA49D244182855889675EFDD3CA016F71C5F70BD85C1A02D"
+    },
+    {
+      "file": "vanilla_pursuit_defensive_seq_1_animation.anim",
+      "before": null,
+      "after": "F86AE8BDAA28EA6B2D989EB0CC41DAE603EB2E34690EF44A6D39F472BBF8FB09"
+    },
+    {
+      "file": "vanilla_pursuit_offensive_seq_1_animation.anim",
+      "before": null,
+      "after": "1C09B6615868E6E308E153AA58662CE49AFF4F1AB375DB6713FC8F2167F04A6A"
+    },
+    {
+      "file": "vanilla_spawn_animation.anim",
+      "before": null,
+      "after": "040E6631481E2EB5DB8ED0FC5AF9BCC9B0BA2FE968B4A3250B77379EB6D7426B"
+    },
+    {
+      "file": "vanilla_victorious_combat_animation.anim",
+      "before": null,
+      "after": "E99C007001D64572C8E4FB28BA0017096A1E22F5F7520C1AE8C89D2984C637FF"
+    },
+    {
+      "file": "vanilla_victorious_siege_animation.anim",
+      "before": null,
+      "after": "6DEF29EE2B369CD263BE1CBCB56D82C60EDF73F6ADB1434C5F317A512CA24E10"
+    },
+    {
+      "file": "vanilla_winlose_defensive_seq_1_animation.anim",
+      "before": null,
+      "after": "6F530A5A90D962E232D0B31598BAB1E8DEF6009C32E1D72635462EA5820F0BF5"
+    },
+    {
+      "file": "vanilla_winlose_even_tx_defensive_1_animation.anim",
+      "before": null,
+      "after": "FB37CE8DDC01E4A6DAF2BD26EB3F5F550F0A405A77D261FFA06DDFC3450B20A6"
+    },
+    {
+      "file": "vanilla_winlose_even_tx_offensive_1_animation.anim",
+      "before": null,
+      "after": "ED5759BD3071728440BB3DD955F3ABC34B5708F90FF727393BE375CD7558CC37"
+    },
+    {
+      "file": "vanilla_winlose_offensive_seq_1_animation.anim",
+      "before": null,
+      "after": "7DA1896789A05268BE064C688A1641C3E0F436425A38D76E8BCF01B724565A07"
+    }
+  ],
+  "in_game_test": false
+}

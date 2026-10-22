@@ -1,0 +1,13 @@
+00:00.046  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.562  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-smoothed.blend"
+LIMB_REPAIR {'Left': 2864, 'Right': 3670}
+00:21.953  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\limbs-walk.png'
+00:22.234  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\limbs-attack.png'
+00:22.484  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\limbs-defense.png'
+00:22.562  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_19884_6f7505788680670ee370a2034e5b0952.png.png"
+Info: Saved as "valkur-restored-limbs.blend"
+Unable to delete file
+Unable to delete file
+
+Blender quit

@@ -1,0 +1,15 @@
+{
+  "source_faces": 124741,
+  "body_faces": 104623,
+  "shield_faces": 14877,
+  "sword_faces": 5241,
+  "deleted_faces": 0,
+  "node_names": [
+    "World_node_1",
+    "Left_hip_node_1",
+    "Front_hip_node_1",
+    "back_node_1",
+    "Left_hand_node_1",
+    "Right_hand_node_1"
+  ]
+}

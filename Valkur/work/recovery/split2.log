@@ -1,0 +1,16 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.563  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\valkur-walk-fix.blend"
+FACES 124741 SPLIT_VERTS 427 ASSIGNMENTS 12893
+00:23.250  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\split2-rest.png'
+00:23.469  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\split2-idle.png'
+00:23.672  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\split2-walk.png'
+00:23.891  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\split2-attack.png'
+00:24.094  render           | Saved: 'C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\split2-defense.png'
+00:24.172  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_5396_a6657c55bcbb7d2159e17cb7923cca3b.png.png"
+Info: Saved as "valkur-restored-split2.blend"
+SAVED_RESTORED
+Unable to delete file
+Unable to delete file
+
+Blender quit

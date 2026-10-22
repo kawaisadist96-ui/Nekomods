@@ -1,0 +1,42 @@
+{
+  "rest_cm": 1.6017,
+  "posed_cm": 9.0054,
+  "a": {
+    "index": 758631,
+    "rest_cm": [
+      6.896,
+      -13.057,
+      87.07
+    ],
+    "weights": [
+      [
+        "Character1_Hips",
+        0.6228
+      ],
+      [
+        "Character1_LeftUpLeg",
+        0.3772
+      ]
+    ]
+  },
+  "b": {
+    "index": 758655,
+    "rest_cm": [
+      8.023,
+      -14.102,
+      87.522
+    ],
+    "weights": [
+      [
+        "Character1_LeftUpLeg",
+        0.8203
+      ],
+      [
+        "Character1_Hips",
+        0.1797
+      ]
+    ]
+  },
+  "nearby_count": 34,
+  "sharp_jumps": []
+}

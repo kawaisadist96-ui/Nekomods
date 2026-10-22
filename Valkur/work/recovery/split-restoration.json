@@ -1,0 +1,14 @@
+{
+  "original_faces": 124741,
+  "restored_faces": 6930,
+  "deleted_faces": 0,
+  "faces": 124741,
+  "original_vertices": 90072,
+  "vertices": 90623,
+  "face_classes": {
+    "0": 103524,
+    "1": 15627,
+    "2": 3283,
+    "3": 2307
+  }
+}

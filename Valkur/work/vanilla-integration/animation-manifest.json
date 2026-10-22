@@ -1,0 +1,184 @@
+[
+  {
+    "id": "idle_base_animation",
+    "fps": 60.33707809448242,
+    "frames": 179,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_idle_base_animation.anim",
+    "duration": 2.95009313711327
+  },
+  {
+    "id": "idle_var1_animation",
+    "fps": 60.1875,
+    "frames": 321,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_idle_var1_animation.anim",
+    "duration": 5.316718587746625
+  },
+  {
+    "id": "besiege_animation",
+    "fps": 60.35293960571289,
+    "frames": 171,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_besiege_animation.anim",
+    "duration": 2.816764205863274
+  },
+  {
+    "id": "spawn_animation",
+    "fps": 60.21428680419922,
+    "frames": 281,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_spawn_animation.anim",
+    "duration": 4.650059227812251
+  },
+  {
+    "id": "despawn_animation",
+    "fps": 60.28845977783203,
+    "frames": 209,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_despawn_animation.anim",
+    "duration": 3.4500798455707318
+  },
+  {
+    "id": "gathering_army_viking_animation",
+    "fps": 15.168539047241211,
+    "frames": 135,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_gathering_army_viking_animation.anim",
+    "duration": 8.834074236330054
+  },
+  {
+    "id": "gathering_army_animation",
+    "fps": 60.20000076293945,
+    "frames": 301,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_gathering_army_animation.anim",
+    "duration": 4.983388641162395
+  },
+  {
+    "id": "moving_standard_animation",
+    "fps": 60.75,
+    "frames": 81,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_moving_standard_animation.anim",
+    "duration": 1.316872427983539
+  },
+  {
+    "id": "moving_battle_animation",
+    "fps": 60.75,
+    "frames": 81,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_moving_battle_animation.anim",
+    "duration": 1.316872427983539
+  },
+  {
+    "id": "moving_retreat_animation",
+    "fps": 15.75,
+    "frames": 21,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_moving_retreat_animation.anim",
+    "duration": 1.2698412698412698
+  },
+  {
+    "id": "victorious_combat_animation",
+    "fps": 60.14285659790039,
+    "frames": 421,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_victorious_combat_animation.anim",
+    "duration": 6.9833729848918145
+  },
+  {
+    "id": "victorious_siege_animation",
+    "fps": 60.130435943603516,
+    "frames": 461,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_victorious_siege_animation.anim",
+    "duration": 7.650036005583514
+  },
+  {
+    "id": "infantry_male_sick_moving",
+    "fps": 30.375,
+    "frames": 81,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_infantry_male_sick_moving.anim",
+    "duration": 2.633744855967078
+  },
+  {
+    "id": "infantry_male_sick_idle",
+    "fps": 30.10714340209961,
+    "frames": 281,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_infantry_male_sick_idle.anim",
+    "duration": 9.300118455624501
+  },
+  {
+    "id": "idle_tx_battle_axes_animation",
+    "fps": 60.400001525878906,
+    "frames": 151,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_idle_tx_battle_axes_animation.anim",
+    "duration": 2.4834436458702935
+  },
+  {
+    "id": "idle_tx_battle_swords_animation",
+    "fps": 60.400001525878906,
+    "frames": 151,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_idle_tx_battle_swords_animation.anim",
+    "duration": 2.4834436458702935
+  },
+  {
+    "id": "even_offensive_seq_1_animation",
+    "fps": 30.194805145263672,
+    "frames": 155,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_even_offensive_seq_1_animation.anim",
+    "duration": 5.100215062131516
+  },
+  {
+    "id": "winlose_offensive_seq_1_animation",
+    "fps": 30.294116973876953,
+    "frames": 103,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_winlose_offensive_seq_1_animation.anim",
+    "duration": 3.3669903660818385
+  },
+  {
+    "id": "pursuit_offensive_seq_1_animation",
+    "fps": 30.239999771118164,
+    "frames": 126,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_pursuit_offensive_seq_1_animation.anim",
+    "duration": 4.13359791488444
+  },
+  {
+    "id": "even_winlose_tx_offensive_1_animation",
+    "fps": 30.461538314819336,
+    "frames": 66,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_even_winlose_tx_offensive_1_animation.anim",
+    "duration": 2.133838394116095
+  },
+  {
+    "id": "winlose_even_tx_offensive_1_animation",
+    "fps": 30.5,
+    "frames": 61,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_winlose_even_tx_offensive_1_animation.anim",
+    "duration": 1.9672131147540983
+  },
+  {
+    "id": "even_defensive_seq_1_animation",
+    "fps": 30.194805145263672,
+    "frames": 155,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_even_defensive_seq_1_animation.anim",
+    "duration": 5.100215062131516
+  },
+  {
+    "id": "winlose_defensive_seq_1_animation",
+    "fps": 30.294116973876953,
+    "frames": 103,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_winlose_defensive_seq_1_animation.anim",
+    "duration": 3.3669903660818385
+  },
+  {
+    "id": "pursuit_defensive_seq_1_animation",
+    "fps": 30.239999771118164,
+    "frames": 126,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_pursuit_defensive_seq_1_animation.anim",
+    "duration": 4.13359791488444
+  },
+  {
+    "id": "even_winlose_tx_defensive_1_animation",
+    "fps": 30.461538314819336,
+    "frames": 66,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_even_winlose_tx_defensive_1_animation.anim",
+    "duration": 2.133838394116095
+  },
+  {
+    "id": "winlose_even_tx_defensive_1_animation",
+    "fps": 30.5,
+    "frames": 61,
+    "output": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\vanilla-integration\\staged\\gfx/models/units/infantry/valkur\\vanilla_winlose_even_tx_defensive_1_animation.anim",
+    "duration": 1.9672131147540983
+  }
+]

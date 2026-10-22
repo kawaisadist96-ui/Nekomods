@@ -1,0 +1,267 @@
+{
+  "edges_over_4cm": 5758,
+  "pairs": [
+    [
+      "Character1_Head / Character1_Spine2",
+      975
+    ],
+    [
+      "Character1_Neck / Character1_Spine2",
+      904
+    ],
+    [
+      "Character1_RightArm / Character1_Spine2",
+      844
+    ],
+    [
+      "Character1_LeftArm / Character1_Spine2",
+      567
+    ],
+    [
+      "Character1_Hips / Character1_RightUpLeg",
+      327
+    ],
+    [
+      "Character1_Hips / Left_skirt_front_1",
+      323
+    ],
+    [
+      "Character1_Head / Character1_Neck",
+      207
+    ],
+    [
+      "Character1_LeftHand / Character1_LeftHand",
+      204
+    ],
+    [
+      "Character1_Hips / Character1_Hips",
+      202
+    ],
+    [
+      "Character1_RightForeArmRoll / Character1_RightForeArmRoll",
+      177
+    ],
+    [
+      "Character1_Hips / Character1_LeftUpLeg",
+      170
+    ],
+    [
+      "Character1_Spine / Character1_Spine2",
+      145
+    ],
+    [
+      "Character1_Neck / Character1_RightArm",
+      119
+    ],
+    [
+      "Character1_Hips / Character1_Spine2",
+      83
+    ],
+    [
+      "Character1_Spine2 / Character1_Spine2",
+      69
+    ],
+    [
+      "Character1_Hips / Rright_skirt_front_1",
+      61
+    ],
+    [
+      "Character1_Hips / Left_skirt_front_2",
+      56
+    ],
+    [
+      "Character1_RightHand / Character1_RightHand",
+      47
+    ],
+    [
+      "Character1_Hips / Character1_LeftHand",
+      38
+    ],
+    [
+      "Character1_RightForeArm / Character1_RightForeArm",
+      36
+    ],
+    [
+      "Character1_RightArm / Character1_RightArm",
+      30
+    ],
+    [
+      "Character1_RightUpLeg / Rright_skirt_front_1",
+      30
+    ],
+    [
+      "Character1_RightForeArm / Character1_Spine2",
+      24
+    ],
+    [
+      "Character1_Hips / Character1_RightForeArmRoll",
+      23
+    ],
+    [
+      "Left_skirt_front_1 / Rright_skirt_front_1",
+      17
+    ]
+  ],
+  "samples": [
+    {
+      "edge": [
+        613288,
+        613296
+      ],
+      "rest": 0.198,
+      "posed": 15.62,
+      "a_cm": [
+        1.66,
+        -8.8,
+        92.9
+      ],
+      "b_cm": [
+        1.67,
+        -8.99,
+        92.91
+      ],
+      "da": "Character1_Hips",
+      "db": "Left_skirt_front_2"
+    },
+    {
+      "edge": [
+        613288,
+        613297
+      ],
+      "rest": 0.148,
+      "posed": 15.53,
+      "a_cm": [
+        1.66,
+        -8.8,
+        92.9
+      ],
+      "b_cm": [
+        1.56,
+        -8.9,
+        92.91
+      ],
+      "da": "Character1_Hips",
+      "db": "Left_skirt_front_2"
+    },
+    {
+      "edge": [
+        613352,
+        613590
+      ],
+      "rest": 0.201,
+      "posed": 15.796,
+      "a_cm": [
+        1.07,
+        -10.01,
+        93.07
+      ],
+      "b_cm": [
+        0.93,
+        -10.08,
+        92.94
+      ],
+      "da": "Character1_Hips",
+      "db": "Left_skirt_front_2"
+    },
+    {
+      "edge": [
+        613592,
+        613593
+      ],
+      "rest": 0.12,
+      "posed": 15.931,
+      "a_cm": [
+        0.79,
+        -9.99,
+        92.84
+      ],
+      "b_cm": [
+        0.68,
+        -10.05,
+        92.85
+      ],
+      "da": "Left_skirt_front_2",
+      "db": "Character1_Hips"
+    },
+    {
+      "edge": [
+        642840,
+        642845
+      ],
+      "rest": 0.437,
+      "posed": 17.289,
+      "a_cm": [
+        0.02,
+        9.76,
+        78.22
+      ],
+      "b_cm": [
+        -0.06,
+        9.76,
+        78.65
+      ],
+      "da": "Character1_LeftUpLeg",
+      "db": "Character1_Hips"
+    },
+    {
+      "edge": [
+        613352,
+        673923
+      ],
+      "rest": 0.196,
+      "posed": 15.546,
+      "a_cm": [
+        1.07,
+        -10.01,
+        93.07
+      ],
+      "b_cm": [
+        1.14,
+        -9.84,
+        93.01
+      ],
+      "da": "Character1_Hips",
+      "db": "Left_skirt_front_1"
+    },
+    {
+      "edge": [
+        613352,
+        673922
+      ],
+      "rest": 0.2,
+      "posed": 15.688,
+      "a_cm": [
+        1.07,
+        -10.01,
+        93.07
+      ],
+      "b_cm": [
+        0.97,
+        -9.95,
+        92.91
+      ],
+      "da": "Character1_Hips",
+      "db": "Left_skirt_front_2"
+    },
+    {
+      "edge": [
+        826872,
+        826873
+      ],
+      "rest": 0.105,
+      "posed": 17.28,
+      "a_cm": [
+        7.59,
+        -16.81,
+        90.62
+      ],
+      "b_cm": [
+        7.58,
+        -16.91,
+        90.62
+      ],
+      "da": "Character1_Hips",
+      "db": "Character1_LeftUpLeg"
+    }
+  ]
+}

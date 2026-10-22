@@ -1,0 +1,550 @@
+{
+  "file": "C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\valkur-rig-work.blend",
+  "objects": [
+    {
+      "name": "Fill",
+      "type": "LIGHT",
+      "hide": false,
+      "parent": null
+    },
+    {
+      "name": "io_pdx_rig",
+      "type": "ARMATURE",
+      "hide": true,
+      "parent": null,
+      "bones": 61,
+      "bone_names": [
+        "root",
+        "World_node_1",
+        "Character1_Hips",
+        "Left_skirt_back_1",
+        "Left_skirt_back_2",
+        "Left_skirt_back_3",
+        "Left_skirt_front_1",
+        "Left_skirt_front_2",
+        "Left_skirt_front_3",
+        "Left_hip_node_1",
+        "Front_hip_node_1",
+        "Character1_LeftUpLeg",
+        "Character1_LeftLeg",
+        "Character1_LeftFoot",
+        "Character1_LeftToeBase",
+        "Character1_RightUpLeg",
+        "Character1_RightLeg",
+        "Character1_RightFoot",
+        "Character1_RightToeBase",
+        "Character1_Spine",
+        "Character1_Spine1",
+        "Character1_Spine2",
+        "back_node_1",
+        "Character1_LeftShoulder",
+        "Character1_LeftArm",
+        "Character1_LeftForeArm",
+        "Character1_LeftForeArmRoll",
+        "Character1_LeftHand",
+        "Left_hand_node_1",
+        "Character1_LeftHandThumb1",
+        "Character1_LeftHandThumb2",
+        "Character1_LeftHandThumb3",
+        "Character1_LeftHandIndex1",
+        "Character1_LeftHandIndex2",
+        "Character1_LeftHandIndex3",
+        "Character1_LeftHandRing1",
+        "Character1_LeftHandRing2",
+        "Character1_LeftHandRing3",
+        "Character1_RightShoulder",
+        "Character1_RightArm",
+        "Character1_RightForeArm",
+        "Character1_RightForeArmRoll",
+        "Character1_RightHand",
+        "Right_hand_node_1",
+        "Character1_RightHandThumb1",
+        "Character1_RightHandThumb2",
+        "Character1_RightHandThumb3",
+        "Character1_RightHandIndex1",
+        "Character1_RightHandIndex2",
+        "Character1_RightHandIndex3",
+        "Character1_RightHandRing1",
+        "Character1_RightHandRing2",
+        "Character1_RightHandRing3",
+        "Character1_Neck",
+        "Character1_Head",
+        "Rright_skirt_front_1",
+        "Rright_skirt_front_2",
+        "Rright_skirt_front_3",
+        "Rright_skirt_back_1",
+        "Rright_skirt_back_2",
+        "Rright_skirt_back_3"
+      ]
+    },
+    {
+      "name": "Key",
+      "type": "LIGHT",
+      "hide": false,
+      "parent": null
+    },
+    {
+      "name": "Node_1",
+      "type": "EMPTY",
+      "hide": false,
+      "parent": "Unit and ground placement - 190.22 cm"
+    },
+    {
+      "name": "Rig review camera",
+      "type": "CAMERA",
+      "hide": false,
+      "parent": null
+    },
+    {
+      "name": "Rim",
+      "type": "LIGHT",
+      "hide": false,
+      "parent": null
+    },
+    {
+      "name": "Shield attachment",
+      "type": "EMPTY",
+      "hide": false,
+      "parent": "VALKUR_CK3_FITTED_61"
+    },
+    {
+      "name": "Sword attachment",
+      "type": "EMPTY",
+      "hide": false,
+      "parent": "VALKUR_CK3_FITTED_61"
+    },
+    {
+      "name": "Unit and ground placement - 190.22 cm",
+      "type": "EMPTY",
+      "hide": false,
+      "parent": null
+    },
+    {
+      "name": "unit_fp1_infantry_01_LOD_0",
+      "type": "MESH",
+      "hide": true,
+      "parent": null,
+      "verts": 3032,
+      "polys": 4851,
+      "materials": [
+        "PDXmat_unit_fp1_infantry_01_LOD_0Shape",
+        "PDXmat_unit_fp1_infantry_01_LOD_0Shape-001"
+      ],
+      "modifiers": [
+        {
+          "name": "io_pdx_rig_skin",
+          "type": "ARMATURE",
+          "object": "io_pdx_rig",
+          "use_vertex_groups": true,
+          "show_viewport": true
+        }
+      ]
+    },
+    {
+      "name": "unit_fp1_infantry_01_LOD_1",
+      "type": "MESH",
+      "hide": true,
+      "parent": null,
+      "verts": 1654,
+      "polys": 2421,
+      "materials": [
+        "PDXmat_unit_fp1_infantry_01_LOD_1Shape",
+        "PDXmat_unit_fp1_infantry_01_LOD_1Shape-001"
+      ],
+      "modifiers": [
+        {
+          "name": "io_pdx_rig_skin",
+          "type": "ARMATURE",
+          "object": "io_pdx_rig",
+          "use_vertex_groups": true,
+          "show_viewport": true
+        }
+      ]
+    },
+    {
+      "name": "unit_fp1_infantry_01_LOD_2",
+      "type": "MESH",
+      "hide": true,
+      "parent": null,
+      "verts": 1148,
+      "polys": 1577,
+      "materials": [
+        "PDXmat_unit_fp1_infantry_01_LOD_2Shape",
+        "PDXmat_unit_fp1_infantry_01_LOD_2Shape-001"
+      ],
+      "modifiers": [
+        {
+          "name": "io_pdx_rig_skin",
+          "type": "ARMATURE",
+          "object": "io_pdx_rig",
+          "use_vertex_groups": true,
+          "show_viewport": true
+        }
+      ]
+    },
+    {
+      "name": "Valkur Normal - approved textured source",
+      "type": "MESH",
+      "hide": false,
+      "parent": "Node_1",
+      "verts": 1420719,
+      "polys": 2623773,
+      "materials": [
+        "Material_0"
+      ],
+      "modifiers": [
+        {
+          "name": "CK3 fitted skin - weights review",
+          "type": "ARMATURE",
+          "object": "VALKUR_CK3_FITTED_61",
+          "use_vertex_groups": true,
+          "show_viewport": true
+        }
+      ]
+    },
+    {
+      "name": "VALKUR_CK3_FITTED_61",
+      "type": "ARMATURE",
+      "hide": false,
+      "parent": null,
+      "bones": 61,
+      "bone_names": [
+        "root",
+        "World_node_1",
+        "Character1_Hips",
+        "Left_skirt_back_1",
+        "Left_skirt_back_2",
+        "Left_skirt_back_3",
+        "Left_skirt_front_1",
+        "Left_skirt_front_2",
+        "Left_skirt_front_3",
+        "Left_hip_node_1",
+        "Front_hip_node_1",
+        "Character1_LeftUpLeg",
+        "Character1_LeftLeg",
+        "Character1_LeftFoot",
+        "Character1_LeftToeBase",
+        "Character1_RightUpLeg",
+        "Character1_RightLeg",
+        "Character1_RightFoot",
+        "Character1_RightToeBase",
+        "Character1_Spine",
+        "Character1_Spine1",
+        "Character1_Spine2",
+        "back_node_1",
+        "Character1_LeftShoulder",
+        "Character1_LeftArm",
+        "Character1_LeftForeArm",
+        "Character1_LeftForeArmRoll",
+        "Character1_LeftHand",
+        "Left_hand_node_1",
+        "Character1_LeftHandThumb1",
+        "Character1_LeftHandThumb2",
+        "Character1_LeftHandThumb3",
+        "Character1_LeftHandIndex1",
+        "Character1_LeftHandIndex2",
+        "Character1_LeftHandIndex3",
+        "Character1_LeftHandRing1",
+        "Character1_LeftHandRing2",
+        "Character1_LeftHandRing3",
+        "Character1_RightShoulder",
+        "Character1_RightArm",
+        "Character1_RightForeArm",
+        "Character1_RightForeArmRoll",
+        "Character1_RightHand",
+        "Right_hand_node_1",
+        "Character1_RightHandThumb1",
+        "Character1_RightHandThumb2",
+        "Character1_RightHandThumb3",
+        "Character1_RightHandIndex1",
+        "Character1_RightHandIndex2",
+        "Character1_RightHandIndex3",
+        "Character1_RightHandRing1",
+        "Character1_RightHandRing2",
+        "Character1_RightHandRing3",
+        "Character1_Neck",
+        "Character1_Head",
+        "Rright_skirt_front_1",
+        "Rright_skirt_front_2",
+        "Rright_skirt_front_3",
+        "Rright_skirt_back_1",
+        "Rright_skirt_back_2",
+        "Rright_skirt_back_3"
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "name": "CK3_SOURCE_attack",
+      "frame_range": [
+        1.0,
+        155.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "CK3_SOURCE_defense",
+      "frame_range": [
+        1.0,
+        155.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "CK3_SOURCE_idle",
+      "frame_range": [
+        1.0,
+        179.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "CK3_SOURCE_walk",
+      "frame_range": [
+        1.0,
+        81.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "VALKUR_TEST_attack",
+      "frame_range": [
+        1.0,
+        309.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "VALKUR_TEST_defense",
+      "frame_range": [
+        1.0,
+        309.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "VALKUR_TEST_idle",
+      "frame_range": [
+        1.0,
+        179.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "VALKUR_TEST_run",
+      "frame_range": [
+        1.0,
+        49.0
+      ],
+      "fcurves": null
+    },
+    {
+      "name": "VALKUR_TEST_walk",
+      "frame_range": [
+        1.0,
+        81.0
+      ],
+      "fcurves": null
+    }
+  ],
+  "scene": {
+    "fps": 60,
+    "frame_current": 1,
+    "frame_start": 1,
+    "frame_end": 155,
+    "unit": "METRIC",
+    "scale_length": 0.009999999776482582
+  },
+  "mesh": "Valkur Normal - approved textured source",
+  "armature": "VALKUR_CK3_FITTED_61",
+  "armature_action": null,
+  "mesh_counts": {
+    "verts": 1420719,
+    "polys": 2623773,
+    "edges": 4041849
+  },
+  "pair": [
+    {
+      "index": 809011,
+      "co_m": [
+        512900.0,
+        -310500.0,
+        714500.0
+      ],
+      "co_cm": [
+        51290000.0,
+        -31050000.0,
+        71450000.0
+      ],
+      "weights": [
+        [
+          "Character1_Hips",
+          1.0
+        ]
+      ]
+    },
+    {
+      "index": 809035,
+      "co_m": [
+        513200.0,
+        -310900.0,
+        714700.0
+      ],
+      "co_cm": [
+        51320000.0,
+        -31090000.0,
+        71470000.0
+      ],
+      "weights": [
+        [
+          "Character1_LeftUpLeg",
+          1.0
+        ]
+      ]
+    }
+  ],
+  "shoulder_pair": [
+    {
+      "index": 221522,
+      "co_m": [
+        292000.0,
+        -126800.0,
+        1211200.0
+      ],
+      "co_cm": [
+        29200000.0,
+        -12680000.0,
+        121120000.0
+      ],
+      "weights": [
+        [
+          "Character1_RightArm",
+          0.839216
+        ],
+        [
+          "Character1_Spine2",
+          0.160784
+        ]
+      ]
+    },
+    {
+      "index": 221525,
+      "co_m": [
+        292700.0,
+        -127700.0,
+        1215900.0
+      ],
+      "co_cm": [
+        29270000.0,
+        -12770000.0,
+        121590000.0
+      ],
+      "weights": [
+        [
+          "Character1_RightArm",
+          0.878431
+        ],
+        [
+          "Character1_Spine2",
+          0.086275
+        ],
+        [
+          "Character1_RightShoulder",
+          0.035294
+        ]
+      ]
+    }
+  ],
+  "index_ok": true,
+  "pair_shares_polygon_or_edge_scan": "deferred",
+  "pair_linked": true,
+  "rest_edge_cm": 53851.64807134504,
+  "uv_layer": "UVMap",
+  "island_truncated": false,
+  "island_faces": 1808,
+  "island_verts": 980,
+  "island_bbox_cm": {
+    "min": [
+      49050000.0,
+      -34740000.0,
+      67430000.0
+    ],
+    "max": [
+      59740000.0,
+      -30630000.0,
+      80600000.0
+    ]
+  },
+  "island_dominant_groups": [
+    [
+      "Character1_LeftUpLeg",
+      880
+    ],
+    [
+      "Character1_Hips",
+      100
+    ]
+  ],
+  "island_hard_groups": [
+    [
+      "Character1_LeftUpLeg",
+      865
+    ],
+    [
+      "Character1_Hips",
+      100
+    ]
+  ],
+  "bone_heads_cm": {
+    "Character1_Hips": [
+      0.0,
+      0.0,
+      10000.0
+    ],
+    "Character1_LeftUpLeg": [
+      1300.0,
+      0.0,
+      9900.0
+    ],
+    "Character1_RightUpLeg": [
+      -1300.0,
+      0.0,
+      9900.0
+    ],
+    "Left_skirt_front_1": [
+      1400.0,
+      -1200.0,
+      10800.0
+    ],
+    "Left_skirt_front_2": [
+      1500.0,
+      -1200.0,
+      9600.0
+    ],
+    "Left_skirt_front_3": [
+      1600.0,
+      -1200.0,
+      8400.0
+    ],
+    "Left_skirt_back_1": [
+      1400.0,
+      1300.0,
+      10800.0
+    ],
+    "Rright_skirt_front_1": [
+      -1400.0,
+      -1200.0,
+      10800.0
+    ],
+    "Rright_skirt_front_2": [
+      -1500.0,
+      -1200.0,
+      9600.0
+    ],
+    "Rright_skirt_front_3": [
+      -1600.0,
+      -1200.0,
+      8400.0
+    ]
+  }
+}

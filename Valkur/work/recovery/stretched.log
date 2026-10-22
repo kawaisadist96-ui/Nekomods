@@ -1,0 +1,60 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.656  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-v3.blend"
+EDGE [49768, 49782] 2.1525748641762057 27.738961893187994
+ V [20.92, -10.8, 79.25] [('Character1_Hips', 0.077), ('Character1_LeftUpLeg', 0.923)]
+ V [21.52, -10.99, 81.31] [('Character1_LeftHand', 0.985), ('Character1_LeftUpLeg', 0.013)]
+EDGE [49776, 49779] 0.9278200745257781 26.43635942033133
+ V [20.36, -12.1, 80.04] [('Character1_Hips', 0.117), ('Character1_LeftUpLeg', 0.883)]
+ V [20.92, -11.6, 80.6] [('Character1_LeftHand', 0.922), ('Character1_LeftUpLeg', 0.069)]
+EDGE [49774, 49775] 1.4807212302670194 26.624749217178547
+ V [19.82, -12.7, 80.03] [('Character1_Hips', 0.121), ('Character1_LeftUpLeg', 0.879)]
+ V [20.4, -12.66, 81.4] [('Character1_LeftHand', 0.91), ('Character1_LeftUpLeg', 0.08), ('Character1_Hips', 0.011)]
+EDGE [49767, 49779] 1.7625002158268104 26.78117782677003
+ V [20.39, -11.46, 78.93] [('Character1_Hips', 0.067), ('Character1_LeftUpLeg', 0.933)]
+ V [20.92, -11.6, 80.6] [('Character1_LeftHand', 0.922), ('Character1_LeftUpLeg', 0.069)]
+EDGE [49787, 49782] 1.3891932100750686 26.343290655479482
+ V [21.51, -10.23, 80.14] [('Character1_Hips', 0.116), ('Character1_LeftUpLeg', 0.884)]
+ V [21.52, -10.99, 81.31] [('Character1_LeftHand', 0.985), ('Character1_LeftUpLeg', 0.013)]
+EDGE [49787, 52551] 1.2349518996540363 26.000234494925984
+ V [21.51, -10.23, 80.14] [('Character1_Hips', 0.116), ('Character1_LeftUpLeg', 0.884)]
+ V [22.03, -9.65, 81.1] [('Character1_LeftHand', 0.973), ('Character1_LeftUpLeg', 0.024)]
+EDGE [49787, 49786] 2.356649434262107 26.898851222208737
+ V [21.51, -10.23, 80.14] [('Character1_Hips', 0.116), ('Character1_LeftUpLeg', 0.884)]
+ V [22.04, -10.55, 82.42] [('Character1_LeftHand', 1.0)]
+EDGE [49776, 49775] 1.469707562116015 25.90504762292303
+ V [20.36, -12.1, 80.04] [('Character1_Hips', 0.117), ('Character1_LeftUpLeg', 0.883)]
+ V [20.4, -12.66, 81.4] [('Character1_LeftHand', 0.91), ('Character1_LeftUpLeg', 0.08), ('Character1_Hips', 0.011)]
+EDGE [49779, 49768] 1.5722618349964361 25.812877464926984
+ V [20.92, -11.6, 80.6] [('Character1_LeftHand', 0.922), ('Character1_LeftUpLeg', 0.069)]
+ V [20.92, -10.8, 79.25] [('Character1_Hips', 0.077), ('Character1_LeftUpLeg', 0.923)]
+EDGE [49772, 52551] 2.114307589122782 26.30295887920259
+ V [21.48, -9.49, 79.07] [('Character1_Hips', 0.067), ('Character1_LeftUpLeg', 0.933)]
+ V [22.03, -9.65, 81.1] [('Character1_LeftHand', 0.973), ('Character1_LeftUpLeg', 0.024)]
+EDGE [52551, 49773] 1.027914087491043 24.780415359179997
+ V [22.03, -9.65, 81.1] [('Character1_LeftHand', 0.973), ('Character1_LeftUpLeg', 0.024)]
+ V [22.01, -9.0, 80.31] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+EDGE [49773, 52553] 1.615500606180829 25.294796527366334
+ V [22.01, -9.0, 80.31] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+ V [22.33, -9.3, 81.86] [('Character1_LeftHand', 0.991)]
+EDGE [49413, 49422] 0.8181015666654305 23.769734344614214
+ V [18.65, -15.38, 85.41] [('Character1_Hips', 0.5), ('Character1_LeftUpLeg', 0.5)]
+ V [19.32, -14.93, 85.53] [('Character1_LeftHand', 0.888), ('Character1_LeftUpLeg', 0.056), ('Character1_Hips', 0.056)]
+EDGE [49774, 49369] 1.2973679541212315 22.860690912202347
+ V [19.82, -12.7, 80.03] [('Character1_Hips', 0.121), ('Character1_LeftUpLeg', 0.879)]
+ V [19.81, -13.19, 81.23] [('Character1_LeftHand', 0.79), ('Character1_LeftUpLeg', 0.184), ('Character1_Hips', 0.025)]
+EDGE [50386, 53002] 2.1379122025572337 23.380690766080207
+ V [22.03, -8.04, 79.66] [('Character1_Hips', 0.089), ('Character1_LeftUpLeg', 0.911)]
+ V [22.52, -8.03, 81.74] [('Character1_LeftHand', 0.926), ('Character1_LeftUpLeg', 0.06), ('Character1_Hips', 0.014)]
+EDGE [53001, 49773] 0.579318152028979 21.751424267973153
+ V [22.11, -8.44, 80.18] [('Character1_LeftHand', 0.859), ('Character1_LeftUpLeg', 0.124), ('Character1_Hips', 0.017)]
+ V [22.01, -9.0, 80.31] [('Character1_Hips', 0.122), ('Character1_LeftUpLeg', 0.878)]
+EDGE [50378, 53001] 2.1752297483339555 23.220378769874703
+ V [21.49, -8.54, 78.1] [('Character1_Hips', 0.033), ('Character1_LeftUpLeg', 0.967)]
+ V [22.11, -8.44, 80.18] [('Character1_LeftHand', 0.859), ('Character1_LeftUpLeg', 0.124), ('Character1_Hips', 0.017)]
+EDGE [53001, 50386] 0.661925177918959 21.55661492244755
+ V [22.11, -8.44, 80.18] [('Character1_LeftHand', 0.859), ('Character1_LeftUpLeg', 0.124), ('Character1_Hips', 0.017)]
+ V [22.03, -8.04, 79.66] [('Character1_Hips', 0.089), ('Character1_LeftUpLeg', 0.911)]
+TOTAL 174
+
+Blender quit

@@ -1,0 +1,26 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.656  blend            | Read blend: "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\valkur-restored-v4.blend"
+Failed creating new settings file
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh\settings.py", line 31, in __init__
+    os.makedirs(path.dirname(filepath))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+FileExistsError: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\Administrator\\Documents\\ChatGPT\\Neko\\Valkur-Cursor-Devir\\work\\recovery\\io_pdx_mesh'
+[io_pdx.updater] ERROR:  Failed during update check. (URL can't contain control characters. '/repos/STNH Team/io_pdx_mesh/releases' (found at least ' '))
+[io_pdx] INFO:  Running io_pdx_mesh from d:\blender\blender.exe ((5, 2, 2))
+[io_pdx] INFO:  C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\io_pdx_mesh
+00:01.110  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_17128_b63a55b179c7e0949b830203303dcff6.png.png"
+[io_pdx] INFO:  exporting - C:\Users\Administrator\Documents\ChatGPT\Neko\Valkur-Cursor-Devir\work\recovery\export\valkur.mesh
+[io_pdx] INFO:  writing node 1/1 - valkurShape
+[io_pdx] INFO:  writing mesh - 0
+[io_pdx] INFO:  writing material -
+[io_pdx] INFO:  writing skinning data -
+[io_pdx] INFO:  writing skeleton -
+[io_pdx] INFO:  writing .mesh file -
+[io_pdx] INFO:  export finished! (12.6299 sec)
+Info: Saved as "valkur-restored-final.blend"
+EXPORT_OK 12793897
+
+Blender quit
