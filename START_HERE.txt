@@ -32,6 +32,17 @@ DOSYA VE KLASÖRLER NE İŞE YARAR?
 8. Higanbana/
    Higanbana'ya ait model, rig, animasyon, script ve mod çalışmaları için alan. Klasörün README.md dosyasını oku. Kaynak dosyalar henüz yüklenmemiş olabilir.
 
+ZORUNLU BAŞLANGIÇ RAPORU VE ONAY KAPISI
+====================================
+Her yeni görevde, herhangi bir değişiklik veya icraattan ÖNCE:
+1) START_HERE.txt ve ilgili durum/devir dosyalarını OKU; mevcut durumu incele.
+2) Kullanıcıya kısa BAŞLANGIÇ RAPORU sun: hangi projede çalışılacak, son doğrulanmış durum, yapılması planlanan somut değişiklikler, riskler ve beklenen test.
+3) Kullanıcının açık ONAYINI bekle. Onay verilmeden kod, model, animasyon veya dosya değiştirme; terminal komutu, build/test, commit/push veya GitHub'da yazma işlemi yapma.
+4) Onaydan sonra çalış; her anlamlı aşamanın sonucunu ilgili kayıt dosyalarına işle.
+5) İş sonunda HANDOVER.md ve PROJECT_STATUS.md'yi güncelle, yapılan testleri ve sonraki adımı belirt.
+İSTİSNA: Salt-okunur inceleme ve başlangıç raporunu hazırlama serbesttir. Kullanıcının açıkça verdiği belirli bir işlem onayı, yalnızca o işlem için geçerlidir.
+Bu kural tüm ajanlar için geçerlidir; önceki genel çalışma talimatlarıyla çelişirse bu kural önceliklidir.
+
 HER OTURUMDA UYGULANACAK PROTOKOL
 A. BAŞLANGIÇ
    1) START_HERE.txt, AGENTS.md, PROJECT_STATUS.md, HANDOVER.md ve KNOWN_ISSUES.md dosyalarını oku.
