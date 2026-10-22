@@ -1,0 +1,77 @@
+NEKOMODS — TÜM YAPAY ZEKÂ AJANLARI İÇİN BAŞLANGIÇ TALİMATI
+=========================================================
+Depo: https://github.com/kawaisadist96-ui/Nekomods
+Ana amaç: KESİNTİSİZ PROJE GELİŞTİRME
+
+BU DOSYAYI OKUYAN HER AJANA:
+Sen Nekomods projesini geliştirmek üzere görevlendirilen yapay zekâ ajanlarından birisin. Kullanıcı, Codex, Claude Code, Cursor, Copilot, Gemini ve diğer ajanları aynı ortak GitHub deposu üzerinden sırayla (gerektiğinde farklı alanlarda paralel) çalıştırır. Bunun temel sebebi KULLANIM KOTALARIDIR: Bir ajanın kotası dolduğunda başka bir ajan öncekinin işini kaybetmeden devralabilmelidir. Kullanıcı her defasında projeyi baştan anlatmak zorunda kalmamalıdır.
+
+GitHub, ajanlar arasında ortak ve kalıcı çalışma alanıdır. Sohbet geçmişinin, yerel bilgisayardaki dosyaların veya henüz commit/push yapılmamış değişikliklerin diğer ajanlara otomatik aktarıldığını ASLA varsayma.
+
+PROJE NEDİR?
+Crusader Kings III (CK3) için özgün modlar, karakterler, 3D modeller, Blender rigging, animasyonlar, Blender Python otomasyonu ve oyun entegrasyonu geliştiriliyor.
+- Valkür: İskandinav temalı kadın savaşçı; kullanıcı tarafından daha önce yürüyüş/diz hareketleri, kalkan kavrama ve kılıç konumu sorunları bildirilmiştir.
+- Higanbana: Japon ninja temalı karakter; ninja koşusu, kunai hareketleri ve özel dövüş animasyonları planlanmaktadır.
+Bunlar başlangıç bağlamıdır; güncel ve doğrulanmış durumu PROJECT_STATUS.md ile gerçek dosyalardan öğren. Mevcut olmayan dosyaları varmış gibi gösterme.
+
+DOSYA VE KLASÖRLER NE İŞE YARAR?
+1. README.md
+   Deponun genel tanıtımı. Projeye giriş için oku.
+2. START_HERE.txt (BU DOSYA)
+   Tüm ajanlar için ortak başlangıç ve süreklilik talimatı. Her yeni oturumun başında oku.
+3. AGENTS.md
+   Teknik çalışma kuralları: güvenli değişiklikler, testler, commit/push, iş bölümü, devir ve gizlilik. Buradaki kurallara uy.
+4. PROJECT_STATUS.md
+   Her modun GERÇEK, GÜNCEL durumu. Tamamlanan, devam eden ve bekleyen işleri burada tut. Kullanıcı beyanı ile depoda doğruladığın sonucu açıkça ayır.
+5. HANDOVER.md
+   Görev devri kayıtları. Son ajanın ne yaptığı, hangi dosyaları değiştirdiği, neyi test ettiği, nerede kaldığı ve sonraki ajanın ilk ne yapacağı burada yazmalı. Yeni göreve başlamadan önce en son devri oku; işi bırakmadan önce kendi devrini ekle/güncelle.
+6. KNOWN_ISSUES.md
+   Bilinen hatalar, belirtiler, tekrarlama adımları, denenen çözümler ve açık sorunlar. Çözülmüş hatayı çözülmüş olarak işaretle; başarısız denemeleri de kaydet ki diğer ajanlar aynı hatayı tekrarlamasın.
+7. Valkur/
+   Valkür'e ait model, rig, animasyon, script ve mod çalışmaları için alan. Klasörün README.md dosyasını oku. Kaynak dosyalar henüz yüklenmemiş olabilir.
+8. Higanbana/
+   Higanbana'ya ait model, rig, animasyon, script ve mod çalışmaları için alan. Klasörün README.md dosyasını oku. Kaynak dosyalar henüz yüklenmemiş olabilir.
+
+HER OTURUMDA UYGULANACAK PROTOKOL
+A. BAŞLANGIÇ
+   1) START_HERE.txt, AGENTS.md, PROJECT_STATUS.md, HANDOVER.md ve KNOWN_ISSUES.md dosyalarını oku.
+   2) İlgili mod klasöründeki README.md'yi ve gerçek kaynakları incele.
+   3) Son commitleri ve varsa açık PR/branchleri kontrol et.
+   4) Önceki ajanın bıraktığı somut sonraki adımdan devam et; kullanıcı yeni öncelik verdiyse onu uygula.
+   5) Dosya eksikse bunu açıkça söyle; hayali kod, test veya sonuç üretme.
+
+B. ÇALIŞIRKEN
+   1) Gerçek dosyaları değiştir; sadece öneri listesiyle yetinme (kullanıcı özellikle plan istemediyse).
+   2) Mevcut çalışan sistemi koru; ilgisiz dosyaları bozma.
+   3) Gerekliyse küçük ve anlamlı commitler yap.
+   4) Aynı anda başka ajan aynı dosyada çalışıyorsa çakışmayı önlemek için ayrı branch/PR kullan.
+   5) CK3 veya Blender'da test etmediğin şeyi 'oyunda çalışıyor' diye raporlama.
+   6) Üçüncü taraf oyun varlıklarını dağıtım hakkı olmadan depoya ekleme. Gizli anahtar/token ekleme.
+   7) Büyük 3D/ikili dosyalar için Git LFS veya uygun varlık yönetimini değerlendir.
+
+C. İŞİ BİTİRİRKEN / KOTA BİTMEDEN ÖNCE
+   1) Kaynak değişikliklerini mümkünse commit edip GitHub'a push et.
+   2) PROJECT_STATUS.md'yi yalnızca doğruladığın ilerlemeyle güncelle.
+   3) HANDOVER.md'ye şu bilgileri yaz:
+      - Tarih, ajan, üzerinde çalışılan görev
+      - Değiştirilen dosyalar ve commit SHA/PR bağlantısı
+      - Tamamlanan işler ve henüz bitmeyenler
+      - Yapılan testler ve sonuçları (test yapılmadıysa açıkça belirt)
+      - Engeller, hatalar ve denenen çözümler
+      - SONRAKİ AJANIN İLK SOMUT ADIMI
+   4) Yeni veya çözülmüş sorunları KNOWN_ISSUES.md'ye işle.
+   5) Push başarısızsa veya yerel değişiklik kaldıysa bunu net olarak bildir; 'GitHub'a kaydedildi' deme.
+   6) Kullanıcıya kısa, doğrulanabilir bir sonuç özeti ver.
+
+ÖNCELİK SIRASI
+1) Projenin sürekliliği ve iş kaybını önlemek.
+2) Çalışır mod/animasyon üretmek ve test etmek.
+3) Değişiklikleri GitHub'a kaydetmek.
+4) Bir sonraki ajanın işi açıklama istemeden devralabilmesini sağlamak.
+
+ÖNEMLİ: BU BİR KOTA ATLAMA YÖNTEMİ DEĞİLDİR.
+Her ajanın kendi erişim ve kullanım sınırlarına uy. Amaç, yetkili ve erişimi olan başka bir ajanın kaydedilmiş iş üzerinden ilerlemesini sağlamaktır.
+
+KULLANICININ KISA EMRİ:
+'Nekomods/START_HERE.txt dosyasını oku ve kaldığımız yerden devam et.'
+Bu emir verildiğinde yukarıdaki protokolü uygula.
